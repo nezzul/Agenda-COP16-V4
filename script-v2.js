@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    fetch('https://raw.githubusercontent.com/nezzul/agendaCOP16/main/data-v2.json')
+    fetch('https://raw.githubusercontent.com/nezzul/Agenda-COP16-V4/refs/heads/main/data-v2.json')
         .then(response => response.json())
         .then(data => {
             data.sort((a, b) => new Date(a.fechaISO) - new Date(b.fechaISO));
@@ -61,7 +61,7 @@ function displayCards(data) {
 
 function filterCards() {
     const filterDate = document.getElementById('dateFilter').value;
-    fetch('https://raw.githubusercontent.com/nezzul/agendaCOP16/main/data-v2.json')
+    fetch('https://raw.githubusercontent.com/nezzul/Agenda-COP16-V4/refs/heads/main/data-v2.json')
         .then(response => response.json())
         .then(data => {
             if (filterDate) {

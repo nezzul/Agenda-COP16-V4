@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calendario cultural COP16</title>
+    <link rel="stylesheet" href="styles-v2.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans&amp;display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+</head>
+<body class="bkg-body">
+    <div class="bkg-color" style="padding-bottom: 25px;">
+    <nav class="navbar navbar-expand-md bkg-body py-3" style="border-style: none;--bs-body-bg: var(--bs-primary);color: var(--bs-primary);">
+        <div class="container">
+            <div class="collapse navbar-collapse" id="navcol-2">
+                <a href="https://www.mincultura.gov.co" target="_blank"><img src="img/logo-cop-16-minculturas.png" style="width: 206px;"></a>
+                <ul class="navbar-nav ms-auto" style="color: var(--bs-white);font-family: 'Nunito Sans', sans-serif;font-weight: bold;">
+                    <li class="nav-item"><a class="nav-link active" href="/especiales/cop-16-colombia/Paginas/index.aspx#guardianes" style="border-style: none;color: var(--bs-white);" data-bs-target="#">Guardianes</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/especiales/cop-16-colombia/Paginas/index.aspx#noticias2" style="border-style: none;font-weight: bold;color: var(--bs-white);">Noticias</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/especiales/cop-16-colombia/Paginas/index.aspx#zona-verde" style="color: var(--bs-white);">ZONA VERDE</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/especiales/cop-16-colombia/Paginas/index.aspx#agenda" style="color: var(--bs-white);">Agenda</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/especiales/cop-16-colombia/Paginas/index.aspx#videos" style="color: var(--bs-white);">Videos</a></li>
+                </ul>
+            </div><button data-bs-target="#navcol-2" data-bs-toggle="collapse" class="navbar-toggler"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+        </div>
+    </nav>
+    <div class="container">
+        <hr style="opacity: 1;border-top-color: var(--bs-white);">
+        <h1 style="color: var(--bs-white);">Agenda Cultural COP16</h1>
+        <hr style="opacity: 1; border: none; border-bottom: 1px solid var(--bs-white);">
+        <h6 style="color: white;">Encuentra aquí todos los eventos culturales de la COP16. También puedes seleccionar un día específico del calendario</h6>
+        <input type="date" id="dateFilter" onchange="filterCards()">
+        <div id="cardsContainer"></div>
+    </div>
+</div>
+    <script src="script-v2.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script src="https://code.iconify.design/iconify-icon/2.1.0/iconify-icon.min.js"></script>
+
+    <footer class="page-footer" style="font-family: 'Nunito Sans', sans-serif;"></footer>
+        <div class="container" style="padding-top: 30px; padding-bottom: 30px;">
+            <div class="links" style="text-align: center; font-size: 23px; padding-bottom:10px;"><a href="https://www.mincultura.gov.co" style="color: var(--bs-white);">Ministerio de las Culturas, las Artes y los Saberes</a></div>
+            <div class="social-icons" style="text-align: center;"><a href="https://www.facebook.com/MinisterioCultura/" target="_blank"><i class="fa fa-facebook" aria-hidden="true" style="font-size: 40px;margin-right: 20px;color: var(--bs-white);"></i></a><a href="https://www.instagram.com/mincultura/" target="_blank"><i class="fa fa-instagram" aria-hidden="true" style="font-size: 40px;margin-right: 20px;color: var(--bs-white);"></i></a><a href="http://www.twitter.com/mincultura" target="_blank"><i class="fa fa-twitter" aria-hidden="true" style="font-size: 40px;color: var(--bs-white);"></i></a></div>
+        </div>
+    </footer>
+</body>
+</html>

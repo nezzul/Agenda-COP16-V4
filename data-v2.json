@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "titulo": "Evento 1",
+        "fecha": "20 de octubre",
+        "fechaISO": "2024-10-20T10:00:00",
+        "hora": "10:00 AM",
+        "lugar": "Lugar 1",
+        "descripcion": "Descripción del evento 1."
+    },
+    {
+        "id": "5",
+        "titulo": "Evento 1",
+        "fecha": "20 de octubre",
+        "fechaISO": "2024-10-20T10:00:00",
+        "hora": "10:00 AM",
+        "lugar": "Lugar 1",
+        "descripcion": "Descripción del evento 1."
+    },
+    {
+        "id": "2",
+        "titulo": "Evento 2",
+        "fecha": "21 de octubre",
+        "fechaISO": "2024-10-21T10:00:00",
+        "hora": "10:00 AM",
+        "lugar": "Lugar 1",
+        "descripcion": "Descripción del evento 1."
+    },
+    {
+        "id": "3",
+        "titulo": "Evento 3",
+        "fecha": "22 de octubre",
+        "fechaISO": "2024-10-22T10:00:00",
+        "hora": "10:00 AM",
+        "lugar": "Lugar 1",
+        "descripcion": "Descripción del evento 1."
+    },
+    {
+        "id": "4",
+        "titulo": "Mapping: La herida de la naturaleza",
+        "fecha": "23 de octubre",
+        "fechaISO": "2024-10-23T14:00:00",
+        "hora": "1:00 p.m.",
+        "lugar": "Centro de eventos Valle del Pacifico - Cl. 15 #26-120, Arroyo Hondo, Yumbo, Valle del Cauca.",
+        "descripcion": "Es un evento destacado de la COP16 que busca visibilizar las cicatrices que la actividad humana ha dejado en nuestro planeta. A través de una serie de mapas interactivos y visualizaciones impactantes, los asistentes podrán explorar cómo la deforestación, la contaminación y el cambio climático han transformado paisajes naturales en todo el mundo. Este evento no solo pretende informar, sino también inspirar a la acción, mostrando tanto los daños como las iniciativas de restauración que están en marcha para sanar estas heridas."
+    }
+]

@@ -3,7 +3,7 @@
         "id": "001",
         "titulo": "100 años de La Vorágine: La selva dual, madre y devoradora a la vez",
         "fecha": "19 de octubre a viernes 1 de noviembre",
-        "fechaISO": "2024-10-19T09:00:00-17:00",
+        "fechaISO": "2024-10-19T09:00:00",
         "hora": "9:00 a.m",
         "lugar": "Biblioteca departamental, domo 2",
         "descripcion": "Invita a aproximarse de diferentes maneras a la valiosa narrativa literaria de la novela La vorágine"
@@ -12,7 +12,7 @@
         "id": "002",
         "titulo": "Gentes del Putumayo narran",
         "fecha": "Sábado 19 de octubre a viernes 1 de noviembre",
-        "fechaISO": "2024-10-19T09:00:00-17:00",
+        "fechaISO": "2024-10-19T09:00:00",
         "hora": "9:00 a.m",
         "lugar": "Biblioteca departamental, domo 2",
         "descripcion": "Dispositivos visuales y artísticos que forman parte del proyecto Sureña, un museo para pensar el Putumayo."
@@ -21,7 +21,7 @@
         "id": "003",
         "titulo": "El jaguar y la mariposa. Chiribiquete patrimonio cultural y natural de la humanidad",
         "fecha": "Sábado 19 de octubre a viernes 1 de noviembre",
-        "fechaISO": "2024-10-19T09:00:00-17:00",
+        "fechaISO": "2024-10-19T09:00:00",
         "hora": "9:00 a.m",
         "lugar": "Biblioteca Departamental, domo 1",
         "descripcion": "El Ministerio de Cultura, el Museo Nacional de Colombia y el Instituto Colombiano de Antropología e Historia (ICANH) le rinden tributo a este patrimonio excepcional de nuestro país y representan sus 42.000 km2 a través de 22 paneles en un conjunto expositivo compuesto de tres momentos: Geo, Bio y Antropo, para que los visitantes lo puedan “conocer sin ir”, y busca consolidar a la cultura como un factor esencial en los esfuerzos de conservación de la biodiversidad, lo que permita generar procesos de incidencia política que promuevan cambios en la relación de consumo por parte del ser humano hacia la naturaleza."
@@ -30,7 +30,7 @@
         "id": "004",
         "titulo": "Oh, naturaleza ¿inmarcesible?",
         "fecha": "Sábado 19 de octubre a viernes 1 de noviembre",
-        "fechaISO": "2024-10-19T09:00:00-17:00",
+        "fechaISO": "2024-10-19T09:00:00",
         "hora": "9:00 a.m",
         "lugar": "Red de Museos de Cali (MULI) - Museo de Arte Libre, lobby principal",
         "descripcion": "Este proyecto expositivo se desarrolla a partir de planteamientos actuales sobre la historia ambiental de Colombia, en los que la naturaleza es protagonista, así como de las nuevas lecturas políticas que la reconocen como víctima de conflicto y sujeto de derechos."
@@ -39,7 +39,7 @@
         "id": "005",
         "titulo": "El árbol que devoró un mundo: los rumbos del caucho en La vorágine",
         "fecha": "Sábado 19 de octubre",
-        "fechaISO": "2024-10-19T10:00:00-19:00",
+        "fechaISO": "2024-10-19T10:00:00",
         "hora": "10:00 a.m",
         "lugar": "Museo La Tertulia, sala subterránea",
         "descripcion": "Curaduría: Ximena Gama y Erna von der Walde. Esta exposición sigue la explotación cauchera descrita en la novela La vorágine, de José Eustasio Rivera. Publicada en 1924, esta obra denuncia la esclavitud y las injusticias sufridas por indígenas y trabajadores en las selvas de los ríos Orinoco, Atabapo, Isana, Inírida, Caquetá, Putumayo y Río Negro. La exposición recopila material documental de la época, incluyendo fotografías de Roger Casement y Silvino Santos, contrapunteadas con ejercicios de memoria histórica de pueblos indígenas colombianos y del Perú y obras de artistas contemporáneos."
@@ -48,7 +48,7 @@
         "id": "006",
         "titulo": "Caravanas del Asombro: Creación y montaje del espectáculo “Asombro la Mojana”",
         "fecha": "Sábado 19 de octubre a viernes 1 de noviembre",
-        "fechaISO": "2024-10-19T15:00:00-5:00",
+        "fechaISO": "2024-10-19T15:00:00",
         "hora": "3:00 p.m",
         "lugar": "Universidad del Valle",
         "descripcion": "Muestras de números, acrobacias y espectáculos circenses. En alianza con el Fondo de Adaptación se realiza esta acción que tiene por objeto diseñar e implementar una estrategia pedagógica y de apropiación social a través del circo integrando performances y talleres de creación sobre acción climática entre niños y jóvenes de la ecorregión de La Mojana. Se realizará un proceso de semillero liderado por colectivos de circo de Cali en diferentes municipios de La Mojana durante los meses de agosto, septiembre y octubre, los cuales posteriormente circularán en Cali durante el desarrollo de la COP16. Para esta última fase de circulación se dispondrá de una carpa de circo dotada para muestras y espectáculos no sólo del semillero, sino de los colectivos y organizaciones de circo de la región. Esta carpa estará ubicada en las inmediaciones de una institución universitaria (está por confirmarse si es la Universidad del Valle), alrededor de la cual estarán ubicadas las carpas de ambientalistas convocados por el Fondo de Adaptación."
@@ -57,8 +57,8 @@
         "id": "007",
         "titulo": "Ciclo audiovisual virtual 'Raíces y ríos: Tradiciones ancestrales y activismo ambiental'",
         "fecha": "Sábado 19 de octubre a viernes 1 de noviembre",
-        "fechaISO": "2024-10-19T00:00:00-5:00",
-        "hora": "a.m",
+        "fechaISO": "2024-10-19T00:00:00",
+        "hora": "Todo el día",
         "lugar": "Retina Latina (plataforma digital para ver cine latinoamericano) www.retinalatina.org",
         "descripcion": "Esta muestra audiovisual, abierta al público en la plataforma virtual Retina Latina (www.retinalatina.org), busca estimular la reflexión, la conciencia ambiental y el reconocimiento de las comunidades y pueblos indígenas, afrodescendientes y campesinos que han desarrollado y defendido un vínculo social, cultural, espiritual y ancestral con la naturaleza y sus territorios, siendo base del cuidado y conservación del medioambiente. La muestra está compuesta por obras en las que se abordan los ejes temáticos de la herencia de tradiciones ancestrales, la defensa del agua y el activismo y justicia ambiental."
       },
@@ -66,7 +66,7 @@
         "id": "008",
         "titulo": "Activación dispositivo Biblioteca Itinerante La Encantadora “Biblioteca itinerante de los sueños” En Homenaje al Maestro Alfredo Vanín",
         "fecha": "Sábado 19 y domingo 20, Jueves 24 a domingo 27, Jueves 31 y sábado 1 de noviembre",
-        "fechaISO": "2024-10-19T15:00:00-17:00",
+        "fechaISO": "2024-10-19T10:00:00",
         "hora": "10:00 a.m",
         "lugar": "Recorrido en la zona verde",
         "descripcion": "La Biblioteca Itinerante es una iniciativa creada para la COP 16 en la Zona Verde, en homenaje al Maestro Alfredo Vanín. Este proyecto tiene como objetivo promover la lectura y la creatividad literaria entre niñas, niños, jóvenes y adultos, ofreciendo un espacio inclusivo y dinámico para el disfrute de todos. Dinámicas de lectura: Sesiones de lectura en voz alta, clubes de lectura y discusiones grupales sobre libros. Juegos literarios: Actividades lúdicas relacionadas con la literatura, como concursos de cuentos, adivinanzas literarias y juegos de palabras. Talleres de creación literaria: Espacios para que los participantes escriban sus propias historias, poemas y otros tipos de textos, con el acompañamiento de facilitadores. Exposiciones y charlas: Presentaciones sobre la vida y obra del Maestro Alfredo Vanín, así como encuentros con escritores y literatos."
@@ -93,7 +93,7 @@
         "id": "011",
         "titulo": "Los santos bajan, la Sierra sube: diálogos entre sacralidades. Exposición nómada, mochila viajera",
         "fecha": "Lunes 21 de octubre a viernes 1 de noviembre",
-        "fechaISO": "2024-10-21T09:00:00-17:00",
+        "fechaISO": "2024-10-21T09:00:00",
         "hora": "9:00 a.m",
         "lugar": "Biblioteca Departamental, domo 1",
         "descripcion": "Gestada en un contexto de crisis climática y de atropellos contra los territorios bioculturales en Colombia, \"Los santos bajan, la Sierra sube\" despeja luz sobre el rico sistema de conocimiento de una de las cuatro comunidades que habitan la Sierra Nevada de Santa Marta, la Arhuaca. El Museo Colonial y el Museo Santa Clara en un ejercicio de cocreación con el mamo Arwavikú Crispín Izquierdo y el fotógrafo Coque Gamboa por una parte y, el Politécnico Grancolombiano por otra, han generado la Exposición Nómada que lleva el mismo nombre y la Mochila Viajera Arhuaca. En este espacio se desarrollarán recorridos, talleres y activaciones a las 10:00 am y 2:00 pm, bajo la siguiente distribución: Recorrido y activación \"Mochila viajera arhuaca\": Lunes 21, miércoles 23, viernes 25, domingo 27, martes 29 y jueves 31 de octubre. Recorrido y taller \"Los santos bajan, la sierra sube\": Martes 22, jueves 24, sábado 26, lunes 28, martes 29 de octubre y viernes 1 de noviembre."
@@ -102,7 +102,7 @@
         "id": "012",
         "titulo": "Exposición de la Civilización Ecológica de Qinghai",
         "fecha": "Lunes 21 de octubre a viernes 1 de noviembre",
-        "fechaISO": "2024-10-01T09:00:00-17:00",
+        "fechaISO": "2024-10-01T09:00:00",
         "hora": "09:00 a.m",
         "lugar": "Biblioteca Departamental, lobby principal",
         "descripcion": "Exposición de 46 fotografías en total, y las dimensiones de cada fotografía son 100*80cm. La exposición muestra el medio ambiente, la flora, la fauna y la cultura de Qinghai, China, y refleja el desarrollo armonioso del hombre y la naturaleza. Esto se llama civilización ecológica, que se basa en la simbiosis armoniosa y el ciclo virtuoso del hombre y la naturaleza, el hombre y el hombre, el hombre y la sociedad. Una forma social cuyo objetivo básico es el desarrollo integral y la prosperidad sostenida, es la suma de los logros materiales y espirituales alcanzados por la humanidad siguiendo la ley objetiva del desarrollo armonioso del hombre, la naturaleza y la sociedad."
@@ -111,7 +111,7 @@
         "id": "013",
         "titulo": "El viche: sabor a paisaje cultural",
         "fecha": "Lunes 21 de octubre a viernes 1 de noviembre",
-        "fechaISO": "2024-10-21T14:00:00-20:00",
+        "fechaISO": "2024-10-21T14:00:00",
         "hora": "02:00 p.m",
         "lugar": "Encuentro de saberes (zona verde)",
         "descripcion": "Divulgación de la manifestación del Paisaje Cultural Vichero, barra de viche, para a conocer la relación entre una expresión de una bebida ancestral tradicional del Pacífico y el manejo y conservación de la naturaleza en el marco del Paisaje Cultural Vichero a partir de la degustación del viche y la conversación con los portadores de la manifestación. Todo ello hace parte del seguimiento e implementación a la reglamentación de la Ley del Viche."
@@ -120,7 +120,7 @@
         "id": "014",
         "titulo": "Exposición GIC - Casas Bioculturales para el buen vivir Célula Chocó y Vaupés",
         "fecha": "Lunes 21 de octubre a viernes 1 de noviembre",
-        "fechaISO": "2024-10-21T10:00:00-20:00",
+        "fechaISO": "2024-10-21T10:00:00",
         "hora": "10:00 a.m",
         "lugar": "Lugar a Dudas",
         "descripcion": "Construcción de las casas bioculturales [Célula Chocó y Célula Vaupés] con el propósito de crear un espacio que contenga las voces, acuerdos, dibujos y proceso de diseño, como infraestructuras in situ desde la esencia de los saberes del territorio para el cuidado y regeneración de la vida. Entrelaza experiencias entre Colombia y los países invitados desde el sentir contemporáneo de prácticas que cruzan la arquitectura, los saberes, el arte y la ecología política."
@@ -128,8 +128,8 @@
       {
         "id": "015",
         "titulo": "Siembra - Ríos de vida",
-        "fecha": "Lunes 21 a miércoles 23, Sábado 26 de octubre a viernes 1 de noviembre",
-        "fechaISO": "2024-10-21T09:00:00-22:00",
+        "fecha": "21, 22, 23 de octubre y del 26 de octubre al 1 de noviembre",
+        "fechaISO": "2024-10-21T09:00:00",
         "hora": "09:00 a.m",
         "lugar": "Parque Tecnológico San Fernando",
         "descripcion": "Instalación tecnodiversa interactiva, mapping, autorrepresentación, reconocimiento y proyección de los territorios PDTE como cuidadores de la biodiversidad y el agua, y a su gente como agentes de cambio y portadores de cultura. Es un espacio de encuentro, pensamiento, reconocimiento y proyección de la riqueza biocultural de los territorios a través de una programación artística y cultural."
@@ -137,7 +137,7 @@
       {
         "id": "016",
         "titulo": "Obra de teatro de Nicolás Buenaventura",
-        "fecha": "Lunes 21 de octubre 5:00 pm a 7:00 pm",
+        "fecha": "21 de octubre",
         "fechaISO": "2024-10-21T15:00:00-19:00",
         "hora": "05:00 p.m",
         "lugar": "Bellas Artes, sala de teatro Julio Valencia",
@@ -146,7 +146,7 @@
       {
         "id": "017",
         "titulo": "¿Cueros y Chontas? ¿Flaco Flow ¬ Melanina? ¿Alexis Play? Semblanzas del río Guapi Gia Fu",
-        "fecha": "Lunes 21 07:00 p.m",
+        "fecha": "21 de octubre",
         "fechaISO": "2024-10-21T19:00:00",
         "hora": "07:00 p.m",
         "lugar": "Gran tarima",
@@ -156,7 +156,7 @@
         "id": "018",
         "titulo": "Diálogo entre sacralidades: los Santos bajan, la Sierra viaja",
         "fecha": "Martes 22 de octubre",
-        "fechaISO": "2024-10-22T15:00:00-16:00",
+        "fechaISO": "2024-10-22T15:00:00",
         "hora": "03:00 p.m",
         "lugar": "Por definir",
         "descripcion": "En el marco de la exposición itinerante \"Los santos bajan y la Sierra viaja\", en este espacio de diálogo se explora la profunda conexión con la Madre Tierra desde la sabiduría ancestral de la comunidad Arhuaca, declarada como patrimonio cultural inmaterial de la humanidad por la Unesco en el 2022, y su diálogo entre las sacralidades propias del mundo colonial y la actualidad. Participan: Mamo Arwa Viku (Crispín Izquierdo), Coque Gamboa, fotógrafo que ha documentado el recorrido de la Línea Negra, Guillermo Alberto Padilla Rubiano, asesor de la dirección de Poblaciones de Minculturas, Constanza Toquica, directora del Museo Santa Clara."
@@ -165,7 +165,7 @@
         "id": "019",
         "titulo": "Los zapatos del agua",
         "fecha": "Martes 22 de octubre",
-        "fechaISO": "2024-10-22T19:00:00-20:00",
+        "fechaISO": "2024-10-22T19:00:00",
         "hora": "07:00 p.m",
         "lugar": "Bellas Artes, sala Julio Valencia",
         "descripcion": "Obra de teatro del grupo Criterio Teatral, ocho actores en escena. Dos madres que buscan a sus hijos desaparecidos hace tiempo viajan a varias regiones del país en las que se han descubierto fosas comunes. En una subasta de prendas de vestir de segundo uso en plena plaza del pueblo de una zona en conflicto se dan cuenta de que los zapatos de sus amados hijos están en venta. Como vendieron los cuerpos y almas de sus seres queridos, el llanto no consolado se apodera de ellas; sus sollozos no bastan para que sus botines sean el único consuelo en su poder. Duración: 28 minutos."
@@ -174,7 +174,7 @@
         "id": "020",
         "titulo": "Cine para la vida, Programa Cinemigrante: Proyección del documental “The Knowledge” (“El conocimiento”)",
         "fecha": "Martes 22 de octubre",
-        "fechaISO": "2024-10-22T17:00:00-19:00",
+        "fechaISO": "2024-10-22T17:00:00",
         "hora": "05:00 p.m",
         "lugar": "Museo La Tertulia, cinemateca",
         "descripcion": "Documental que explora y resalta los conocimientos tradicionales de las Primeras Naciones australianas para responder al cambio climático. A través de entrevistas con guardas de la tierra y el mar de las Primeras Naciones, así como con expertos no indígenas en agricultura regenerativa, narra la importancia del conocimiento indígena en el cuidado de la tierra y el agua. Se rodó en el Australian Capital Territory, el sudeste de Nueva Gales del Sur, Queensland y el Territorio del Norte, regiones australianas. Director: Lule Blair. Duración: 30 minutos. Participación de Anna Chrisp, embajadora de Australia en Colombia."
@@ -192,7 +192,7 @@
         "id": "022",
         "titulo": "La COP16 Radiofónica: estrategia de comunicación en vivo",
         "fecha": "Miércoles 23 de octubre a viernes 1 de noviembre",
-        "fechaISO": "2024-10-23T09:00:00-17:00",
+        "fechaISO": "2024-10-23T09:00:00",
         "hora": "09:00 a.m",
         "lugar": "Estación de radio en la zona verde y en estudio la posibilidad de que también en el bulevar de oriente",
         "descripcion": "Espacio de comunicación sonora en vivo que, en articulación con la emisora caleña Oriente Estéreo, tiene como propósito el posicionamiento de los medios comunitarios, locales y creativos en la visibilización de las relaciones en torno al cuidado y protección del medio ambiente que establecen las comunidades a través de una relación integral con el territorio, las prácticas culturales, sociales, las tradiciones y la espiritualidad. Busca crear un intercambio de diálogo entre diferentes experiencias radiales comunicativas conectadas desde diferentes regiones del país con el escenario de la COP16. Está compuesta por dos acciones: Estación de radio en vivo que cubrirá escenarios de diálogos, personajes y actividades claves en la COP16. Activaciones sonoras por diferentes escenarios de la agenda cultural COP16."
@@ -201,7 +201,7 @@
         "id": "023",
         "titulo": "Festival de Economía Popular de la Biodiversidad en las culturas, las artes y los saberes",
         "fecha": "Miércoles 23, jueves 24, viernes 25 y sábado 26 de octubre",
-        "fechaISO": "2024-10-23T08:00:00-18:00",
+        "fechaISO": "2024-10-23T08:00:00",
         "hora": "08:00 a.m",
         "lugar": "Minitarima 1",
         "descripcion": "Esta propuesta integrada busca crear un espacio de celebración, aprendizaje y conexión con la biodiversidad y la cultura de los territorios mencionados, para fomentar la valoración de la diversidad biocultural y la promoción del ecoturismo sostenible y comunitario. Junto a las 40 iniciativas de economía popular del Valle del Cauca y del Pacífico nariñense que exponen sus productos, servicios, conocimientos, saberes y prácticas, en el espacio de festival se dan charlas, intercambio de saberes y muestras, por lo que se requiere de un espacio tipo tarima."
@@ -210,7 +210,7 @@
         "id": "024",
         "titulo": "Hábitat Arts - Biocrea: Talleres y laboratorios de creación artística y natural",
         "fecha": "Miércoles 23 a viernes 25 de octubre",
-        "fechaISO": "2024-10-23T09:00:00-12:00",
+        "fechaISO": "2024-10-23T09:00:00",
         "hora": "09:00 a.m",
         "lugar": "Por definir",
         "descripcion": "-"

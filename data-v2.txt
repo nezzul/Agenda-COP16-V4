@@ -102,7 +102,7 @@
         "id": "012",
         "titulo": "Exposición de la Civilización Ecológica de Qinghai",
         "fecha": "Lunes 21 de octubre a viernes 1 de noviembre",
-        "fechaISO": "2024-10-21T09:00:00",
+        "fechaISO": "2024-10-01T09:00:00",
         "hora": "09:00 a.m",
         "lugar": "Biblioteca Departamental, lobby principal",
         "descripcion": "Exposición de 46 fotografías en total, y las dimensiones de cada fotografía son 100*80cm. La exposición muestra el medio ambiente, la flora, la fauna y la cultura de Qinghai, China, y refleja el desarrollo armonioso del hombre y la naturaleza. Esto se llama civilización ecológica, que se basa en la simbiosis armoniosa y el ciclo virtuoso del hombre y la naturaleza, el hombre y el hombre, el hombre y la sociedad. Una forma social cuyo objetivo básico es el desarrollo integral y la prosperidad sostenida, es la suma de los logros materiales y espirituales alcanzados por la humanidad siguiendo la ley objetiva del desarrollo armonioso del hombre, la naturaleza y la sociedad."

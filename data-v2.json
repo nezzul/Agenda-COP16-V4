@@ -602,7 +602,6 @@
         "lugar": "Museo La Tertulia, cinemateca",
         "descripcion": "La estrategia Vidas campesinas tiene el objetivo de transformar las narrativas de nación a través de una visión inclusiva y respetuosa de la diversidad cultural de Colombia que busca incidir en las formas de representación de las vidas campesinas a través de la investigación colaborativa, la generación de espacios de diálogo y participación, la articulación interinstitucional y la divulgación de resultados de investigación en formatos multimedia. En el marco de esta estrategia se han generado contenidos audiovisuales que narran procesos de las vidas campesinas en Colombia, que se proyectan en el marco del evento COP."
       },
-
       {
         "id": "68",
         "titulo": "Cine para la vida - Cine para la vida - Programa Cinemigrante + FICDEH",
@@ -612,7 +611,6 @@
         "lugar": "Museo La Tertulia, cinemateca",
         "descripcion": "Proyección de cortometrajes:<br>La finca de Bethsabé,“Peligra la Gorgona”<br>Duración: 47 minutos "
       },
-
       {
         "id": "69",
         "titulo": "Cine para la vida - Proyección del documental 'Hija de la laguna'",
@@ -622,7 +620,6 @@
         "lugar": "Museo La Tertulia, cinemateca",
         "descripcion": "Proyección y conversatorio con Ernesto Cabellos Damián, documentalista peruano, director del documental 'Hija de la Laguna' (2015).Nélida es una mujer de los Andes peruanos que habla con los espíritus del agua.El hallazgo de un yacimiento de oro amenaza con destruir la laguna que ella considera la Yakumama o Madre Agua. Para evitarlo, Nélida se suma a la lucha de los campesinos de la zona que temen quedarse sin agua, enfrentándolos a Yanacocha, la minera de oro más grande de Sudamérica.  "
       },
-
       {
         "id": "70",
         "titulo": "CirCOP",
@@ -632,7 +629,6 @@
         "lugar": "Gran tarima",
         "descripcion": "Concierto"
       },
-
       {
         "id": "71",
         "titulo": "Coca worlds Círculos de palabra",
@@ -948,7 +944,6 @@
         "lugar": "Museo La Tertulia, cinemateca",
         "descripcion": "La estrategia Vidas campesinas tiene el objetivo de transformar las narrativas de nación a través de una visión inclusiva y respetuosa de la diversidad cultural de Colombia que busca incidir en las formas de representación de las vidas campesinas a través de la investigación colaborativa, la generación de espacios de diálogo y participación, la articulación interinstitucional y la divulgación de resultados de investigación en formatos multimedia. En el marco de esta estrategia se han generado contenidos audiovisuales que narran procesos de las vidas campesinas en Colombia, que se proyectan en el marco del evento COP."
       },
-
       {
         "id": "68",
         "titulo": "Cine para la vida - Cine para la vida - Programa Cinemigrante + FICDEH",
@@ -958,13 +953,12 @@
         "lugar": "Museo La Tertulia, cinemateca",
         "descripcion": "Proyección de cortometrajes:<br>La finca de Bethsabé,“Peligra la Gorgona”<br>Duración: 47 minutos "
       },
-
       {
         "id": "69",
         "titulo": "Cine para la vida - Proyección del documental “Hija de la laguna”",
         "fecha": "Domingo 27",
-        "fechaISO": "2024/10/27T18:00:00",
-        "hora": "06:00 pm",
+        "fechaISO": "2024-10-27T18:00:00",
+        "hora": "6:00 pm",
         "lugar": "Museo La Tertulia, cinemateca",
         "descripcion": "Proyección y conversatorio con Ernesto Cabellos Damián, documentalista peruano, director del documental 'Hija de la Laguna' (2015).Nélida es una mujer de los Andes peruanos que habla con los espíritus del agua.El hallazgo de un yacimiento de oro amenaza con destruir la laguna que ella considera la Yakumama o Madre Agua. Para evitarlo, Nélida se suma a la lucha de los campesinos de la zona que temen quedarse sin agua, enfrentándolos a Yanacocha, la minera de oro más grande de Sudamérica.  "
       },
@@ -999,17 +993,16 @@
         "id": "73",
         "titulo": "Conversatorio 'La huella de carbono de la industria musical hoy. ¿Qué debemos hacer para reducir su impacto?'",
         "fecha": "Lunes 28",
-        "fechaISO": "2024-10-28T14:00:",
+        "fechaISO": "2024-10-28T14:00:00",
         "hora": "2:00 pm",
         "lugar": "Gran tarima",
         "descripcion": "Participan:<br>Nidia Góngora<br>Rubén Albarrán (de Café Tacvba)<br>Héctor Buitrago(de Conector y Aterciopelados)<br>Simón Mejía(fundador de Bomba Estéreo)<br>Nadie discute que la música es uno de los principales vehículos y agentes de cambio en la creación de conciencia y promoción del cuidado con la naturaleza. ¿Pero qué hace su industria y comunidad de artistas por desacelerar o revertir el impacto ambiental que generan conciertos,festivales, giras, actividades de promoción, fabricación de merchandise y hasta riders de camerinos? ¿Contamina la música más de lo que creemos? ¿Qué podemos hacer para cambiar esto? Cuatro figuras de la música colombiana, del Pacífico y latinoamericana hablan de estos temas y de las acciones cotidianas que se pueden implementar para transformar este impacto. "
       },
-
       {
         "id": "74",
         "titulo": "Foro 'Infraestructuras para un vivir biocultural' Día 2, pánel 4 Tejidos en red ",
         "fecha": "Lunes 28 ",
-        "fechaISO": "2024-10-28T14:00:",
+        "fechaISO": "2024-10-28T14:00:00",
         "hora": "2:00 pm",
         "lugar": "Minitarima 1",
         "descripcion": "Panelistas: Gilma Mosquera (Colombia)<br>Belén Demaison(Perú)<br>Kara Solar(Ecuador)<br>Josefina Klinger(Colombia)<br>Pedro Aparicio(Colombia)<br>El foro, estructurado en dos días de diálogos, recorridos y acciones de encuentro a partir de una reflexión participativa de los cuatro países de la región amazónica y región Pacífico biogeográfico [Colombia, Ecuador, Perú y Brasil], busca incidir en una transformación cultural hacia una arquitectura que materialice acciones claras de protección de la biodiversidad, la comprensión de los saberes y las lenguas originarias, el cuidado del agua, las prácticas para el bienestar colectivo y el manejo de residuos hacia un relacionamiento recíproco con el entorno natural. "

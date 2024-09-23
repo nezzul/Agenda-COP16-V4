@@ -105,7 +105,7 @@
         "fechaISO": "2024-10-21T09:00:00",
         "hora": "09:00 a.m",
         "lugar": "Biblioteca Departamental, lobby principal",
-        "descripcion": "Exposición de 46 fotografías en total, y las dimensiones de cada fotografía son 100*80cm. La exposición muestra el medio ambiente, la flora, la fauna y la cultura de Qinghai, China, y refleja el desarrollo armonioso del hombre y la naturaleza. Esto se llama civilización ecológica, que se basa en la simbiosis armoniosa y el ciclo virtuoso del hombre y la naturaleza, el hombre y el hombre, el hombre y la sociedad. Una forma social cuyo objetivo básico es el desarrollo integral y la prosperidad sostenida, es la suma de los logros materiales y espirituales alcanzados por la humanidad siguiendo la ley objetiva del desarrollo armonioso del hombre, la naturaleza y la sociedad."
+        "descripcion": "Exposición de 46 fotografías en total, y las dimensiones de cada fotografía son 100*80cm. La exposición muestra el medio ambiente, la flora, la fauna y la cultura de Qinghai, China, y refleja el desarrollo armonioso del hombre y la naturaleza. Esto se llama civilización ecológica, que se basa en la simbiosis armoniosa y el ciclo virtuoso del hombre y la naturaleza, el hombre y el hombre, el hombre y la sociedad. Una forma social cuyo objetivo básico es el desarrollo integral y la prosperidad sostenida, es la suma de los logros materiales y espirituales alcanzados por la humanidad siguiendo la ley objetiva del desarrollo armonioso del hombre, la naturaleza y la sociedad."
       },
       {
         "id": "013",
@@ -159,7 +159,7 @@
         "fechaISO": "2024-10-22T15:00:00",
         "hora": "03:00 p.m",
         "lugar": "Por definir",
-        "descripcion": "En el marco de la exposición itinerante \"Los santos bajan y la Sierra viaja\", en este espacio de diálogo se explora la profunda conexión con la Madre Tierra desde la sabiduría ancestral de la comunidad Arhuaca, declarada como patrimonio cultural inmaterial de la humanidad por la Unesco en el 2022, y su diálogo entre las sacralidades propias del mundo colonial y la actualidad. Participan: Mamo Arwa Viku (Crispín Izquierdo), Coque Gamboa, fotógrafo que ha documentado el recorrido de la Línea Negra, Guillermo Alberto Padilla Rubiano, asesor de la dirección de Poblaciones de Minculturas, Constanza Toquica, directora del Museo Santa Clara."
+        "descripcion": "En el marco de la exposición itinerante 'Los santos bajan y la Sierra viaja', en este espacio de diálogo se explora la profunda conexión con la Madre Tierra desde la sabiduría ancestral de la comunidad Arhuaca, declarada como patrimonio cultural inmaterial de la humanidad por la Unesco en el 2022, y su diálogo entre las sacralidades propias del mundo colonial y la actualidad. Participan: Mamo Arwa Viku (Crispín Izquierdo), Coque Gamboa, fotógrafo que ha documentado el recorrido de la Línea Negra, Guillermo Alberto Padilla Rubiano, asesor de la dirección de Poblaciones de Minculturas, Constanza Toquica, directora del Museo Santa Clara."
       },
       {
         "id": "019",
@@ -214,8 +214,729 @@
         "hora": "09:00 a.m",
         "lugar": "Por definir",
         "descripcion": "-"
-      }
+      },
+      {
+        "id": "025",
+        "titulo": "Purankin",
+        "fecha": "Miércoles 23 de octubre",
+        "fechaISO": "2024-10-23T19:00:00",
+        "hora": "07:00 p.m",
+        "lugar": "Bellas Artes, sala Julio Valencia",
+        "descripción": "Obra de teatro del pueblo Awá Ka."
+      },
+      {
+        "id": "026",
+        "titulo": "Encuentro campesino para el intercambio de prácticas, saberes y memorias bioculturales de conservación de la biodiversidad campesina",
+        "fecha": "Miércoles 23 de octubre",
+        "fechaISO": "2024-10-23T10:00:00",
+        "hora": "10:00 a.m",
+        "lugar": "Gran tarima",
+        "descripción": "En este encuentro entre organizaciones y comunidades campesinas se presentan diversas experiencias relacionadas con los procesos de conservación de la biodiversidad campesina asociadas a las formas de vida en sus territorios. Son 15 experiencias, con dos participantes por cada una."
+      },
+      {
+        "id": "027",
+        "titulo": "Conversatorio: Lanzamiento podcast 'Jóvenes rurales y acción climática",
+        "fecha": "Miércoles 23 de octubre",
+        "fechaISO": "2024-10-23T15:00:00",
+        "hora": "03:00p.m",
+        "lugar": "Gran tarima",
+        "descripción": "Conversatorio para el lanzamiento del podcast resultante del proyecto Fortalecimiento del liderazgo de jóvenes rurales para el cuidado de la vida: ambiente, biodiversidad y acción climática, el cual será implementado en los municipios de Inírida, Guainía; Tumaco, Nariño; Ayapel, Córdoba y San Marcos y Majagual, Sucre. En este espacio participan seis jóvenes indígenas, campesinos y afros, quienes compartirán su experiencia tras participar del proyecto de Fortalecimiento del liderazgo de jóvenes rurales para el cuidado de la vida: ambiente, biodiversidad y acción climática con el propósito de que el conversatorio tenga un carácter intercultural. En el espacio se presentarán los primeros tres capítulos de la serie podcast, la cual surge como estrategia de memoria de los espacios de diálogo intergeneracional, interseccional e intercultural, liderados por jóvenes, sobre la importancia de la biodiversidad, su papel en el equilibrio de los sistemas biológicos y su rol en la cosmovisión de los pueblos étnicos y comunidades rurales a la luz de las actuales y futuras afectaciones en los ecosistemas presentes en sus territorios relacionadas con la pérdida de la biodiversidad, y de la construcción de estrategias desde el conocimiento ancestral y tradicional que aporten a la conservación de la naturaleza y a frenar la pérdida de la biodiversidad. "
+      },
+      {
+        "id": "028",
+        "titulo": "Agua",
+        "fecha": "Miércoles 23 de octubre",
+        "fechaISO": "2024-10-23T17:00:00",
+        "hora": "05:00p.m",
+        "lugar": "Minitarima 2",
+        "descripción": "Obra de teatro del grupo Criterio Teatral.<br>El gobierno nacional implementa una campaña ambiental a nivel nacional que consiste en recoger residuos sólidos que se encuentran en el fondo de ríos, quebradas, ciénagas y mares. Aprovechando la oportunidad, dos campesinos asumen el trabajo. En el campo encuentran a hombres que talan árboles y a otros que contaminan las aguas con fungicidas y arrojan basuras a los campos y afluentes. En sus faenas de limpieza, escuchan una fuerte brisa que se dirige a ellos; es el agua, que se presenta en forma humana y pide que no se destruyan los árboles ni todo lo que hace que ella desaparezca de la faz de la tierra, pero el hombre no hace caso a ese clamor y el agua pierde importancia en este planeta.<br>Duración: 28 minutos."
+      },
+      {
+        "id": "029",
+        "titulo": "Cine para la vida - Programa Cinemigrante Proyección de cortometrajes",
+        "fecha": "Miércoles 23 de octubre",
+        "fechaISO": "2024-10-23T17:00:00",
+        "hora": "05:00 p.m",
+        "lugar": "Museo La Tertulia, cinemateca",
+        "descripción": "Cortometrajes, de varios directores:<br>“Aquel cuatro de noviembre”,“Chindaura”,“Víctimas del extractivismo: el otro despojo”<br>Duración: 58 minutos<br>Estos cortometrajes buscan construir espacios de diálogo sobre la vida, la reconciliación, la defensa de los Derechos Humanos y la construcción de ideas para la paz. Programa curado por el Festival Internacional de Cine y Derechos Humanos."
+      },
+      {
+        "id": "030",
+        "titulo": "Cine para la vida - Programa Cinemigrante Proyección del documental “Escucha: la tierra fue rasgada” ",
+        "fecha": "Miércoles 23 de octubre",
+        "fechaISO": "2024-10-23T19:00:00",
+        "hora": "07:00 p.m",
+        "lugar": "Museo La Tertulia, cinemateca",
+        "descripcion": "Documental basado en el universo de tres pueblos indígenas presionados por la destrucción provocada por la minería. La película propone un acercamiento con el pensamiento de los grupos Yanomami, Munduruku y Mẽbêngôkre en la conformación de una alianza histórica en defensa de los territorios. Se trata, por tanto, de una narrativa sobre la resistencia y la resiliencia en forma de unión inédita que establece el mantenimiento de sus territorios físicos y subjetivos. Además de la destrucción que provoca la minería, esta es una película sobre la imposibilidad de separar la existencia indígena del territorio en el que viven.<br>Directores: Cassandra Mello y Fred Rahal.Brasil<br>Duración: 80 minutos"
+      },
+      {
+        "id": "031",
+        "titulo": "Foros de Economía Circular y Bioeconomía -“Usos culturales de la coca: transformaciones hacia la bioeconomía”",
+        "fecha": "Miércoles 23 de octubre",
+        "fechaISO": "2024-10-23T14:00:00",
+        "hora": "02:00 p.m",
+        "lugar": "Universidad Autónoma de Occidente",
+        "descripcion": "Este foro, en formato de rueda de saberes, incluye la participación de sabedores locales e internacionales sobre los usos rituales, terapéuticos, nutritivos y medicinales de las plantas maestras, con una sesión de preguntas y respuestas que les permitan interactuar entre ellos y ellas y con el público."
+      },
+      {
+        "id": "032",
+        "titulo": "Conversatorio 'Geografías, afectaciones e impactos del cultivo de la caña de azúcar'",
+        "fecha": "Miércoles 23 de octubre",
+        "fechaISO": "2024-10-23T14:00:00",
+        "hora": "02:00 p.m",
+        "lugar": "Bulevar de oriente, tarima",
+        "descripcion": "Con el fin de desarrollar un preámbulo a una publicación desarrollada entre el equipo de publicaciones del Ministerio de las Culturas y la Fundación Entrelazando sobre el fenómeno del cultivo de caña de azúcar en el valle geográfico del río Cauca, en donde se pretende poner un énfasis narrativo en las afectaciones e impactos que ha tenido sobre lo cultural y lo medioambiental, este conversatorio presenta el equipo de trabajo encargado de desarrollar la publicación así como agentes, miembros de Asocañas y voceros de protagonistas de la construcción de la publicación, quienes conversarán sobre las dinámicas sociales, ambientales y culturales que se han desprenden de esta economía y los impactos que se ha generado."
+      },
+      {
+        "id": "033",
+        "titulo": "Edson Velandia y Orquesta La Bellecera Gaiteros de Pueblo Santo Rancho Aparte ",
+        "fecha": "Miércoles 23 de octubre",
+        "fechaISO": "2024-10-23T19:00:00",
+        "hora": "07:00 p.m",
+        "lugar": "Gran tarima",
+        "descripcion": "Concierto"
+      },
+      {
+        "id": "034",
+        "titulo": "La herida de la naturaleza",
+        "fecha": "Jueves 24 y Viernes 25 de octubre",
+        "fechaISO": "2024-10-24T09:00:00",
+        "hora": "09:00 a.m",
+        "lugar": "Parque Tecnológico San Fernando",
+        "descripcion": "Esta propuesta, desarrollada en alianza con la Universidad del Valle y la Universidad de los Andes, plantea la realización de un laboratorio de contenidos digitales que convoque a diversos líderes ambientales y cuidadores de la naturaleza en un espacio presencial en Cali para construir contenidos que permitan entender el dolor y el daño causado por el conflicto armado más allá de la experiencia humana, a través de lecturas desde el medio ambiente como ser sintiente. Estos contenidos creados a partir de este laboratorio se alojan en una interfaz digital que permite visualizar el resultado."
+      },
+      {
+        "id": "035",
+        "titulo": "“Conversaciones en la diversidad” Una juntanza de portadores del patrimonio vivo alrededor de los sistemas de conocimiento para el manejo territorial",
+        "fecha": "Jueves 24 de octubre",
+        "fechaISO": "2024-10-24T14:00:00",
+        "hora": "02:00 p.m",
+        "lugar": "Biblioteca Departamental, auditorio Óscar Gerardo Ramos",
+        "descripcion": "Espacio de discusión, análisis y visibilización del enfoque comunitario y endógeno de conservación y uso sostenible del territorio, basado en conocimientos y prácticas culturales tradicionales."
+      },
+      {
+        "id": "036",
+        "titulo": "Encuentro de Cultura de Paz en los territorios #EstamosConLaVida",
+        "fecha": "Jueves 24 de octubre",
+        "fechaISO": "2024-10-24T09:00:00",
+        "hora": "09:00 a.m",
+        "lugar": "Bellas Artes, sala de cámara",
+        "descripcion": "-"
+      },
+      {
+        "id": "037",
+        "titulo": "Homenaje a Alfredo Vanín Romero",
+        "fecha": "Jueves 24 de octubre",
+        "fechaISO": "2024-10-24T10:00:00",
+        "hora": "10:00 a.m",
+        "lugar": "Gran tarima",
+        "descripcion": "Homenaje al maestro, Doctor Honoris Causa (P.h.D) en Literatura de la Universidad del Cauca, Alfredo Vanín Romero, investigador, escritor, docente, poeta novelista, cuentista, periodista, etnólogo, editor y asesor cultural. Nacido en el poblado de Saija en Timbiquí, creció en Guapi. Ha sido condecorado por el Congreso de Colombianistas y la Secretaría Distrital de Cultura y Turismo de Bogotá, invitado al Festival Internacional de Poesía de Medellín y el Festival Internacional de Poesía de La Habana, a la Feria del Libro de Guadalajara 2007 y al Festival del Imaginario de París 2008. Fue asesor y escritor en el Plan Especial de Salvaguardia de la Marimba y Cantos Responsorios, uno de las más destacados documentos del MinCulturas. Este es un homenaje en vida al autor de diversas obras que describen lo biocultural de este país, específicamente del Pacífico colombiano, tanto en sus obras como en sus investigaciones."
+      },
+      {
+        "id": "038",
+        "titulo": "Lanzamiento serie podcast 'Curar el cuerpo territorio: Canasto de las memorias de las mujeres indígenas sobrevivientes de las caucherías'",
+        "fecha": "Jueves 24 de octubre",
+        "fechaISO": "2024-10-24T14:00:00",
+        "hora": "02:00 p.m",
+        "lugar": "Gran tarima",
+        "descripcion": "Participantes:<br>Fany Kuiru, Carol González, Nazareth Simón de Cabrera, Paulina Romero<br>En el marco de conmemoración de los 100 años de publicación de La vorágine, la Dirección de Poblaciones de MinCulturas realizó una serie de podcast con cuatro mujeres indígenas descendientes de las víctimas del genocidio provocado en la época de la bonanza cauchera en la Amazonía colombiana con el fin de generar una reflexión sobre las consecuencias de este hecho histórico en los pueblos indígenas de estos territorios desde el punto de vista cultural."
+      },
+      {
+        "id": "039",
+        "titulo": "Aproximaciones al diálogo intercultural y sistemas de conocimiento desde los pueblos amazónicos",
+        "fecha": "Jueves 24 de octubre",
+        "fechaISO": "2024-10-24T16:00:00",
+        "hora": "04:00 p.m",
+        "lugar": "Gran tarima",
+        "descripcion": "Invitados: Organización Nacional Indígena de Colombia (cuatro personas)"
+      },
+      {
+        "id": "040",
+        "titulo": "Presentación de “Cueros y chontas”",
+        "fecha": "Jueves 24 de octubre",
+        "fechaISO": "2024-10-24T17:00:00",
+        "hora": "05:00 p.m",
+        "lugar": "Minitarima 2",
+        "descripcion": "Concierto"
+      },
+      {
+        "id": "041",
+        "titulo": "Gobernanza cultural para la Paz con la Naturaleza: Diálogo de saberes, voces pluriculturales. 'La cultura a través de las Lenguas Nativas'",
+        "fecha": "Jueves 24 de octubre",
+        "fechaISO": "2024-10-24T16:30:00",
+        "hora": "04:30 p.m",
+        "lugar": "Maloka indígena",
+        "descripcion": "Participantes: Tres indígenas, dos líderes de comunidades NARP y un representante del Pueblo Rrom"
+      },
+      {
+        "id": "042",
+        "titulo": "Cine foro para presentar las series audiovisuales 'Vidas campesinas' y 'Diarios del agua'",
+        "fecha": "Jueves 24 de octubre",
+        "fechaISO": "2024-10-24T14:00:00",
+        "hora": "02:00 p.m",
+        "lugar": "Museo La Tertulia, cinemateca",
+        "descripcion": "La estrategia Vidas campesinas tiene el objetivo de transformar las narrativas de nación a través de una visión inclusiva y respetuosa de la diversidad cultural de Colombia que busca incidir en las formas de representación de las vidas campesinas a través de la investigación colaborativa, la generación de espacios de diálogo y participación, la articulación interinstitucional y la divulgación de resultados de investigación en formatos multimedia. En el marco de esta estrategia se han generado contenidos audiovisuales que narran procesos de las vidas campesinas en Colombia, que se proyectan en el marco del evento COP.<br>La serie Diarios del agua busca traducir la riqueza de diversas investigaciones históricas y antropológicas en un impactante relato audiovisual. Su enfoque único se centra en las dinámicas culturales, históricas y medioambientales alrededor del agua en diferentes regiones de Colombia."
+      },
+      {
+        "id": "043",
+        "titulo": "Cine para la vida - Programa Cinemigrante Proyección de cortometrajes",
+        "fecha": "Jueves 24 de octubre",
+        "fechaISO": "2024-10-24T16:00:00",
+        "hora": "04:00 p.m",
+        "lugar": "Museo La Tertulia, cinemateca",
+        "descripcion": "Cortometrajes, de varios directores:<br>“Nalgulvi”,“Acuateniente”,“Chimborazo”,“Bosque: El último refugio del aire”,“El pulverizador”<br>Duración: 52 minutos<br>Estos cortometrajes buscan construir espacios de diálogo que tienen como propósito promover e incentivar la educación ambiental a través del cine."
+      },
+      {
+        "id": "044",
+        "titulo": "Cine para la vida - Programa Étnico: Comisión Nacional de Territorios Indígenas (CNTI) - Saberes y Voces",
+        "fecha": "Jueves 24 de octubre",
+        "fechaISO": "2024-10-24T18:00:00",
+        "hora": "06:00 p.m",
+        "lugar": "Museo La Tertulia, cinemateca",
+        "descripcion": "Proyección de contenidos del aporte de las comunidades ancestrales a la defensa y protección de la naturaleza, y de la reivindicación de sus luchas.<br>Cortometrajes colombianos:<br>'Kunsamaku Zaku','Sukua Tei','NAJI','Territorios invisibles'.<br>Documental australiano:<br>'The Knowledge' ('El conocimiento')<br>Se estudia la posibilidad de que el evento tenga la presencia de:<br>Anna Chrisp, embajadora de Australia en Colombia,Juan David Correa,ministro de MinCulturas,Diana Díaz, directora de la DACMI "
+      },
+      {
+        "id": "045",
+        "titulo": "Mesa redonda 'Revista Gaceta: ¿Qué hay sobre los vínculos entre cultura y medio ambiente?'",
+        "fecha": "Jueves 24 de octubre",
+        "fechaISO": "2024-10-24T14:00:00",
+        "hora": "02:00 p.m",
+        "lugar": "Bulevar de oriente, aula / taller",
+        "descripcion": "A partir de las ediciones Gaceta Selva y Gaceta Oro, de la revista Gaceta, que abordan temas relacionados a las dinámicas de la colonización y el arrasamiento que han enfrentado territorios estratégicos ambientalmente como las selvas, así como reflexiones sobre las dinámicas culturales, sociales y económicas que se desprenden de la explotación de recursos naturales que están vinculados a territorios ancestralemente resguardados, la revista realiza una mesa redonda para debatir estos temas y la urgencia de tenerlos en la agenda de los lectores."
+      },
+      {
+        "id": "046",
+        "titulo": "Jon Henrik Fjällgren,Estrellas del Caribe,Semblanzas del río Guapi",
+        "fecha": "Jueves 24 de octubre",
+        "fechaISO": "2024-10-24T19:00:00",
+        "hora": "07:00 p.m",
+        "lugar": "Gran tarima",
+        "descripcion": "Concierto"
+      },
+      {
+        "id": "047",
+        "titulo": "Vidas campesinas",
+        "fecha": "Viernes 25 de octubre",
+        "fechaISO": "2024-10-25T15:00:00",
+        "hora": "03:00 p.m",
+        "lugar": "Lugar: Biblioteca Departamental, auditorio Óscar Gerardo Ramos ",
+        "descripcion": "Taller de representación sobre vidas campesinas."
+      },
+      {
+        "id": "048",
+        "titulo": "Panel académico “Cultura para el cuidado de la diversidad de la vida, el territorio y la paz”",
+        "fecha": "Viernes 25 de octubre",
+        "fechaISO": "2024-10-2525T10:00:00",
+        "hora": "10:00 a.m",
+        "lugar": "Gran tarima",
+        "descripcion": "Este espacio de conversación permite comprender la relación intrínseca entre la diversidad cultural y biológica y su aporte al cuidado de la diversidad de la vida. Estas conversaciones implican, además, identificar las acciones de política pública que deben implementarse para proteger y fomentar la diversidad de memorias, lenguas y saberes, así como las prácticas culturales y artísticas de comunidades locales, grupos étnicos, campesinos y organizaciones que contribuyen a la paz, al cuidado, y el sustento de la vida en todas sus formas."
+      },
+      {
+        "id": "049",
+        "titulo": "Conversatorio 'De ECOmundo 92 a PazCOP16. Los conciertos y festivales como agentes de cambio por el cuidado en Colombia'",
+        "fecha": "Viernes 25 de octubre",
+        "fechaISO": "2024-10-25T14:00:00",
+        "hora": "02:00 p.m",
+        "lugar": "Gran tarima",
+        "descripcion": "En 1992, el músico y activista colombiano Chucho Merchán realizó el primer gran concierto por el medioambiente en Colombia (trayendo al país músicos de Pink Floyd y The Who). Se llamó ECOmundo y se realizó en Cali. Treinta años después, Cali es de nuevo la sede de un megaconcierto por el cuidado con la naturaleza, PazCOP. ¿Siguen siendo los festivales y conciertos agentes importantes para el cambio? Para esta conversación, los invitados son el propio Chucho Merchán, una líder que con su banda Aterciopelados ha pisado las tarimas de muchos festivales y conciertos, Andrea Echeverry, y el vocero de uno de los principales festivales de Colombia, Cali y el Pacífico, el Petronio Álvarez."
+      },
+      {
+        "id": "050",
+        "titulo": "Mesa redonda 'Relatos necesarios: ¿Qué encontramos en la movilización de agentes comunicativos en la COP 16?'",
+        "fecha": "Viernes 25 de octubre",
+        "fechaISO": "2024-10-25T14:00:00",
+        "hora": "02:00 p.m",
+        "lugar": "Minitarima 1",
+        "descripcion": "Cubrimiento de diferentes narradores, comunicadores, creadores de contenidos, periodistas y cineastas estratégicos enfocados en narrativas al rededor del activismo ambiental, la defensa del territorio y la protección de la naturaleza; a cubrir los diferentes escenarios de diálogos, encuentro y movilización ciudadana en torno a lo ambiental que se desarrollarán en el marco de la agenda cultural y académica de la COP 16."
+      },
+      {
+        "id": "051",
+        "titulo": "Semillero Fundación Escuela Folclórica TUMAC: Música y Danza afronariñense",
+        "fecha": "Viernes 25 de octubre",
+        "fechaISO": "2024-10-25T16:00:00",
+        "hora": "04:00 p.m",
+        "lugar": " Minitarima 2",
+        "descripcion": "El semillero de la Fundación Escuela Folclórica TUMAC tiene como objetivo generar procesos de salvaguardia para las músicas tradicionales del Pacífico sur colombiano. Los niños participantes del semillero en formación musical y dancística reciben formación en el aprendizaje de su cultura, con lutería, danzas tradicionales afronariñenses y conocimiento e interpretación de la música para el empoderamiento y apropiación de la cultura."
+      },
+      {
+        "id": "052",
+        "titulo": "Limpiando barrio",
+        "fecha": "Viernes 25 de octubre",
+        "fechaISO": "2024-10-25T16:00:00",
+        "hora": "04:00 p.m",
+        "lugar": "Zona verde, intersección 1",
+        "descripcion": "Obra de teatro (con zancos) del Grupo Calipso.<br>La Corporación Teatro Calipso es una organización sin ánimo de lucro dedicada al fomento de las artes escénicas, al fortalecimiento y recuperación de las manifestaciones artísticas, culturales y ancestrales afropacíficas. Su participación se da en espacios no convencionales; se adapta a parques, el boulevar del río Cali, colegios y universidades."
+      },
+      {
+        "id": "053",
+        "titulo": "La voz que retumba Bibliotecas Comunitarias y RNBP Taller de lectoescritura y animación de lectura",
+        "fecha": "Viernes 25 de octubre",
+        "fechaISO": "2024-10-25T10:00:00",
+        "hora": "10:00 a.m",
+        "lugar": "Banco de la República y Biblioteca Nuevo Latir (en simultánea)",
+        "descripcion": "Esta actividad está compuesta de varias acciones:Lectura en voz alta de textos etnocentrados autores o literatura a cargo de decimeras y decimeros del Pacífico sur.<br>Animación: juegos y actividades lúdicas tradicionales afro.<br>Creación: pintura, escritura de textos a partir de la experiencia que plantea la lectura."
+      },
+      {
+        "id": "054",
+        "titulo": "La voz que retumba Bibliotecas Comunitarias y RNBP Taller de lectoescritura y animación de lectura ",
+        "fecha": "Viernes 25 de octubre",
+        "fechaISO": "2024-10-25T14:00:00",
+        "hora": "02:00 p.m",
+        "lugar": "Lugar: Biblioteca El Pondaje y Biblioteca Infantil Cultural de Cali (en simultánea)",
+        "descripcion": "Esta actividad está compuesta de varias acciones:Lectura en voz alta de textos etnocentrados autores o literatura a cargo de decimeras y decimeros del Pacífico sur.<br>Animación: juegos y actividades lúdicas tradicionales afro.<br>Creación: pintura, escritura de textos a partir de la experiencia que plantea la lectura."
+      },
+      {
+        "id": "055",
+        "titulo": "Cantos de Agua Residuo Sólido David Kawook",
+        "fecha": "Viernes 25 de octubre",
+        "fechaISO": "2024-10-25T15:00:00",
+        "hora": "03:00 p.m",
+        "lugar": "Gran tarima",
+        "descripcion": "Concierto"
+      },
+      {
+        "id": "056",
+        "titulo": "Foro de países megadiversos 'Economías alternativas y populares, megadiversidad y cambio climático'",
+        "fecha": "Sabado 26 de octubre",
+        "fechaISO": "2024-10-26T10:00:00",
+        "hora": "10:00 a.m",
+        "lugar": "Bellas Artes, sala de cámara",
+        "descripcion": "Con miras a aportar a las discusiones internacionales y nacional sobre el papel mundial y los problemas que afrontan los países megadiversos del mundo en términos de la biodiversidad, la diversidad cultural y lingüística y la cultura de paz, Minculturas plantea realizar cuatro foros para congregar y propiciar diálogos entre investigadores académicos y sabedores, con el fin de incidir en las deliberaciones de la zona azul de la COP16 y propiciar la confluencia de grupos de incidencia en la políticas nacionales y mundiales procedentes de dichos países, en función de visibilizar sus potencias ambientales y culturales, definir un equilibrio entre sus aportes a la estabilidad climática mundial y a la solución a los problemas derivados de los modelos de desarrollo vigentes, superar los riesgos de sus ecosistemas y culturas y construir la paz.<br>Ponenentes:<br>Bénie Yalanga Mayala (coordinador de Tropenbos),Karin Nansen (REDES Amigos de la Tierra Uruguay),Modera: Catalina García "
+      },
+      {
+        "id": "057",
+        "titulo": "Panel de expertos 'Encuentro de sostenibilidad ambiental para Espectáculos Públicos de las Artes Escénicas (EPAE)'",
+        "fecha": "Sabado 26 de octubre",
+        "fechaISO": "2024-10-26T14:00:00",
+        "hora": "02:00 p.m",
+        "lugar": "Gran tarima",
+        "descripcion": "En alianza con el British Council, se propone un espacio de socialización y ponencias respecto a las medidas y apuestas de sostenibilidad ambiental que están adoptando los festivales ganadores del Programa Cultura Circular del Bristish y los avances que está dando la Dirección de Artes en la creación de un modelo de innovación en materia de sostenibilidad ambiental, que se espera irradie a los sectores del país en el mediano plazo."
+      },
+      {
+        "id": "058",
+        "titulo": "Conversatorio 'Residuos, letras y futuros distópicos no tan lejanos: el medioambiente y su impacto en la creación musical'",
+        "fecha": "Sabado 26 de octubre",
+        "fechaISO": "2024-10-26T16:00:00",
+        "hora": "04:00 p.m",
+        "lugar": "Minitarima 1",
+        "descripcion": "Los músicos de la agrupación caleña Residuo Sólido combinan ritmos africanos, afrocolombianos y experimentación musical a partir de materiales reciclados. Nucleonics, también de Cali, muestra en sus videos musicales que después de contaminar la Tierra, la humanidad amenaza con contaminar a Marte. Y La Vela Puerca, una de las bandas históricas de Uruguay, próxima a cumplir 30 años de carrera, en muchas de sus canciones hablan del medioambiente y la conservación del planeta. Tres experiencias y tres formas distintas de abordar el tema y hacer conciencia entre el público de la música en una misma charla."
+      },
+      {
+        "id": "059",
+        "titulo": "Gran Concierto 'Paz con la naturaleza: un canto por la vida'",
+        "fecha": "Sabado 26 de octubre",
+        "fechaISO": "2024-10-26T15:00:00",
+        "hora": "03:00 p.m",
+        "lugar": "Pascual Guerrero",
+        "descripcion": "Concierto"
+      },
+      {
+        "id": "060",
+        "titulo": "Taller 'Arqueología para niñas y niños'",
+        "fecha": "Sabado 26 de octubre",
+        "fechaISO": "2024-10-26T10:00:00",
+        "hora": "10:00 a.m",
+        "lugar": "Bulevar de oriente, tarima",
+        "descripcion": "Se busca que a través del taller los niños y niñas conozcan acerca de la arqueología, cómo se recuperan los bienes arqueológicos y por qué es importante reconstruir la historia. Así, este ejercicio es un acercamiento para que niños y niñas que asisten se involucren en estos temas y se conviertan en vigías del patrimonio arqueológico y cultural de la nación."
+      },
+      {
+        "id": "061",
+        "titulo": "Foro de países megadiversos 'Economías alternativas y populares, megadiversidad y cambio climático'",
+        "fecha": "Sabado 26 de octubre",
+        "fechaISO": "2024-10-26T15:00:00",
+        "hora": "03:00 p.m",
+        "lugar": "Bulevar de oriente, tarima",
+        "descripcion": "Con miras a aportar a las discusiones internacionales y nacional sobre el papel mundial y los problemas que afrontan los países megadiversos del mundo en términos de la biodiversidad, la diversidad cultural y lingüística y la cultura de paz, Minculturas plantea realizar cuatro foros para congregar y propiciar diálogos entre investigadores académicos y sabedores, con el fin de incidir en las deliberaciones de la zona azul de la COP16 y propiciar la confluencia de grupos de incidencia en la políticas nacionales y mundiales procedentes de dichos países, en función de visibilizar sus potencias ambientales y culturales, definir un equilibrio entre sus aportes a la estabilidad climática mundial y a la solución a los problemas derivados de los modelos de desarrollo vigentes, superar los riesgos de sus ecosistemas y culturas y construir la paz.<br>Ponenentes:<br>Bénie Yalanga Mayala (coordinador de Tropenbos),Karin Nansen (REDES Amigos de la Tierra Uruguay),Modera: Catalina García"
+      },
+      {
+        "id": "062",
+        "titulo": "Teatro Corporación Casa Naranja Pulpos (Corporación El Totumo Encantado)",
+        "fecha": "Sabado 26 de octubre",
+        "fechaISO": "2024-10-26T19:00:00",
+        "hora": "07:00 p.m",
+        "lugar": "Gran tarima",
+        "descripcion": "Corporación cultural El Totumo encantado<br>Esta obra, que se destaca por su enfoque en la migración y la respuesta social a las crisis, aborda temas que se alinean con los ejes temáticos de la cumbre, como la biodiversidad y la sostenibilidad. Con esta propuesta se busca contribuir desde el arte a la reflexión y el diálogo sobre los desafíos globales, al vincular la problemática ambiental con las dinámicas sociales y migratorias actuales en el municipio de Necoclí."
+      },
+      {
+        "id": "063",
+        "titulo": "Sonidos de esperanza",
+        "fecha": "Domingo 27 de octubre",
+        "fechaISO": "2024-10-27T10:00:00",
+        "hora": "10:00 a.m",
+        "lugar": "Gran tarima",
+        "descripcion": "Grupo Ensamble Ciudad de Cali, con niñes de 9 a 12 años.<br>Programa Sonidos de esperanza del MinC ulturas en convenio con la Fundación Batuta."
+      },
+      {
+        "id": "064",
+        "titulo": "Foro 'Infraestructuras para un vivir biocultural' - Casa Biocultural Día 1, pánel 1 Casas bioculturales como un sistema integral de medición cualitativa y regenerativa de biodiversidad",
+        "fecha": "Domingo 27 de octubre",
+        "fechaISO": "2024-10-27T14:00:00",
+        "hora": "02:00 p.m",
+        "lugar": "Gran tarima",
+        "descripcion": "Panelistas:<br>Ministro Juan David Correa<br>Josefina Klinger (Colombia)<br>Reynel Ortega (Colombia)<br>Juliana Ramírez (Colombia)<br>El foro, estructurado en dos días de diálogos, recorridos y acciones de encuentro a partir de una reflexión participativa de los cuatro países de la región amazónica y región Pacífico biogeográfico [Colombia, Ecuador, Perú y Brasil], busca incidir en una transformación cultural hacia una arquitectura que materialice acciones claras de protección de la biodiversidad, la comprensión de los saberes y las lenguas originarias, el cuidado del agua, las prácticas para el bienestar colectivo y el manejo de residuos hacia un relacionamiento recíproco con el entorno natural."
+      },
+      {
+        "id": "065",
+        "titulo": "Foro 'Infraestructuras para un vivir biocultural' - Casa Biocultural Día 1, pánel 2 Casa biocultural: Célula Chocó y Vaupés",
+        "fecha": "Domingo 27 de octubre",
+        "fechaISO": "2024-10-27T16:30:00",
+        "hora": "04:30 p.m",
+        "lugar": "Minitarima 1",
+        "descripcion": "Panelistas:<br>Josefina Klinger (Colombia)<br>Reynel Ortega (Colombia)<br>Juliana Ramírez (Colombia)<br>Pedro Aparicio (Colombia)<br>Bárbara Santos (Colombia)<br>El foro, estructurado en dos días de diálogos, recorridos y acciones de encuentro a partir de una reflexión participativa de los cuatro países de la región amazónica y región Pacífico biogeográfico [Colombia, Ecuador, Perú y Brasil], busca incidir en una transformación cultural hacia una arquitectura que materialice acciones claras de protección de la biodiversidad, la comprensión de los saberes y las lenguas originarias, el cuidado del agua, las prácticas para el bienestar colectivo y el manejo de residuos hacia un relacionamiento recíproco con el entorno natural."
+      },
+      {
+        "id": "066",
+        "titulo": "Foro 'Infraestructuras para un vivir biocultural' - Resonancias materiales Día 1, pánel 3 Resonancias materiales",
+        "fecha": "Domingo 27 de octubre",
+        "fechaISO": "2024-10-27T18:30:00",
+        "hora": "06:30 p.m",
+        "lugar": "Minitarima 1",
+        "descripcion": "Panelistas:<br>Delsi Delcy Morelos (Colombia)<br>Leonel Vásquez (Colombia)<br>Gabriella de Mattos (Brasil)<br>Reynel Ortega (Colombia)<br>Barbara Santos (Colombia)<br>El foro, estructurado en dos días de diálogos, recorridos y acciones de encuentro a partir de una reflexión participativa de los cuatro países de la región amazónica y región Pacífico biogeográfico [Colombia, Ecuador, Perú y Brasil], busca incidir en una transformación cultural hacia una arquitectura que materialice acciones claras de protección de la biodiversidad, la comprensión de los saberes y las lenguas originarias, el cuidado del agua, las prácticas para el bienestar colectivo y el manejo de residuos hacia un relacionamiento recíproco con el entorno natural."
+      },
+      {
+        "id": "67",
+        "titulo": "Serie infantil 'Vidas Campesinas'",
+        "fecha": "Domingo 27",
+        "fechaISO": "2024-10-27T10:00:00",
+        "hora": "10:00 am",
+        "lugar": "Museo La Tertulia, cinemateca",
+        "descripcion": "La estrategia Vidas campesinas tiene el objetivo de transformar las narrativas de nación a través de una visión inclusiva y respetuosa de la diversidad cultural de Colombia que busca incidir en las formas de representación de las vidas campesinas a través de la investigación colaborativa, la generación de espacios de diálogo y participación, la articulación interinstitucional y la divulgación de resultados de investigación en formatos multimedia. En el marco de esta estrategia se han generado contenidos audiovisuales que narran procesos de las vidas campesinas en Colombia, que se proyectan en el marco del evento COP."
+      },
 
+      {
+        "id": "68",
+        "titulo": "Cine para la vida - Cine para la vida - Programa Cinemigrante + FICDEH",
+        "fecha": "Domingo 27",
+        "fechaISO": "2024-10-27T15:00:00",
+        "hora": "03:00 pm",
+        "lugar": "Museo La Tertulia, cinemateca",
+        "descripcion": "Proyección de cortometrajes:<br>La finca de Bethsabé,“Peligra la Gorgona”<br>Duración: 47 minutos "
+      },
 
+      {
+        "id": "69",
+        "titulo": "Cine para la vida - Proyección del documental “Hija de la laguna”",
+        "fecha": "Domingo 27",
+        "fechaISO": "2024/10/27T18:00:00",
+        "hora": "06:00 pm",
+        "lugar": "Museo La Tertulia, cinemateca",
+        "descripcion": "Proyección y conversatorio con Ernesto Cabellos Damián, documentalista peruano, director del documental 'Hija de la Laguna' (2015).Nélida es una mujer de los Andes peruanos que habla con los espíritus del agua.El hallazgo de un yacimiento de oro amenaza con destruir la laguna que ella considera la Yakumama o Madre Agua. Para evitarlo, Nélida se suma a la lucha de los campesinos de la zona que temen quedarse sin agua, enfrentándolos a Yanacocha, la minera de oro más grande de Sudamérica.  "
+      },
 
+      {
+        "id": "70",
+        "titulo": "CirCOP",
+        "fecha": "Domingo 27 ",
+        "fechaISO": "2024-10-27T19:00:00",
+        "hora": "7:00 pm ",
+        "lugar": "Gran tarima",
+        "descripcion": "Concierto"
+      },
+
+      {
+        "id": "71",
+        "titulo": "Coca worlds Círculos de palabra",
+        "fecha": "Lunes 28 a jueves 31",
+        "fechaISO": "2024-10-28T09:00:00",
+        "hora": "9:00 am",
+        "lugar": "Bulevar de oriente, tarima",
+        "descripcion": "Esta actividad, de cuatro días, está compuesta por varias acciones:<br>Mambear y palabrear:<br>círculos de palabra guiados por autoridades indígenas en torno a la hoja y elevados por el acto colectivo de mambear; con cuatro sesiones, una por día.<br>Acciones y rituales:<br>Invitación a artistas, sabedores y hacedores a realizar acciones relacionadas con la hoja de coca y las problemáticas en torno a esta, la coca performada.<br>Estas acciones incluyen rituales, perfomances, laboratorios y talleres, entre otrasCocaVisión: Proyección de obras de artistas que han trabajado en torno a la hoja de coca, la cocaína y temas relacionados; son dos sesiones de proyecciones en diferentes puntos de la ciudad.Conversaciones - imaginaciones, imaginarios e imágenes:<br>Encuentros alrededor de los imaginarios, imágenes, objetos, oficios y otros que se han construido en torno a la hoja de coca, y sobre las especulaciones de sus futuros posibles.Mercado Coca: Espacio de venta e intercambio de proyectos productivos en tornos a la hoja de coca "
+      },
+      {
+        "id": "72",
+        "titulo": "Foro de países megadiversos 'Países megadiversos, deuda externa y modelos de desarrollo'",
+        "fecha": "Lunes 28",
+        "fechaISO": "2024-10-28T10:00:00",
+        "hora": "10:00 am",
+        "lugar": "Biblioteca Departamental, auditorio Óscar Gerardo Ramos",
+        "descripcion": "Con miras a aportar a las discusiones internacionales y nacional sobre el papel mundial y los problemas que afrontan los países megadiversos del mundo en términos de la biodiversidad, la diversidad cultural y lingüística y la cultura de paz, Minculturas plantea realizar cuatro foros para congregar y propiciar diálogos entre investigadores académicos y sabedores, con el fin de incidir en las deliberaciones de la zona azul de la COP16 y propiciar la confluencia de grupos de incidencia en la políticas nacionales y mundiales procedentes de dichos países, en función de visibilizar sus potencias ambientales y culturales, definir un equilibrio entre sus aportes a la estabilidad climática mundial y a la solución a los problemas derivados de los modelos de desarrollo vigentes, superar los riesgos de sus ecosistemas y culturas y construir la paz.Ponentes:<br> Bibiche Salumu Laumu (profesora universitaria y activista de derechos humanos) o Théophile Yuma Kalulu (profesor universitario y miembro de Tropenbos)<br>Daniel Libreros (profesor de las universidades Nacional y del Valle)<br>Pablo Fajardo (Unión de Afectadas/os por Operaciones Petroleras de Chevron - Amigos de la Tierra Ecuador)<br>Ramiro Chimuris Sosa (coordinador de la Red Latinoamericana sobre Deuda Pública y Salidas a Crisis Respectivas)<br>Modera:Hernán Darío Correa"
+      },
+      {
+        "id": "73",
+        "titulo": "Conversatorio 'La huella de carbono de la industria musical hoy. ¿Qué debemos hacer para reducir su impacto?'",
+        "fecha": "Lunes 28",
+        "fechaISO": "2024-10-28T14:00:",
+        "hora": "2:00 pm",
+        "lugar": "Gran tarima",
+        "descripcion": "Participan:<br>Nidia Góngora<br>Rubén Albarrán (de Café Tacvba)<br>Héctor Buitrago(de Conector y Aterciopelados)<br>Simón Mejía(fundador de Bomba Estéreo)<br>Nadie discute que la música es uno de los principales vehículos y agentes de cambio en la creación de conciencia y promoción del cuidado con la naturaleza. ¿Pero qué hace su industria y comunidad de artistas por desacelerar o revertir el impacto ambiental que generan conciertos,festivales, giras, actividades de promoción, fabricación de merchandise y hasta riders de camerinos? ¿Contamina la música más de lo que creemos? ¿Qué podemos hacer para cambiar esto? Cuatro figuras de la música colombiana, del Pacífico y latinoamericana hablan de estos temas y de las acciones cotidianas que se pueden implementar para transformar este impacto. "
+      },
+      {
+        "id": "74",
+        "titulo": "Foro 'Infraestructuras para un vivir biocultural' Día 2, pánel 4 Tejidos en red ",
+        "fecha": "Lunes 28 ",
+        "fechaISO": "2024-10-28T14:00:",
+        "hora": "2:00 pm",
+        "lugar": "Minitarima 1",
+        "descripcion": "Panelistas: Gilma Mosquera (Colombia)<br>Belén Demaison(Perú)<br>Kara Solar(Ecuador)<br>Josefina Klinger(Colombia)<br>Pedro Aparicio(Colombia)<br>El foro, estructurado en dos días de diálogos, recorridos y acciones de encuentro a partir de una reflexión participativa de los cuatro países de la región amazónica y región Pacífico biogeográfico [Colombia, Ecuador, Perú y Brasil], busca incidir en una transformación cultural hacia una arquitectura que materialice acciones claras de protección de la biodiversidad, la comprensión de los saberes y las lenguas originarias, el cuidado del agua, las prácticas para el bienestar colectivo y el manejo de residuos hacia un relacionamiento recíproco con el entorno natural. "
+      },
+      {
+        "id": "75",
+        "titulo": "Foro 'Infraestructuras para un vivir biocultural' Día 2, pánel 5 Tecnologías interespecie",
+        "fecha": "Lunes 28 ",
+        "fechaISO": "2024-10-28T16:30:00",
+        "hora": "4:30 pm",
+        "lugar": "Minitarima 1",
+        "descripcion": "Panelistas: Diego Samper(Colombia)<br>Grupo Semillas(Perú)<br>Al Borde(Ecuador)<br>Juliana Ramírez(Colombia)<br>Pedro Aparicio(Colombia)<br>El foro, estructurado en dos días de diálogos, recorridos y acciones de encuentro a partir de una reflexión participativa de los cuatro países de la región amazónica y región Pacífico biogeográfico [Colombia, Ecuador, Perú y Brasil], busca incidir en una transformación cultural hacia una arquitectura que materialice acciones claras de protección de la biodiversidad, la comprensión de los saberes y las lenguas originarias, el cuidado del agua, las prácticas para el bienestar colectivo y el manejo de residuos hacia un relacionamiento recíproco con el entorno natural. "
+      },
+      {
+        "id": "76",
+        "titulo": "Foro 'Infraestructuras para un vivir biocultural' Día 2, pánel 6 Arquitectura viva",
+        "fecha": "Lunes 28 ",
+        "fechaISO": "2024-10-28T18:30:00",
+        "hora": "6:30 pm",
+        "lugar": "Minitarima 1",
+        "descripcion": "Panelistas:Gustavo Utrabo(Brasil)<br>CAÁ PORÁ(Ecuador)<br>Elizabeth Añaños(Perú)<br>Juliana Ramírez(Colombia)<br>Pedro Aparicio (Colombia)<br>El foro, estructurado en dos días de diálogos, recorridos y acciones de encuentro a partir de una reflexión participativa de los cuatro países de la región amazónica y región Pacífico biogeográfico [Colombia, Ecuador, Perú y Brasil], busca incidir en una transformación cultural hacia una arquitectura que materialice acciones claras de protección de la biodiversidad, la comprensión de los saberes y las lenguas originarias, el cuidado del agua, las prácticas para el bienestar colectivo y el manejo de residuos hacia un relacionamiento recíproco con el entorno natural. "
+      },
+      {
+        "id": "77",
+        "titulo": "Ciclo El Archivo dialoga con los territorios: 'Las letras e historias del río Magdalena'",
+        "fecha": "Lunes 28",
+        "fechaISO": "2024-10-28T10:00:00",
+        "hora": "10:00 am",
+        "lugar": " Minitarima 2",
+        "descripcion": "Reconstruir el pasado de estas poblaciones a partir de sus archivos es traer al presente la discusión de la cuenca del río Magdalena como la suma de varios territorios bioculturales en los que la sociedad se organizó durante milenios y estableció lazos culturales más allá de las clásicas divisiones político-administrativas. Pensar al país en términos de territorios bioculturales no solo permite rescatar la historia de lugares olvidados,sino repensar la organización territorial en torno a la centralidad de las aguas, en este caso del río Magdalena, una opción que podría traer mejores resultados en la lucha contra el cambio climático y en la preservación de la biodiversidad."
+      },
+      {
+        "id": "78",
+        "titulo": "Ciclo El Archivo dialoga con los territorios: 'Documental conversatorio: Certegui y el universo creativo de Arnoldo Palacio'",
+        "fecha": "Lunes 28",
+        "fechaISO": "2024-10-28T15:00:00",
+        "hora": "05:00 pm",
+        "lugar": "Museo La Tertulia, cinemateca",
+        "descripcion": "Invitados:<br>José Venacio Palacios(sobrino de Arnoldo Palacios)<br>María Fernanda Parra (directora Fundación Social Muntú Bantú)<br>Jorge Cote (jefe de comunicaciones del AGN)<br> En su año, declarado por el Ministerio de las Artes, las Culturas y los Saberes, Arnoldo Palacio ha recibido varios homenajes. En conversatorios, cátedras y artículos se ha hablado de su importancia en las letras colombianos. Se explica su estilo literario y sus influencias. Se hace énfasis en su carácter cosmopolita: un hombre que salió de Certegui, una pequeña población ubicada al sur de Chocó a las orillas de la quebrada Taridó, a viajar por todo el mundo. Ese cosmopolitismo de Palacios a opacado Certegui, su población natal, lugar fundamental para entender su universo literario. Con el fin de sacar de las sombras de la memoria, el Archivo General presenta un corto documental sobre Arnoldo Palacios y esta población, en donde se muestra su historia, cómo sus habitantes recuerdan al escritor y qué lugares de memoria hay dedicados a él."
+      },
+      {
+        "id": "79",
+        "titulo": "Cine para la vida - Programa Cinemigrante: Proyección de 'Memoria de lucha'",
+        "fecha": "Lunes 28",
+        "fechaISO": "2024-10-28T19:00:00",
+        "hora": "7:00 pm",
+        "lugar": "Museo La Tertulia, cinemateca",
+        "descripcion": "Documental -111',Colombia - Perú Memoria de lucha es un documental situado en el departamento de Cajamarca ha sido escenario de una creciente y feroz represión, que enfrenta a comunidades campesinas organizadas contra explotadores extranjeros y gobiernos de turno, memorias de una cruda realidad para los pequeños agricultores que denuncian uno de los mayores escándalos de corrupción generados por la minería trasnacional en Perú."
+      },
+      {
+        "id": "80",
+        "titulo": "La Coral",
+        "fecha": "Lunes 28",
+        "fechaISO": "2024-10-28T15:00:00",
+        "hora": "3:00 pm",
+        "lugar": "Teatro Jorge Isaacs",
+        "descripcion": "300 voces de niñas le cantan a la vida."
+      },
+      {
+        "id": "81",
+        "titulo": "Foro de países megadiversos 'Países megadiversos, deuda externa y modelos de desarrollo'",
+        "fecha": "Lunes 28 ",
+        "fechaISO": "2024-10-28T15:00:00",
+        "hora": "3:00 pm",
+        "lugar": "Bulevar de oriente, tarima",
+        "descripcion": "Con miras a aportar a las discusiones internacionales y nacional sobre el papel mundial y los problemas que afrontan los países megadiversos del mundo en términos de la biodiversidad, la diversidad cultural y lingüística y la cultura de paz, Minculturas plantea realizar cuatro foros para congregar y propiciar diálogos entre investigadores académicos y sabedores, con el fin de incidir en las deliberaciones de la zona azul de la COP16 y propiciar la confluencia de grupos de incidencia en la políticas nacionales y mundiales procedentes de dichos países, en función de visibilizar sus potencias ambientales y culturales, definir un equilibrio entre sus aportes a la estabilidad climática mundial y a la solución a los problemas derivados de los modelos de desarrollo vigentes, superar los riesgos de sus ecosistemas y culturas y construir la paz.<br>Ponenentes:<br>Bibiche Salumu Laumu (profesora universitaria y activista de derechos humanos) o Théophile Yuma Kalulu (profesor universitario y miembro de Tropenbos)<br>Daniel Libreros (profesor de las universidades Nacional y del Valle)>br>Pablo Fajardo (Unión de Afectadas/os por Operaciones Petroleras de Chevron - Amigos de la Tierra Ecuador)<br>Ramiro Chimuris Sosa (coordinador de la Red Latinoamericana sobre Deuda Pública y Salidas a Crisis Respectivas)<br>Modera: Hernán Darío Correa "
+      },
+      {
+        "id": "82",
+        "titulo": "DJ Tatitrón ",
+        "fecha": "Lunes 28 ",
+        "fechaISO": "2024-10-28T19:00:00",
+        "hora": "7:00 pm ",
+        "lugar": "Gran tarima",
+        "descripcion": "Concierto"
+      },
+      {
+        "id": "83",
+        "titulo": "Foro de países megadiversos 'Megadiversidad y construcción de paz'",
+        "fecha": "Martes 29",
+        "fechaISO": "2024-10-29T10:00:00",
+        "hora": "10:00 am",
+        "lugar": "Biblioteca Departamental, auditorio Óscar Gerardo Ramos",
+        "descripcion": "Con miras a aportar a las discusiones internacionales y nacional sobre el papel mundial y los problemas que afrontan los países megadiversos del mundo en términos de la biodiversidad, la diversidad cultural y lingüística y la cultura de paz, Minculturas plantea realizar cuatro foros para congregar y propiciar diálogos entre investigadores académicos y sabedores, con el fin de incidir en las deliberaciones de la zona azul de la COP16 y propiciar la confluencia de grupos de incidencia en la políticas nacionales y mundiales procedentes de dichos países, en función de visibilizar sus potencias ambientales y culturales, definir un equilibrio entre sus aportes a la estabilidad climática mundial y a la solución a los problemas derivados de los modelos de desarrollo vigentes, superar los riesgos de sus ecosistemas y culturas y construir la paz.<br>Ponentes:<br>Alphonse Maindo Monga Ngonga (director DRC Tropenbos, profesor universitario)<br>Mitiku Haile (profesor universidades Mekelle y PENHA, exrepresentante de Etiopía en la Unesco)<br>Lucía Ortiz (Amigos de la Tierra Brasil)<br>Danilo Rueda<br>Moderador: Danilo Urrea "
+      },
+      {
+        "id": "84",
+        "titulo": "Conversatorio Bibliotecas Comunitarias Tumaco",
+        "fecha": "Martes 29",
+        "fechaISO": "2024-10-29T14:00:00",
+        "hora": "2:00 pm",
+        "lugar": "Biblioteca Departamental, auditorio Óscar Gerardo Ramos",
+        "descripcion": "Participantes:<br>Bibliotecas comunitarias de Tumaco (Naidí, Bici-blioteca<br>Biblioteca Comunitaria Fundación Juvenil Alto Mira y Frontera) y Red Bibliotecas de Cali.Modera: Biblioteca Nacional. "
+      },
+      {
+        "id": "85",
+        "titulo": "Ciclo El Archivo dialoga con los territorios: 'Los sonidos de los ríos'",
+        "fecha": "Martes 29",
+        "fechaISO": "2024-10-29T10:00:00",
+        "hora": "10:00 am",
+        "lugar": "Minitarima 2",
+        "descripcion": "Reconstruir el pasado de estas poblaciones a partir de sus archivos es traer al presente la discusión de la cuenca del río Magdalena como la suma de varios territorios bioculturales en los que la sociedad se organizó durante milenios y estableció lazos culturales más allá de las clásicas divisiones político-administrativas. Pensar al país en términos de territorios bioculturales no solo permite rescatar la historia de lugares olvidados, sino repensar la organización territorial en torno a la centralidad de las aguas, en este caso del río Magdalena, una opción que podría traer mejores resultados en la lucha contra el cambio climático y en la preservación de la biodiversidad."
+      },
+      {
+        "id": "86",
+        "titulo": "Cine para la vida - Programa Cinemigrante Proyección del documental “Hijos del hielo” ",
+        "fecha": "Martes 29 ",
+        "fechaISO": "2024-10-29T08:00:00",
+        "hora": "8:00 am",
+        "lugar": "Museo La Tertulia, cinemateca",
+        "descripcion": "Director: Óscar Darío Jiménez, Colombia 2022<br>Duración: 45' "
+      },
+      {
+        "id": "87",
+        "titulo": "Cine para la vida - Saberes y voces - Proyección de la película 'Blue roots' ('Raíces azules') ",
+        "fecha": "Martes 29 ",
+        "fechaISO": "2024-10-29T10:00:00",
+        "hora": "10:00 am",
+        "lugar": "Museo La Tertulia, cinemateca",
+        "descripcion": "Gabriela Domínguez, Colombia 2022<br>Duración:75 minutos "
+      },
+      { 
+        "id": "88",
+        "titulo": "Foro de países megadiversos 'Megadiversidad y construcción de paz'",
+        "fecha": "Martes 29 ",
+        "fechaISO": "2024-10-29T15:00:00",
+        "hora": "3:00 pm",
+        "lugar": "Bulevar de oriente, tarima",
+        "descripcion": "Con miras a aportar a las discusiones internacionales y nacional sobre el papel mundial y los problemas que afrontan los países megadiversos del mundo en términos de la biodiversidad, la diversidad cultural y lingüística y la cultura de paz, Minculturas plantea realizar cuatro foros para congregar y propiciar diálogos entre investigadores académicos y sabedores, con el fin de incidir en las deliberaciones de la zona azul de la COP16 y propiciar la confluencia de grupos de incidencia en la políticas nacionales y mundiales procedentes de dichos países, en función de visibilizar sus potencias ambientales y culturales, definir un equilibrio entre sus aportes a la estabilidad climática mundial y a la solución a los problemas derivados de los modelos de desarrollo vigentes, superar los riesgos de sus ecosistemas y culturas y construir la paz.Ponentes:<br>Alphonse Maindo Monga Ngonga (director DRC Tropenbos, profesor universitario)<br>Mitiku Haile (profesor universidades Mekelle y PENHA, exrepresentante de Etiopía en la Unesco)<br>Lucía Ortiz (Amigos de la Tierra Brasil)<br>Danilo Rueda<br>Moderador: Danilo Urrea."
+      },
+      {
+        "id": "89",
+        "titulo": "Bahía",
+        "fecha": "Martes 29",
+        "fechaISO": "2024-10-29T19:00:00",
+        "hora": "7:00 pm",
+        "lugar": "Gran tarima",
+        "descripcion": "Concierto"
+      },
+      {
+        "id": "90",
+        "titulo": "Foro de países megadiversos 'Alimentación, megadiversidades y hambre'",
+        "fecha": "Miércoles 30",
+        "fechaISO": "2024-10-30T10:00:00",
+        "hora": "10:00 am",
+        "lugar": "Biblioteca Departamental, auditorio Óscar Gerardo Ramos",
+        "descripcion": "Con miras a aportar a las discusiones internacionales y nacional sobre el papel mundial y los problemas que afrontan los países megadiversos del mundo en términos de la biodiversidad, la diversidad cultural y lingüística y la cultura de paz, Minculturas plantea realizar cuatro foros para congregar y propiciar diálogos entre investigadores académicos y sabedores, con el fin de incidir en las deliberaciones de la zona azul de la COP16 y propiciar la confluencia de grupos de incidencia en la políticas nacionales y mundiales procedentes de dichos países, en función de visibilizar sus potencias ambientales y culturales, definir un equilibrio entre sus aportes a la estabilidad climática mundial y a la solución a los problemas derivados de los modelos de desarrollo vigentes, superar los riesgos de sus ecosistemas y culturas y construir la paz.<br>Ponentes:<br>Antoine Bolakonga Iliye (profesoruniversitario y activista social)<br>Wanda Olivares (Tierra Nativa y Amigos de la Tierra Argentina)<br>Juliana Millán<br>Modera: María Clara Van der Hammen."
+      },
+      {
+        "id": "91",
+        "titulo": "Vivir aquí, en la espesura",
+        "fecha": "Miércoles 30",
+        "fechaISO": "2024-10-30T16:00:00",
+        "hora": "4:00 pm",
+        "lugar": "Biblioteca Departamental, auditorio Óscar Gerardo Ramos",
+        "descripcion": "Conversación de artistas y curadoras¿En este país llamado inmensamente multicultural y biodiverso, cuál es la relación que los artistas tienen con sus lugares de vida?<br>¿Qué lugar ocupan los saberes del territorio en los currículos de nuestras escuelas de arte?<br>¿Qué significa investigar desde las artes aquello llamado “naturaleza”?<br>¿Con qué relaciones de poder, en el sistema artístico y económico, se enfrentan los artistas y sus territorios?Esta conversación se realiza gracias a la articulación entre dos de las exposiciones que abren los museos colombianos en Cali, en el marco de la COP16: El Jaguar y la Mariposa, Chiribiquete patrimonio natural y cultural de la humanidad del Museo Nacional de Colombia y la exposición “_____” conjunta del Museo La Tertulia y el Parque Explora. Mellisa Aguilar, Carolina Chacón, (dos artistas de Cali de la exposición en La Tertulia, entre Mariangela Aponte, Eblin Grueso, Wilson Díaz, Dayana Camacho y Miguel Escobar) Modera: María Buenaventura. "
+      },
+      {
+        "id": "92",
+        "titulo": "Conversatorio 'Músicas indígenas y campesinas por el cambio y el cuidado con la naturaleza. De Piedecuesta a Oaxaca y de la mano de las niñas, niños y jóvenes'",
+        "fecha": "Miércoles 30 ",
+        "fechaISO": "2024-10-30T14:00:00",
+        "hora": "2:00 pm",
+        "lugar": "Gran tarima",
+        "descripcion": "Participan:<br>Edson Velandia y La Orquesta La Bellecera, de Santander Banda Regional Mixe, de México A Edson Velandia lo han llamado el “Jimi Hendrix de la montaña”, y no es para menos. Ha construido una de las carreras más respetadas en la música colombiana en los últimos 20 años, justamente por su reivindicación de las montañas, el monte, el campesinado, lo rural y todo lo que hace parte de la vida y su arte. Y su nuevo proyecto musical no es diferente:<br>Una orquesta de niñas, niños, jóvenes y mujeres que nació de una biblioteca comunitaria. La Banda Regional Mixe, por su parte, nació hace más de 20 años en el seno de la comunidad indígena de Santa María Tlahuitoltepec, Oaxaca, México, y desde la fecha se mantiene no sólo como un proyecto musical que crea lazos en su comunidad sino como un proceso de formación para niñas, niños, jóvenes y mujeres. Y no sólo se ha presentado en grandes festivales mexicanos como Vive Latino, sino de nuestro país como Colombia al Parque. Con sus integrantes se aborda cómo sus bandas crean, crecen y llevan a otras partes sus semillas de cambio. "
+      },
+      {
+        "id": "93",
+        "titulo": "Ciclo El Archivo dialoga con los territorios: 'El Magdalena y la formación de territorios bioculturales'",
+        "fecha": "Miércoles 30",
+        "fechaISO": "2024-10-30T10:00:00",
+        "hora": "10:00 am",
+        "lugar": "Minitarima 2",
+        "descripcion": "Reconstruir el pasado de estas poblaciones a partir de sus archivos es traer al presente la discusión de la cuenca del río Magdalena como la suma de varios territorios bioculturales en los que la sociedad se organizó durante milenios y estableció lazos culturales más allá de las clásicas divisiones político-administrativas. Pensar al país en términos de territorios bioculturales no solo permite rescatar la historia de lugares olvidados, sino repensar la organización territorial en torno a la centralidad de las aguas, en este caso del río Magdalena, una opción que podría traer mejores resultados en la lucha contra el cambio climático y en la preservación de la biodiversidad."
+      },
+      {
+        "id": "94",
+        "titulo": "Cine para la vida - Programa Cinemigrante Proyección del documental “La ilusión de la abundancia” ",
+        "fecha": "Miércoles 30",
+        "fechaISO": "2024-10-30T17:00:00",
+        "hora": "5:00 pm",
+        "lugar": " Museo La Tertulia, cinemateca",
+        "descripcion": "Directora: Erika González Duración: 45 minutos Honduras, Perú, Brasil"
+      },
+      {
+        "id": "95",
+        "titulo": "Saberes y voces Proyección de cortos documentales ",
+        "fecha": "Miércoles 30",
+        "fechaISO": "2024-10-30T19:00:00",
+        "hora": "7:00 pm",
+        "lugar": "Museo La Tertulia, cinemateca",
+        "descripcion": "Hagamos el curare'<br>'Inchishashiyi Barí'<br>'Corazón del mundo'<br>'Bocachico'<br>'Kunsamaku Zaku'<br>'Varios directores'"
+      },
+      {
+        "id": "95",
+        "titulo": "Foro de países megadiversos 'Alimentación, megadiversidades y hambre'",
+        "fecha": "Miércoles 30 ",
+        "fechaISO": "2024-10-30T15:00:00",
+        "hora": "3:00 pm",
+        "lugar": "Bulevar de oriente, tarima",
+        "descripcion": "Con miras a aportar a las discusiones internacionales y nacional sobre el papel mundial y los problemas que afrontan los países megadiversos del mundo en términos de la biodiversidad, la diversidad cultural y lingüística y la cultura de paz, Minculturas plantea realizar cuatro foros para congregar y propiciar diálogos entre investigadores académicos y sabedores, con el fin de incidir en las deliberaciones de la zona azul de la COP16 y propiciar la confluencia de grupos de incidencia en la políticas nacionales y mundiales procedentes de dichos países, en función de visibilizar sus potencias ambientales y culturales, definir un equilibrio entre sus aportes a la estabilidad climática mundial y a la solución a los problemas derivados de los modelos de desarrollo vigentes, superar los riesgos de sus ecosistemas y culturas y construir la paz.Ponentes:<br>Antoine Bolakonga Iliye (profesoruniversitario y activista social)<br>Wanda Olivares (Tierra Nativa y Amigos de la Tierra Argentina)<br>Juliana Millán<br>Modera: María Clara Van der Hammen"
+      },
+      {
+        "id": "96",
+        "titulo": "'La Mambanegra'",
+        "fecha": "Miércoles 30 ",
+        "fechaISO": "2024-10-30T19:00:00",
+        "hora": "7:00 pm ",
+        "lugar": "Gran tarima",
+        "descripcion": "Concierto "
+      },
+      {
+        "id": "97",
+        "titulo": "Cita en el Parque",
+        "fecha": "Jueves 31",
+        "fechaISO": "2024-10-31T17:00:00",
+        "hora": "5:00 pm",
+        "lugar": "Minitarima 2",
+        "descripcion": "Obra de circo y clown del Teatro de Sueños"
+      },
+      {
+        "id": "98",
+        "titulo": "Saberes y experiencias Proyección del documental 'Holy shit' ",
+        "fecha": "Jueves 31",
+        "fechaISO": "2024-10-31T17:00:00",
+        "hora": "5:00 pm",
+        "lugar": "Museo La Tertulia, cinemateca",
+        "descripcion": "Director: Rubén Abruña, Colombia 2022¿Qué pasa con los alimentos que digerimos después de que salen de nuestro cuerpo? ¿Son residuos que se deben desechar o recursos que se deben reutilizar? En busca de respuestas, el director Rubén Abruña se embarca en una búsqueda investigativa y entretenida a través de 16 ciudades, en cuatro continentes. "
+      },
+      {
+        "id": "99",
+        "titulo": "Saberes y experiencias Proyección del documental “Magia salvaje” ",
+        "fecha": "Jueves 31",
+        "fechaISO": "2024-10-31T19:00:00",
+        "hora": "7:00 pm",
+        "lugar": "Museo La Tertulia, cinemateca",
+        "descripcion": "Director: Martín Nova,<br>Colombia Duración: 96 minutos “Colombia Magia Salvaje” recorre la diversidad del país en lugares llenos de contrastes, como las profundidades del océano Pacífico en Malpelo, la llegada de las ballenas cada año a la Ensenada de Utría en el Chocó, las huellas de la Ciudad Perdida en la Sierra Nevada de Santa Marta, el vuelo del cóndor en El Cocuy, el valor que reviste el sistema de páramos de las cordilleras, la Serranía de Chiribiquete y sus pinturas rupestres, los Llanos orientales, el Amazonas o la isla de Providencia, entre otros. "
+      },
+      {
+        "id": "100",
+        "titulo": "Superlitio",
+        "fecha": "Jueves 31 ",
+        "fechaISO": "2024-10-31T19:00:00",
+        "hora": "7:00 pm ",
+        "lugar": "Gran tarima",
+        "descripcion": "Concierto"
+      },
+      {
+        "id": "101",
+        "titulo": "El espíritu de las aguas",
+        "fecha": "Viernes 1 de noviembre ",
+        "fechaISO": "2024-11-01T16:00:00",
+        "hora": "4:00 pm ",
+        "lugar": "Minitarima 2",
+        "descripcion": "Grupo de títeres "
+       },
+       {
+        "id": "102",
+        "titulo": "Pulpus ",
+        "fecha": "Viernes 1 de noviembre ",
+        "fechaISO": "2024-11-01T17:00:00",
+        "hora": "5:00 pm",
+        "lugar": "Minitarima 2",
+        "descripcion": "Obra de la Corporación Cultural El Totumo Encantado "
+       },
+       {
+        "id": "103",
+        "titulo": "DJ Marlon Dawer X Damper ",
+        "fecha": "Viernes 1 de noviembre ",
+        "fechaISO": "2024-11-01T19:00:00",
+        "hora": "7:00 pm ",
+        "lugar": "Gran tarima",
+        "descripcion": "Concierto "
+       }
 ]

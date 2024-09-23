@@ -1,5 +1,5 @@
 [
-    {
+      {
         "id": "001",
         "titulo": "100 años de La Vorágine: La selva dual, madre y devoradora a la vez",
         "fecha": "19 de octubre a viernes 1 de noviembre",
@@ -82,12 +82,12 @@
       },
       {
         "id": "010",
-        "titulo": "¿Jairo Ojeda? ¿Canta Claro?",
+        "titulo": "Homenaje a Jairo Ojeda  ",
         "fecha": "Domingo 20 de octubre",
-        "fechaISO": "2024-10-20T19:00:00",
-        "hora": "07:00 p.m",
+        "fechaISO": "2024-10-20T14:00:00",                               
+        "hora": "02:00 p.m",
         "lugar": "Gran tarima",
-        "descripcion": ""
+        "descripcion": "Concierto"
       },
       {
         "id": "011",
@@ -96,16 +96,16 @@
         "fechaISO": "2024-10-21T09:00:00",
         "hora": "9:00 a.m",
         "lugar": "Biblioteca Departamental, domo 1",
-        "descripcion": "Gestada en un contexto de crisis climática y de atropellos contra los territorios bioculturales en Colombia, \"Los santos bajan, la Sierra sube\" despeja luz sobre el rico sistema de conocimiento de una de las cuatro comunidades que habitan la Sierra Nevada de Santa Marta, la Arhuaca. El Museo Colonial y el Museo Santa Clara en un ejercicio de cocreación con el mamo Arwavikú Crispín Izquierdo y el fotógrafo Coque Gamboa por una parte y, el Politécnico Grancolombiano por otra, han generado la Exposición Nómada que lleva el mismo nombre y la Mochila Viajera Arhuaca. En este espacio se desarrollarán recorridos, talleres y activaciones a las 10:00 am y 2:00 pm, bajo la siguiente distribución: Recorrido y activación \"Mochila viajera arhuaca\": Lunes 21, miércoles 23, viernes 25, domingo 27, martes 29 y jueves 31 de octubre. Recorrido y taller \"Los santos bajan, la sierra sube\": Martes 22, jueves 24, sábado 26, lunes 28, martes 29 de octubre y viernes 1 de noviembre."
+        "descripcion": "Gestada en un contexto de crisis climática y de atropellos contra los territorios bioculturales en Colombia, 'Los santos bajan, la Sierra sube' despeja luz sobre el rico sistema de conocimiento de una de las cuatro comunidades que habitan la Sierra Nevada de Santa Marta, la Arhuaca. El Museo Colonial y el Museo Santa Clara en un ejercicio de cocreación con el mamo Arwavikú Crispín Izquierdo y el fotógrafo Coque Gamboa por una parte y, el Politécnico Grancolombiano por otra, han generado la Exposición Nómada que lleva el mismo nombre y la Mochila Viajera Arhuaca.En este espacio se desarrollarán recorridos, talleres y activaciones a las 10:00 am y 2:00 pm, bajo la siguiente distribución:Recorrido y activación 'Mochila viajera arhuaca”: Lunes 21, miércoles 23, viernes 25, domingo 27, martes 29 y jueves 31 de octubre.Recorrido y taller 'Los santos bajan, la sierra sube': Martes 22, jueves 24, sábado 26, lunes 28, martes 29 de octubre y viernes 1 de noviembre."
       },
       {
         "id": "012",
         "titulo": "Exposición de la Civilización Ecológica de Qinghai",
         "fecha": "Lunes 21 de octubre a viernes 1 de noviembre",
-        "fechaISO": "2024-10-21T09:00:00",
+        "fechaISO": "2024-10-01T09:00:00",
         "hora": "09:00 a.m",
         "lugar": "Biblioteca Departamental, lobby principal",
-        "descripcion": "Exposición de 46 fotografías en total, y las dimensiones de cada fotografía son 100*80cm. La exposición muestra el medio ambiente, la flora, la fauna y la cultura de Qinghai, China, y refleja el desarrollo armonioso del hombre y la naturaleza. Esto se llama civilización ecológica, que se basa en la simbiosis armoniosa y el ciclo virtuoso del hombre y la naturaleza, el hombre y el hombre, el hombre y la sociedad. Una forma social cuyo objetivo básico es el desarrollo integral y la prosperidad sostenida, es la suma de los logros materiales y espirituales alcanzados por la humanidad siguiendo la ley objetiva del desarrollo armonioso del hombre, la naturaleza y la sociedad."
+        "descripcion": "Exposición de 46 fotografías en total, y las dimensiones de cada fotografía son 100*80cm. La exposición muestra el medio ambiente, la flora, la fauna y la cultura de Qinghai, China, y refleja el desarrollo armonioso del hombre y la naturaleza. Esto se llama civilización ecológica, que se basa en la simbiosis armoniosa y el ciclo virtuoso del hombre y la naturaleza, el hombre y el hombre, el hombre y la sociedad. Una forma social cuyo objetivo básico es el desarrollo integral y la prosperidad sostenida, es la suma de los logros materiales y espirituales alcanzados por la humanidad siguiendo la ley objetiva del desarrollo armonioso del hombre, la naturaleza y la sociedad."
       },
       {
         "id": "013",
@@ -122,7 +122,7 @@
         "fecha": "Lunes 21 de octubre a viernes 1 de noviembre",
         "fechaISO": "2024-10-21T10:00:00",
         "hora": "10:00 a.m",
-        "lugar": "Lugar a Dudas",
+        "lugar": "-",
         "descripcion": "Construcción de las casas bioculturales [Célula Chocó y Célula Vaupés] con el propósito de crear un espacio que contenga las voces, acuerdos, dibujos y proceso de diseño, como infraestructuras in situ desde la esencia de los saberes del territorio para el cuidado y regeneración de la vida. Entrelaza experiencias entre Colombia y los países invitados desde el sentir contemporáneo de prácticas que cruzan la arquitectura, los saberes, el arte y la ecología política."
       },
       {
@@ -138,17 +138,17 @@
         "id": "016",
         "titulo": "Obra de teatro de Nicolás Buenaventura",
         "fecha": "21 de octubre",
-        "fechaISO": "2024-10-21T15:00:00-19:00",
+        "fechaISO": "2024-10-21T17:00:00",
         "hora": "05:00 p.m",
         "lugar": "Bellas Artes, sala de teatro Julio Valencia",
         "descripcion": "-"
       },
       {
         "id": "017",
-        "titulo": "¿Cueros y Chontas? ¿Flaco Flow ¬ Melanina? ¿Alexis Play? Semblanzas del río Guapi Gia Fu",
+        "titulo": "Flaco Flow ¬ Melanina",
         "fecha": "21 de octubre",
         "fechaISO": "2024-10-21T19:00:00",
-        "hora": "07:00 p.m",
+        "hora": "07:00 p.m",                                                                                       
         "lugar": "Gran tarima",
         "descripcion": "concierto"
       },
@@ -158,7 +158,7 @@
         "fecha": "Martes 22 de octubre",
         "fechaISO": "2024-10-22T15:00:00",
         "hora": "03:00 p.m",
-        "lugar": "Por definir",
+        "lugar": "-",
         "descripcion": "En el marco de la exposición itinerante 'Los santos bajan y la Sierra viaja', en este espacio de diálogo se explora la profunda conexión con la Madre Tierra desde la sabiduría ancestral de la comunidad Arhuaca, declarada como patrimonio cultural inmaterial de la humanidad por la Unesco en el 2022, y su diálogo entre las sacralidades propias del mundo colonial y la actualidad. Participan: Mamo Arwa Viku (Crispín Izquierdo), Coque Gamboa, fotógrafo que ha documentado el recorrido de la Línea Negra, Guillermo Alberto Padilla Rubiano, asesor de la dirección de Poblaciones de Minculturas, Constanza Toquica, directora del Museo Santa Clara."
       },
       {
@@ -181,7 +181,7 @@
       },
       {
         "id": "021",
-        "titulo": "Concierto por confirmar ¿Caro Mosquera? ¿Zona marginal? ¿DJ Avil Victoria Sur Nidia Góngora?",
+        "titulo": "Caro Moskera ",
         "fecha": "Martes 22 de octubre",
         "fechaISO": "2024-10-22T19:00:00",
         "hora": "07:00 p.m",
@@ -212,7 +212,7 @@
         "fecha": "Miércoles 23 a viernes 25 de octubre",
         "fechaISO": "2024-10-23T09:00:00",
         "hora": "09:00 a.m",
-        "lugar": "Por definir",
+        "lugar": "-",
         "descripcion": "-"
       },
       {

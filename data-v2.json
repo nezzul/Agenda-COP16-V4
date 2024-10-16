@@ -4399,5 +4399,215 @@
     "lugar": "Oriente-Teatro la Unión",
     "descripcion": "Foro de países megadiversos-'Economías alternativas y populares, megadiversidad y cambio climático'<br>Ponenentes:<br>1) César Díaz (Comité de Integración del Macizo Colombiano)<br>2) Viviane Dewa (ministra de Turismo y Artesanía de Madagascar)<br>Modera: Catalina García",
     "tematica": "COP de la gente-día de los niños"
-  }
+  },
+  {
+    "id": "0191-L",
+    "titulo": "Danzando también se cuida",
+    "fecha": "1 de noviembre",
+    "fechaISO": "2024-11-01T09:00:00",
+    "hora": "11:00 a.m - 11:30 a.m",
+    "lugar": "Tarimas, Gran tarima",
+    "descripcion": "Tradiciones de la 21<br>Danza<br>34 personas<br>Oriente",
+    "tematica": "COP de la gente"
+    },
+    {
+    "id": "0192-L",
+    "titulo": "Los Chilimaniáticos",
+    "fecha": "1 de noviembre",
+    "fechaISO": "2024-11-01T09:00:00",
+    "hora": "2:00 p.m - 2:45 p.m",
+    "lugar": "Tarimas, Gran tarima",
+    "descripcion": "Fusión tropical<br>10 personas<br>Oriente - Vicepresidencia",
+    "tematica": "COP de la gente"
+    },
+    {
+    "id": "0193-L",
+    "titulo": "Vanny Jordan y su Orquesta",
+    "fecha": "1 de noviembre",
+    "fechaISO": "2024-11-01T09:00:00",
+    "hora": "3:00 p.m - 3:30 p.m<br>3:30 p.m - 3:45 p.m",
+    "lugar": "Tarimas, Gran tarima",
+    "descripcion": "Artista colombofrancés<br>Salsa y danza<br>20 personas<br>Externo",
+    "tematica": "COP de la gente"
+    },
+    {
+    "id": "0194-L",
+    "titulo": "Richie Marea",
+    "fecha": "1 de noviembre",
+    "fechaISO": "2024-11-01T09:00:00",
+    "hora": "3:45 p.m - 4:15 p.m<br>4:00 p.m - 4:45 p.m",
+    "lugar": "Tarimas, Gran tarima Farallones",
+    "descripcion": "Salsa urbana<br>12 personas<br>Oriente - Vicdepresidencia",
+    "tematica": "COP de la gente"
+    },
+    {
+    "id": "0195-L",
+    "titulo": "Grupo Traviesos",
+    "fecha": "1 de noviembre",
+    "fechaISO": "2024-11-01T09:00:00",
+    "hora": "4:30 p.m - 5:15 p.m<br>5:00 p.m - 5:45 p.m",
+    "lugar": "Tarimas, Gran tarima Farallones",
+    "descripcion": "Salsa choke<br>110 personas<br>1Oriente - Vicepresidencia",
+    "tematica": "COP de la gente"
+    },
+    {
+    "id": "0196-L",
+    "titulo": "DJ Wins",
+    "fecha": "1 de noviembre",
+    "fechaISO": "2024-11-01T09:00:00",
+    "hora": "5:30 p.m - 6:15 p.m<br>6:00 p.m - 6:45 p.m",
+    "lugar": "Tarimas, Gran tarima Farallones",
+    "descripcion": "",
+    "tematica": "COP de la gente"
+    },
+    {
+    "id": "0197-L",
+    "titulo": "Marabunta",
+    "fecha": "1 de noviembre",
+    "fechaISO": "2024-11-01T09:00:00",
+    "hora": "6:30 p.m - 7:15 p.m<br>7:00 p.m - 7:45 p.m",
+    "lugar": "Tarimas, Gran tarima Farallones",
+    "descripcion": "",
+    "tematica": "COP de la gente"
+    },
+    {
+    "id": "0198-L",
+    "titulo": "Dawer X Damper",
+    "fecha": "1 de noviembre",
+    "fechaISO": "2024-11-01T09:00:00",
+    "hora": "7:30 p.m - 8:15 p.m<br>8:00 p.m - 8:45 p.m",
+    "lugar": "Tarimas, Gran tarima Farallones",
+    "descripcion": "",
+    "tematica": "COP de la gente"
+    },
+    {
+    "id": "0199-L",
+    "titulo": "Poesía y literatura en clave de biodiversidad - Declamación",
+    "fecha": "1 de noviembre",
+    "fechaISO": "2024-11-01T09:00:00",
+    "hora": "4:00 p.m - 4:45 p.m",
+    "lugar": "Tarimas, Tertuliadero",
+    "descripcion": "45 minutos<br>Mesa de Cultura, Arte y Biodiversidad",
+    "tematica": "COP de la gente"
+    },
+    {
+    "id": "0200-L",
+    "titulo": "Poesía y literatura en clave de biodiversidad",
+    "fecha": "1 de noviembre",
+    "fechaISO": "2024-11-01T09:00:00",
+    "hora": "5:00 p.m - 5:45 p.m",
+    "lugar": "Tarimas, Tertuliadero",
+    "descripcion": "Poesía de autor<br>Mesa de Cultura, Arte y Biodiversidad",
+    "tematica": "COP de la gente"
+    },
+    {
+    "id": "0201-L",
+    "titulo": "El espíritu de las aguas",
+    "fecha": "1 de noviembre",
+    "fechaISO": "2024-11-01T09:00:00",
+    "hora": "4:00 p.m - 5:00 p.m",
+    "lugar": "Tarimas, Minitarima Distrito Pacífico y Convergencia regional",
+    "descripcion": "Corporación cultural Camaleón de Urabá<br>Títeres<br>Equipo Territorial",
+    "tematica": "COP de la gente"
+    },
+    {
+    "id": "0202-L",
+    "titulo": "Pulpos",
+    "fecha": "1 de noviembre",
+    "fechaISO": "2024-11-01T09:00:00",
+    "hora": "5:00 p.m - 6:00 p.m",
+    "lugar": "Tarimas, Minitarima Distrito Pacífico y Convergencia regional",
+    "descripcion": "Corporación Cultural El Totumo Encantado<br>Equipo Territorial",
+    "tematica": "COP de la gente"
+    },
+    {
+    "id": "0203-L",
+    "titulo": "Homilía espiritual de apertura",
+    "fecha": "1 de noviembre",
+    "fechaISO": "2024-11-01T09:00:00",
+    "hora": "9:30 a.m - 9:45 a.m",
+    "lugar": "Tarimas",
+    "descripcion": "Min Ambiente<br>Fernando García",
+    "tematica": "COP de la gente"
+    },
+    {
+    "id": "0204-L",
+    "titulo": "Cultura de Paz: el arte de vivir y relacionarse en armonía",
+    "fecha": "1 de noviembre",
+    "fechaISO": "2024-11-01T09:00:00",
+    "hora": "3:00 p.m - 3:45 p.m",
+    "lugar": "Tarimas, TARIMA DE LAS CULTURAS Y LAS ARTES",
+    "descripcion": "Taller de yoga<br>Mesa de Cultura, Arte y Biodiversidad",
+    "tematica": "COP de la gente"
+    },
+    {
+    "id": "0205-L",
+    "titulo": "El oasis de la biodiversidad",
+    "fecha": "1 de noviembre",
+    "fechaISO": "2024-11-01T09:00:00",
+    "hora": "4:00 p.m - 4:45 p.m",
+    "lugar": "Tarimas, TARIMA DE LAS CULTURAS Y LAS ARTES",
+    "descripcion": "Yoga<br>Mesa de Cultura, Arte y Biodiversidad",
+    "tematica": "COP de la gente"
+    },
+    {
+    "id": "0206-L",
+    "titulo": "Circo",
+    "fecha": "1 de noviembre",
+    "fechaISO": "2024-11-01T09:00:00",
+    "hora": "5:00 p.m - 5:45 p.m",
+    "lugar": "Tarimas, TARIMA DE LAS CULTURAS Y LAS ARTES",
+    "descripcion": "Dirección de Artes",
+    "tematica": "COP de la gente"
+    },
+    {
+    "id": "0207-L",
+    "titulo": "Artes y oficios de la comunidad anfibia de la laguna de Sonso",
+    "fecha": "1 de noviembre",
+    "fechaISO": "2024-11-01T09:00:00",
+    "hora": "",
+    "lugar": "Stands economías populares zona verde",
+    "descripcion": "4 stands<br>Mesa de Cultura, Arte y Biodiversidad<br>Cali, Valle del Cauca",
+    "tematica": "COP de la gente"
+    },
+    {
+    "id": "0208-L",
+    "titulo": "Biblioteca itinerante de los sueños",
+    "fecha": "31 de octubre a viernes 1 de noviembre",
+    "fechaISO": "2024-10-31T09:00:00",
+    "hora": "10:00 a.m - 12:00 p.m<br>3:00 p.m - 5:00 p.m",
+    "lugar": "Stands economías populares zona verde",
+    "descripcion": "Activación dispositivo Biblioteca Itinerante<br>La Encantadora<br>En Homenaje al Maestro Alfredo Vanín<br>Despacho Ministro - Equipo Territorial",
+    "tematica": "COP de la gente"
+    },
+    {
+    "id": "0209-L",
+    "titulo": "Biblioteca itinerante de los sueños",
+    "fecha": "31 de octubre a viernes 1 de noviembre",
+    "fechaISO": "2024-11-01T09:00:00",
+    "hora": "10:00 a.m - 12:00 p.m<br>3:00 p.m - 5:00 p.m",
+    "lugar": "Stands economías populares zona verde",
+    "descripcion": "Activación dispositivo Biblioteca Itinerante<br>La Encantadora<br>En Homenaje al Maestro Alfredo Vanín<br>Despacho Ministro - Equipo Territorial",
+    "tematica": "COP de la gente"
+    },
+    {
+    "id": "0210-L",
+    "titulo": "LME",
+    "fecha": "1 de noviembre",
+    "fechaISO": "2024-11-01T09:00:00",
+    "hora": "7:00 p.m",
+    "lugar": "Parque Tecnológico San Fernando (Circuito Terra)",
+    "descripcion": "45 min",
+    "tematica": "COP de la gente"
+    },
+    {
+    "id": "0211-L",
+    "titulo": "La Carta",
+    "fecha": "1 de noviembre",
+    "fechaISO": "2024-11-01T09:00:00",
+    "hora": "6:00 p.m - 9:00 p.m",
+    "lugar": "Cinemateca",
+    "descripcion": "Proyección del documental<br>Biodiversidad, interculturalidad y espiritualidad, camino hacia a la paz con la naturaleza - Movimiento Laudato Si Estados Unidos - El Vaticano Cine foro<br>MinAmbiente",
+    "tematica": "COP de la gente"
+    }
 ]

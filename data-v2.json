@@ -1968,8 +1968,257 @@
   "lugar": "Por confirmar",
   "descripcion": "Música. <br>Gob. Cauca",
   "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+},
+{
+  "id": "001-27",
+  "titulo": "Foro “Infraestructuras para un vivir biocultural“",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T14:00:00",
+  "hora": "2:00 pm - 4:00 pm",
+  "lugar": "Bellas Artes, Sala de Cámara",
+  "descripcion": "Casa Biocultural<br> Día 1, pánel 1 <br>(Casa biocultural: Célula Chocó y Vaupés)<br> Grupo de Infraestructura Cultural <br>Panelistas: Josefina Klinger (Col) Reynel Ortega (Col) Juliana Ramírez (Col) Pedro Aparicio (Col)<br> Bárbara Santos (Col)",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "002-27",
+  "titulo": "Foro “Infraestructuras para un vivir biocultural“",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T18:00:00",
+  "hora": "6:30 pm a 8:00 pm",
+  "lugar": "Biblioteca Departamental Jorge Garcés Borrero, Auditorio Óscar Gerardo Ramos",
+  "descripcion": "Resonancias materiales<br> Día 1, pánel 3<br> (Resonancias materiales)<br> Grupo de Infraestructura Cultural<br> Panelistas: Leonel Vasquez (Col)<br> Gabriella de Mattos (Br)<br> M Reynel Ortega (Col)<br> M Barbara Santos (Col)",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "003-27",
+  "titulo": "Grupo Ensamble ciudad de Cali “Sonidos de esperanza para el medio ambiente“",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T10:00:00",
+  "hora": "10:00 am a 12:00 m",
+  "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+  "descripcion": "Niñes de 9 a 12 años<br> Programa Sonidos de Esperanza, de MinCulturas, en convenio con la Fundación Batuta",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "004-27",
+  "titulo": "Puerto Candelaria “Sinfonía de los bichos raros“",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T14:00:00",
+  "hora": "2:00 pm a 2:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+  "descripcion": "CAF",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "005-27",
+  "titulo": "Homenaje a Jairo Ojeda",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T15:00:00",
+  "hora": "3:00 pm a 5:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+  "descripcion": "Jairo Ojeda - 3:00 pm a 3:45 pm<br> Cantaclaro - 4:00 pm a 4:45 pm<br> Jacana Jacana - 5:00 a 5:45 pm<br> Equipo Territorial",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "006-27",
+  "titulo": "Residuo Sólido y Víctor Hugo",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T18:00:00",
+  "hora": "6:00 pm a 7:45 am",
+  "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+  "descripcion": "<b>Residuo Sólido</b> 6:00 pm a 6:45 pm<br> <b>Víctor Hugo</b> 7:00 pm a 7:45 pm",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "007-27",
+  "titulo": "Carlos Rivas - Concierto",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T11:00:00",
+  "hora": "11:00 am a 11:45 am",
+  "lugar": "ZONA VERDE - Tarimas, Minitarima Distrito Pacífico y Convergencia regional",
+  "descripcion": "Fusión, músicas tradicionales, world music <br>Conv. Reg - Cauca",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "008-27",
+  "titulo": "Pandemi-k",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T14:00:00",
+  "hora": "2:00 pm a 2:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, Minitarima Distrito Pacífico y Convergencia regional",
+  "descripcion": "Música andina<br> Conv. Reg - Nariño",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "009-27",
+  "titulo": "Aguacero del Micay 'Músicas del agua'",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T15:00:00",
+  "hora": "3:00 pm a 3:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, Minitarima Distrito Pacífico y Convergencia regional",
+  "descripcion": "Música tradicional del Pacífico sur<br> Conv. Reg. - Cauca",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "010-27",
+  "titulo": "Grupo Jhoalexor",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T16:00:00",
+  "hora": "4:00 pm a 4:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, Minitarima Distrito Pacífico y Convergencia regional",
+  "descripcion": "Salsa choke<br> Oriente - Vicepresidencia",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "011-27",
+  "titulo": "Viclover",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T17:00:00",
+  "hora": "5:00 pm a 5:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, Minitarima Distrito Pacífico y Convergencia regional",
+  "descripcion": "Salsa<br> Oriente - Vicepresidencia",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "012-27",
+  "titulo": "Homilía espiritual de apertura",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T09:30:00",
+  "hora": "9:30 am - 9:45 am",
+  "lugar": "ZONA VERDE - Tarimas",
+  "descripcion": "Min Ambiente<br> (Fernando García)",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "013-27",
+  "titulo": "Congreso a la Calle",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T13:30:00",
+  "hora": "1:30 pm a 3:00 pm",
+  "lugar": "ZONA VERDE - Tarimas, TARIMA DE LAS CULTURAS Y LAS ARTES",
+  "descripcion": "Cámara de Representantes<br> Proceso pedagógico<br> MinAmbiente",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "014-27",
+  "titulo": "AL RITMO DE LA BASURA",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T15:00:00",
+  "hora": "3:00 pm a 3:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, TARIMA DE LAS CULTURAS Y LAS ARTES",
+  "descripcion": "ONG Corporación Escuela Rodante<br> Externa",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "015-27",
+  "titulo": "Rap y Graffiti",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T16:00:00",
+  "hora": "4:00 pm a 4:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, TARIMA DE LAS CULTURAS Y LAS ARTES",
+  "descripcion": "Dirección de Artes",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "016-27",
+  "titulo": "Grupos Juglares y Cómplices 'Pacha Mama, no llores más'",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T17:00:00",
+  "hora": "5:00 pm a 5:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, TARIMA DE LAS CULTURAS Y LAS ARTES",
+  "descripcion": "Recital poético-musical<br> Mesa de Cultura, Arte y Biodiversidad – Cali",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "017-27",
+  "titulo": "Homenaje Botero",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T17:00:00",
+  "hora": "5:00 pm a 5:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, TARIMA DE LAS CULTURAS Y LAS ARTES",
+  "descripcion": "Ballet de Medellín",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "018-27",
+  "titulo": "Festival de Economía Popular",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T08:00:00",
+  "hora": "8:00 am a 6:00 pm",
+  "lugar": "ZONA VERDE - Stands economías populares zona verde",
+  "descripcion": "2 iniciativas: Editorial y productos  Cannabis medicinal<br> DEDE",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "019-27",
+  "titulo": "Festival de Economía Popular",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T08:00:00",
+  "hora": "8:00 am a 6:00 pm",
+  "lugar": "ZONA VERDE - Stands economías populares zona verde",
+  "descripcion": "Valle del Cauca<br> DEDE",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "020-27",
+  "titulo": "Activación dispositivo Biblioteca Itinerante - La Encantadora",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T15:00:00",
+  "hora": "3:00 pm a 5:00 pm",
+  "lugar": "ZONA VERDE - Espacios urbanos, Recorridos zona verde 1",
+  "descripcion": "“Biblioteca itinerante de los sueños”<br> En Homenaje al Maestro Alfredo Vanín<br> Despacho Ministro - Equipo Territorial",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "021-27",
+  "titulo": "89 Birds - Tato Lopera",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T18:00:00",
+  "hora": "6:00 pm",
+  "lugar": "YAWA, Parque Tecnológico San Fernando (Circuito Terra)",
+  "descripcion": "",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "022-27",
+  "titulo": "Otros mundos ya existen",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T14:00:00",
+  "hora": "2:00 pm a 3:00  pm",
+  "lugar": "Museo La Tertulia, Cinemateca",
+  "descripcion": "Presentación de la serie infantil 'Vidas campesinas' <br>Modera: Carmen Mora <br>ICANH",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "023-27",
+  "titulo": "Cine para la vida -  Programa Cinemigrante + FICDEH",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T15:00:00",
+  "hora": "3:00 pm a 5:00 pm",
+  "lugar": "Museo La Tertulia, Cinemateca",
+  "descripcion": "Proyección de películas <br>'La finca de Bethsabé' <br>'Peligra la Gorgona'<br> 'El chucur' <br><b>Duración:</b> 47 minutos <br>DACMI",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "024-27",
+  "titulo": "Cine para la vida -  Obras colombianas",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T18:00:00",
+  "hora": "6:00 pm a 8:00 pm",
+  "lugar": "Museo La Tertulia, Cinemateca",
+  "descripcion": "Proyección de 'Árbol de la vida y muerte' 15'<br> 'Hijos del hielo'<br> Documental - 45', 2022 <br> Director: Óscar Darío Jiménez, Colombia<br> DACMI",
+  "tematica": "Educación y sistemas de conocimiento"
+},
+{
+  "id": "025-27",
+  "titulo": "We Are Guardians",
+  "fecha": "Domingo 27 de octubre",
+  "fechaISO": "2024-10-27T20:15:00",
+  "hora": "8:15 pm",
+  "lugar": "Museo La Tertulia, Cinemateca",
+  "descripcion": "Estreno - Brasil<br> FINCAMAZONÍA",
+  "tematica": "Educación y sistemas de conocimiento"
 }
-
 
 
 ]

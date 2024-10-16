@@ -1529,6 +1529,7 @@
       "descripcion": "DACMI - G. Comunicaciones <br>Moderador: Daniel Montoya",
       "tematica": "Recursos genéticos y protocolos - Género"
   },
+  
   {
     "id": "001-25",
     "titulo": "Vidas campesinas",
@@ -2218,7 +2219,347 @@
   "lugar": "Museo La Tertulia, Cinemateca",
   "descripcion": "Estreno - Brasil<br> FINCAMAZONÍA",
   "tematica": "Educación y sistemas de conocimiento"
-}
+},
+{
+  "id": "001-24",
+  "titulo": "Conversaciones en la diversidad",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T14:00:00",
+  "hora": "02:00 p.m a 05:00 p.m",
+  "lugar": "Biblioteca Departamental Jorge Garcés Borrero-Auditorio Óscar Gerardo Ramos 50 personas",
+  "descripcion": "Una juntanza de portadores del patrimonio vivo alrededor de los sistemas de conocimiento para el manejo territorial",
+  "tematica": "Pueblos y comunidades"
+},
 
+{
+  "id": "002-24",
+  "titulo": "Encuentro de Cultura de Paz en los territorios #EstamosConLaVida",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T09:00:00",
+  "hora": "09:00 a.m a 01:00 p.m",
+  "lugar": "Bellas Artes-Sala de Cámara 120 pers",
+  "descripcion": "Encuentro de Cultura de Paz en los territorios #EstamosConLaVida",
+  "tematica": "Pueblos y comunidades"
+},
+
+{
+  "id": "003-24",
+  "titulo": "GUACAMAYA: Generación Unificada con inteligencia Artificial para la Conservación AMAzónica y Ambiental - Uni AndesMin Ambiente(Fernando García)",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T00:00:00",
+  "hora": "00:00 p.m",
+  "lugar": "Bellas Artes-Sala de Cámara 120 pers",
+  "descripcion": "GUACAMAYA: Generación Unificada con inteligencia Artificial para la Conservación AMAzónica y Ambiental - Uni AndesMin Ambiente(Fernando García)",
+  "tematica": "Pueblos y comunidades"
+},
+
+{
+  "id": "004-24",
+  "titulo": "Homenaje a Alfredo Vanín Romero",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T10:00:00",
+  "hora": "10:00 a.m a 10:45 a.m",
+  "lugar": "ZONA VERDE-Tarimas-Gran tarima FARALLONES",
+  "descripcion": "Despacho Ministro - Equipo Territorial-Homenaje a Alfredo Vanín Romero",
+  "tematica": "Pueblos y comunidades"
+},
+
+{
+  "id": "005-24",
+  "titulo": "Cuidando desde lo Ancestral Danza Folklórica",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T11:00:00",
+  "hora": "11:00 a.m a 11:45 a.m",
+  "lugar": "ZONA VERDE-Tarimas-Gran tarima FARALLONES",
+  "descripcion": "Oriente-Cuidando desde lo Ancestral Danza Folklórica",
+  "tematica": "Pueblos y comunidades"
+},
+
+{
+  "id": "006-24",
+  "titulo": "Lanzamiento serie podcast 'Curar el cuerpo territorio: Canasto de las memorias de las mujeres indígenas sobrevivientes de las caucherías'",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T14:00:00",
+  "hora": "02:00 p.m a 03:45 p.m",
+  "lugar": "ZONA VERDE-Tarimas-Gran tarima FARALLONES",
+  "descripcion": "D. Poblaciones-Invitados / Participantes:<br>Fany Kuiru, Carol González, Nazareth Simón de Cabrera, Paulina Romero",
+  "tematica": "Pueblos y comunidades"
+},
+
+{
+  "id": "007-24",
+  "titulo": "Aproximaciones al diálogo intercultural y sistemas de conocimiento desde los pueblos amazónicos",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T16:00:00",
+  "hora": "04:00 p.m a 04:45 p.m",
+  "lugar": "ZONA VERDE-Tarimas-Gran tarima FARALLONES",
+  "descripcion": "D. Poblaciones-Invitados: Organización Nacional Indígena de Colombia (4 personas)",
+  "tematica": "Pueblos y comunidades"
+},
+
+
+{
+  "id": "008-24",
+  "titulo": "Cueros y Chontas",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T17:00:00",
+  "hora": "05:00 p.m a 05:45 p.m",
+  "lugar": "ZONA VERDE-Tarimas-Gran tarima FARALLONES",
+  "descripcion": "Equipo Territorial-Cueros y Chontas",
+  "tematica": "Pueblos y comunidades"
+},
+{
+  "id": "009-24",
+  "titulo": "Jon Henrik Fjällgren (artista indígena sueco)",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T18:00:00",
+  "hora": "06:00 p.m a 06:45 p.m",
+  "lugar": "ZONA VERDE-Tarimas-Gran tarima FARALLONES",
+  "descripcion": "Jon Henrik Fjällgren (artista indígena sueco)",
+  "tematica": "Pueblos y comunidades"
+},
+
+{
+  "id": "010-24",
+  "titulo": "Estrellas del Caribe",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T19:00:00",
+  "hora": "07:00 p.m a 07:45 p.m",
+  "lugar": "ZONA VERDE-Tarimas-Gran tarima FARALLONES",
+  "descripcion": "Estrellas del Caribe",
+  "tematica": "Pueblos y comunidades"
+},
+
+{
+  "id": "011-24",
+  "titulo": "Semblanzas del río Guapi",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T20:00:00",
+  "hora": "08:00 p.m a 08:45 p.m",
+  "lugar": "ZONA VERDE-Tarimas-Gran tarima FARALLONES",
+  "descripcion": "Semblanzas del río Guapi",
+  "tematica": "Pueblos y comunidades"
+},
+
+{
+  "id": "012-24",
+  "titulo": "FESTIVAL DE LA BIODIVERSIDAD",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T17:00:00",
+  "hora": "07:00 p.m a 12:00 p.m",
+  "lugar": "ZONA VERDE-Tarimas",
+  "descripcion": "Extensión foro uso cultural de la hoja de coca 'Ritualidad, conocimiento y saberes de los pueblos indígenas de México de las plantas Sagradas'<br>Invitados:<br>Dra. Antonella Fagetti (Invitada Internacional) Fabiola Piñacue Achicue Indígena del Pueblo Nasa, natural del Resguardo de Calderas en Tierradentro, Cauca. Empresaria indígena fundadora del Proyecto Coca Nasas",
+  "tematica": "Pueblos y comunidades"
+},
+{
+  "id": "013-24",
+  "titulo": "Conversatorio 'Revista Gaceta: ¿Qué hay sobre los vínculos entre  cultura y medio ambiente?'",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T16:00:00",
+  "hora": "04:00 p.m a 05:00 p.m",
+  "lugar": "ZONA VERDE-Tarimas-Tertuliadero",
+  "descripcion": "DACMI - G. Comunicaciones<br>3 invitados<br>Moderador: Daniel Montoya",
+  "tematica": "Pueblos y comunidades"
+},
+
+{
+  "id": "014-24",
+  "titulo": "Agrupación Artística Bámbara Negra 'Pregones de mi tierra'",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T14:00:00",
+  "hora": "02:00 p.m a 02:45 p.m",
+  "lugar": "ZONA VERDE-Tarimas-Minitarima Distrito Pacífico y Convergencia regional",
+  "descripcion": "Teatro - Danza-13 personas-Converg. Reg - Chocó-Agrupación Artística Bámbara Negra 'Pregones de mi tierra'",
+  "tematica": "Pueblos y comunidades"
+},
+
+
+{
+  "id": "015-24",
+  "titulo": "Los Brian",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T15:00:00",
+  "hora": "03:00 p.m a 03:45 p.m",
+  "lugar": "ZONA VERDE-Tarimas-Minitarima Distrito Pacífico y Convergencia regional",
+  "descripcion": "8 personas Baile urbano Oriente-Los Brian",
+  "tematica": "Pueblos y comunidades"
+},
+
+{
+  "id": "016-24",
+  "titulo": "Grupo Reggae Mao",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T16:00:00",
+  "hora": "04:00 p.ma 04:45 p.m",
+  "lugar": "ZONA VERDE-Tarimas-Minitarima Distrito Pacífico y Convergencia regional",
+  "descripcion": "6 personas Oriente - Vicepresidencia-Grupo Reggae Mao",
+  "tematica": "Pueblos y comunidades"
+},
+
+
+{
+  "id": "017-24",
+  "titulo": "Mucho Flow",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T17:00:00",
+  "hora": "05:00 p.m a 05:45 p.m",
+  "lugar": "ZONA VERDE-Tarimas-Minitarima Distrito Pacífico y  Convergencia regional",
+  "descripcion": "6 pesrsonas Salsa choke Oriente - Vicepresidencia-Mucho Flow",
+  "tematica": "Pueblos y comunidades"
+},
+
+{
+  "id": "018-24",
+  "titulo": "Homilía espiritual de apertura",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T09:30:00",
+  "hora": "09:30 a.m a 09:45 a.m",
+  "lugar": "ZONA VERDE-Tarimas",
+  "descripcion": "Homilía espiritual de apertura Min Ambiente(Fernando García)",
+  "tematica": "Pueblos y comunidades"
+},
+
+{
+  "id": "019-24",
+  "titulo": "'Los Territorios Negros y Su aporte a la Conservación de la Biodiversidad'-Agencia Nacional de Tierras- Subdirección de Asuntos Étnicos",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T10:00:00",
+  "hora": "10:00 a.m a 11:30 a.m",
+  "lugar": "ZONA VERDE-Tarimas-TARIMA DE LAS CULTURAS Y LAS ARTES",
+  "descripcion": "Min Ambiente(Fernando García) 'Los Territorios Negros y Su aporte a la Conservación de la Biodiversidad'-Agencia Nacional de Tierras- Subdirección de Asuntos Étnicos",
+  "tematica": "Pueblos y comunidades"
+},
+
+{
+  "id": "020-24",
+  "titulo": "'Congreso a la Calle' Cámara de Representantes",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T13:30:00",
+  "hora": "01:30 p.m a 03:00 p.m",
+  "lugar": "ZONA VERDE-Tarimas-TARIMA DE LAS CULTURAS Y LAS ARTES",
+  "descripcion": "'Congreso a la Calle' Cámara de Representantes Proceso pedagógico MinAmbiente",
+  "tematica": "Pueblos y comunidades"
+},
+
+{
+  "id": "021-24",
+  "titulo": "Biodiversidad A Través De Nuestras Tradiciones – Gobernación del Tolima",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T15:00:00",
+  "hora": "03:00 p.m a 03:45 p.m",
+  "lugar": "ZONA VERDE-Tarimas-TARIMA DE LAS CULTURAS Y LAS ARTES",
+  "descripcion": "Biodiversidad A Través De Nuestras Tradiciones – Gobernación del Tolima Min Ambiente ",
+  "tematica": "Pueblos y comunidades"
+},
+
+{
+  "id": "022-24",
+  "titulo": "José Luis Quintero",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T16:00:00",
+  "hora": "04:00 p.m a 04:45 p.m",
+  "lugar": "ZONA VERDE-Tarimas-TARIMA DE LAS CULTURAS Y LAS ARTES",
+  "descripcion": "José Luis Quintero Cantautor-Mesa de Cultura, Arte y Biodiversidad – Cali",
+  "tematica": "Pueblos y comunidades"
+},
+
+{
+  "id": "023-24",
+  "titulo": "Big Nathy",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T17:00:00",
+  "hora": "05:00 p.m a 05:45 p.m",
+  "lugar": "ZONA VERDE-Tarimas-TARIMA DE LAS CULTURAS Y LAS ARTES",
+  "descripcion": "Big Nathy Salsa choke 7 personas Danza Oriente",
+  "tematica": "Pueblos y comunidades"
+},
+
+{
+  "id": "024-24",
+  "titulo": "Gobernanza cultural para la Paz con la Naturaleza: Diálogo de saberes, voces pluriculturales. 'La cultura a través de las Lenguas Nativas'",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T16:30:00",
+  "hora": "04:30 p.m a 05:30 p.m",
+  "lugar": "ZONA VERDE-Maloka indígena",
+  "descripcion": "Seis participantes:<br>tres indígenas, dos líderes de comunidades NARP, un representante del Pueblo Rrom<br>Dir. Poblaciones - Dir. Fomento",
+  "tematica": "Pueblos y comunidades"
+},
+{
+  "id": "025-24",
+  "titulo": "Festival de Economía Popular de la Biodiversidad en las culturas, las artes y los saberes - Tumaco<br>(10 stands)",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T08:00:00",
+  "hora": "08:00 a.m a 06:00 p.m",
+  "lugar": "ZONA VERDE-Stands economías populares zona verde",
+  "descripcion": "Festival de Economía Popular de la Biodiversidad en las culturas, las artes y los saberes - Tumaco<br>(10 stands)",
+  "tematica": "Pueblos y comunidades"
+},
+
+{
+  "id": "026-24",
+  "titulo": "Activación dispositivo Biblioteca Itinerante La Encantadora<br>“Biblioteca itinerante de los sueños”",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T10:00:00",
+  "hora": "10:00 a.m a 12:00 p.m",
+  "lugar": "ZONA VERDE-Espacios urbanos-Recorridos zona verde 1",
+  "descripcion": "Activación dispositivo Biblioteca Itinerante La Encantadora<br>“Biblioteca itinerante de los sueños”<br>En Homenaje al Maestro Alfredo Vanín Despacho Ministro - Equipo Territorial",
+  "tematica": "Pueblos y comunidades"
+},
+
+{
+  "id": "027-24",
+  "titulo": "Mario Tchak",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T00:00:00",
+  "hora": "00:00 p.m",
+  "lugar": "YAWA-Parque Tecnológico San Fernando (Circuito Terra)",
+  "descripcion": "Mario Tchak",
+  "tematica": "Pueblos y comunidades"
+
+},
+
+{
+  "id": "028-24",
+  "titulo": "Documental 'Un tejido para sanar', de la Sierra Nevada de Santa Marta",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T11:00:00",
+  "hora": "11:00 a.m a 01:00 p.m",
+  "lugar": "Museo La Tertulia-Cinemateca",
+  "descripcion": "Documental 'Un tejido para sanar', de la Sierra Nevada de Santa Marta<br>Invitados: José Manuel Mamatakan (indígena Koggi) - representante de la CTC<br>Modera: Carmen Mora, ICANH",
+  "tematica": "Pueblos y comunidades"
+},
+
+{
+  "id": "029-24",
+  "titulo": "'Otros mundos ya existen' Presentación de la serie infantil 'Vidas campesinas' y de 'Diarios del agua'",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T14:00:00",
+  "hora": "02:00 p.m a 04:00 p.m",
+  "lugar": "Museo La Tertulia-Cinemateca",
+  "descripcion": "'Otros mundos ya existen' Presentación de la serie infantil 'Vidas campesinas' y de 'Diarios del agua' Modera: Carmen Mora ICANH",
+  "tematica": "Pueblos y comunidades"
+},
+
+{
+  "id": "030-24",
+  "titulo": "Cine para la vida -  Programa Cinemigrante",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T19:00:00",
+  "hora": "07:00 p.m a 09:00 p.m",
+  "lugar": "Museo La Tertulia-Cinemateca",
+  "descripcion": "Proyección documental 'Escutea terra foi rasgada' ('Escucha: la tierra fue rasgada')<br>Duración: 88 minutos<br>Directores: Cassandra Mello y Fred Rahal<br>Brasil",
+  "tematica": "Pueblos y comunidades"
+},
+
+{
+  "id": "031-24",
+  "titulo": "Franja saberes y voces",
+  "fecha": "Jueves 24 de octubre",
+  "fechaISO": "2024-10-24T18:00:00",
+  "hora": "06:00 p.m a 08:30 p.m",
+  "lugar": "Museo La Tertulia-Cinemateca",
+  "descripcion": "Comisión Nacional de Territorios Indigenas, DACMI y Embajada de Australia<br>Cortometraje Colombianos:<br>Kunsamaku Zaku<br>Sukua Tei<br>NAJI<br>Territorios invisibles Documental  Australiano  The Knowledge – El Conocimiento<br>Duración: 70  Minutos<br>Invitada<br>Directora: Lucy Fernández<br>Embajadora de Australia: Anna Chrisp<br>Director: David Hernandez Palmar",
+  "tematica": "Pueblos y comunidades"
+}
 
 ]

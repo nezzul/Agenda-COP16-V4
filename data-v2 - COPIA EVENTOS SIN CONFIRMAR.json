@@ -1,12 +1,13 @@
 [
       {
-        "id": "001",
+        "id": "001-19",
         "titulo": "100 años de La Vorágine: La selva dual, madre y devoradora a la vez",
         "fecha": "19 de octubre a viernes 1 de noviembre",
         "fechaISO": "2024-10-19T09:00:00",
         "hora": "9:00 a.m",
         "lugar": "Biblioteca departamental, domo 2",
-        "descripcion": "Invita a aproximarse de diferentes maneras a la valiosa narrativa literaria de la novela La vorágine"
+        "descripcion": "Invita a aproximarse de diferentes maneras a la valiosa narrativa literaria de la novela La vorágine",
+        "tematica": "Niños niñas y adolescentes"
       },
       {
         "id": "002",

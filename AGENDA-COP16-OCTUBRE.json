@@ -1,0 +1,42 @@
+[
+      {
+        "id": "001-21",
+        "titulo": "Apertura exposición itinerante y lanzamiento del catálogo 'Exposición itinerante Los santos bajan y la Sierra viaja'",
+        "fecha": "21 de octubre",
+        "fechaISO": "2024-10-21T10:00:00",
+        "hora": "10:00 a.m",
+        "lugar": "Biblioteca Departamental Jorge Garcés Borrero - Domo 2",
+        "descripcion": "Participantes: Coque Gamboa (fotógrafo) y curadores de la muestra: mamo Arwa Viku y Constanza Toquica, directora del Museo Santa Clara<br>Museos Colonial y Santa Clara",
+        "tematica": "NBSAP / Conservación restauración, océanos"
+      },
+      {
+        "id": "002-21",
+        "titulo": "Flaco Flow & Melanina",
+        "fecha": "21 de octubre",
+        "fechaISO": "2024-10-21T10:00:00",
+        "hora": "6:00 p. m. a 6:45 p. m.",
+        "lugar": "Gran tarima Farallones",
+        "descripcion": "Flaco Flow & Melanina",
+        "tematica": "NBSAP / Conservación restauración, océanos"
+      },
+      {
+        "id": "003-21",
+        "titulo": "Los hijos de Benkos",
+        "fecha": "21 de octubre",
+        "fechaISO": "2024-10-21T10:00:00",
+        "hora": "7:00 p. m. a 7:45 p. m.",
+        "lugar": "Gran tarima Farallones",
+        "descripcion": "Los hijos de Benkos",
+        "tematica": "NBSAP / Conservación restauración, océanos"
+      },
+      {
+        "id": "004-21",
+        "titulo": "Alexis Play",
+        "fecha": "21 de octubre",
+        "fechaISO": "2024-10-21T10:00:00",
+        "hora": "8:00 p. m. a 8:45 p. m.",
+        "lugar": "Gran tarima Farallones",
+        "descripcion": "Alexis Play",
+        "tematica": "NBSAP / Conservación restauración, océanos"
+      },
+]

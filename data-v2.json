@@ -1,128 +1,1825 @@
 [
-      {
-        "id": "001",
-        "titulo": "Titulo del evento - título del evento - título del evento",
-        "fecha": "19 de octubre",
-        "fechaISO": "2024-10-19T06:00:00",
-        "hora": "7:00 a.m",
-        "lugar": "Zona verde",
-        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-      },
-      {
-        "id": "002",
-        "titulo": "Titulo del evento - título del evento - título del evento",
-        "fecha": "19 de octubre",
-        "fechaISO": "2024-10-20T06:00:00",
-        "hora": "7:00 a.m",
-        "lugar": "Zona verde",
-        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-      },
-      {
-        "id": "003",
-        "titulo": "Titulo del evento - título del evento - título del evento",
-        "fecha": "19 de octubre",
-        "fechaISO": "2024-10-21T06:00:00",
-        "hora": "7:00 a.m",
-        "lugar": "Zona verde",
-        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-      },
-      {
-        "id": "004",
-        "titulo": "Titulo del evento - título del evento - título del evento",
-        "fecha": "19 de octubre",
-        "fechaISO": "2024-10-22T06:00:00",
-        "hora": "7:00 a.m",
-        "lugar": "Zona verde",
-        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-      },
-      {
-        "id": "005",
-        "titulo": "Titulo del evento - título del evento - título del evento",
-        "fecha": "19 de octubre",
-        "fechaISO": "2024-10-23T06:00:00",
-        "hora": "7:00 a.m",
-        "lugar": "Zona verde",
-        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-      },
-      {
-        "id": "006",
-        "titulo": "Titulo del evento - título del evento - título del evento",
-        "fecha": "19 de octubre",
-        "fechaISO": "2024-10-24T06:00:00",
-        "hora": "7:00 a.m",
-        "lugar": "Zona verde",
-        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-      },
-      {
-        "id": "007",
-        "titulo": "Titulo del evento - título del evento - título del evento",
-        "fecha": "19 de octubre",
-        "fechaISO": "2024-10-25T06:00:00",
-        "hora": "7:00 a.m",
-        "lugar": "Zona verde",
-        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-      },
-      {
-        "id": "007",
-        "titulo": "Titulo del evento - título del evento - título del evento",
-        "fecha": "19 de octubre",
-        "fechaISO": "2024-10-26T06:00:00",
-        "hora": "7:00 a.m",
-        "lugar": "Zona verde",
-        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-      },
-      {
-        "id": "007",
-        "titulo": "Titulo del evento - título del evento - título del evento",
-        "fecha": "19 de octubre",
-        "fechaISO": "2024-10-27T06:00:00",
-        "hora": "7:00 a.m",
-        "lugar": "Zona verde",
-        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-      },
-      {
-        "id": "007",
-        "titulo": "Titulo del evento - título del evento - título del evento",
-        "fecha": "19 de octubre",
-        "fechaISO": "2024-10-28T06:00:00",
-        "hora": "7:00 a.m",
-        "lugar": "Zona verde",
-        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-      },
-      {
-        "id": "007",
-        "titulo": "Titulo del evento - título del evento - título del evento",
-        "fecha": "19 de octubre",
-        "fechaISO": "2024-10-29T06:00:00",
-        "hora": "7:00 a.m",
-        "lugar": "Zona verde",
-        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-      },
-      {
-        "id": "007",
-        "titulo": "Titulo del evento - título del evento - título del evento",
-        "fecha": "19 de octubre",
-        "fechaISO": "2024-10-30T06:00:00",
-        "hora": "7:00 a.m",
-        "lugar": "Zona verde",
-        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-      },
-      {
-        "id": "007",
-        "titulo": "Titulo del evento - título del evento - título del evento",
-        "fecha": "19 de octubre",
-        "fechaISO": "2024-10-31T06:00:00",
-        "hora": "7:00 a.m",
-        "lugar": "Zona verde",
-        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-      },
-      {
-        "id": "007",
-        "titulo": "Titulo del evento - título del evento - título del evento",
-        "fecha": "19 de octubre",
-        "fechaISO": "2024-11-01T06:00:00",
-        "hora": "7:00 a.m",
-        "lugar": "Zona verde",
-        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-      }
+  {
+    "id": "001-L",
+    "titulo": "El jaguar y la mariposa. Chiribiquete patrimonio cultural y natural de la humanidad",
+    "fecha": "19 de octubre a viernes 1 de noviembre",
+    "fechaISO": "2024-10-19T09:00:00",
+    "hora": "9:00 a.m - 5:00 p.m",
+    "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+    "descripcion": "Así mismo, consolidar a la cultura como un factor esencial en los esfuerzos de conservación de la biodiversidad, lo que permita generar procesos de incidencia política que promuevan cambios en la relación de consumo por parte del ser humano hacia la naturaleza.<br>Museo Nacional de Colombia e Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "Niñez, adolescencia y juventud ambientalistas"
+   },
+   {
+   "id": "002-L",
+   "titulo": "El jaguar y la mariposa. Chiribiquete patrimonio cultural y natural de la humanidad",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-20T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Así mismo, consolidar a la cultura como un factor esencial en los esfuerzos de conservación de la biodiversidad, lo que permita generar procesos de incidencia política que promuevan cambios en la relación de consumo por parte del ser humano hacia la naturaleza.<br>Museo Nacional de Colombia e Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "Niñez, adolescencia y juventud ambientalistas"
+   },
+   {
+   "id": "003-L",
+   "titulo": "El jaguar y la mariposa. Chiribiquete patrimonio cultural y natural de la humanidad",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-21T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Así mismo, consolidar a la cultura como un factor esencial en los esfuerzos de conservación de la biodiversidad, lo que permita generar procesos de incidencia política que promuevan cambios en la relación de consumo por parte del ser humano hacia la naturaleza.<br>Museo Nacional de Colombia e Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "NBSAP / Conservación restauración, océanos"
+   },
+   {
+   "id": "004-L",
+   "titulo": "El jaguar y la mariposa. Chiribiquete patrimonio cultural y natural de la humanidad",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-22T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Así mismo, consolidar a la cultura como un factor esencial en los esfuerzos de conservación de la biodiversidad, lo que permita generar procesos de incidencia política que promuevan cambios en la relación de consumo por parte del ser humano hacia la naturaleza.<br>Museo Nacional de Colombia e Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "Recursos genéticos y protocolos - Género"
+   },
+   {
+   "id": "005-L",
+   "titulo": "El jaguar y la mariposa. Chiribiquete patrimonio cultural y natural de la humanidad",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-23T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Así mismo, consolidar a la cultura como un factor esencial en los esfuerzos de conservación de la biodiversidad, lo que permita generar procesos de incidencia política que promuevan cambios en la relación de consumo por parte del ser humano hacia la naturaleza.<br>Museo Nacional de Colombia e Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "Justicia ambiental y derechos humanos"
+   },
+   {
+   "id": "006-L",
+   "titulo": "El jaguar y la mariposa. Chiribiquete patrimonio cultural y natural de la humanidad",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-24T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Así mismo, consolidar a la cultura como un factor esencial en los esfuerzos de conservación de la biodiversidad, lo que permita generar procesos de incidencia política que promuevan cambios en la relación de consumo por parte del ser humano hacia la naturaleza.<br>Museo Nacional de Colombia e Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "Pueblos y comunidades"
+   },
+   {
+   "id": "007-L",
+   "titulo": "El jaguar y la mariposa. Chiribiquete patrimonio cultural y natural de la humanidad",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-25T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Así mismo, consolidar a la cultura como un factor esencial en los esfuerzos de conservación de la biodiversidad, lo que permita generar procesos de incidencia política que promuevan cambios en la relación de consumo por parte del ser humano hacia la naturaleza.<br>Museo Nacional de Colombia e Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "Biodiversidad y cambio climático"
+   },
+   {
+   "id": "008-L",
+   "titulo": "El jaguar y la mariposa. Chiribiquete patrimonio cultural y natural de la humanidad",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-26T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Así mismo, consolidar a la cultura como un factor esencial en los esfuerzos de conservación de la biodiversidad, lo que permita generar procesos de incidencia política que promuevan cambios en la relación de consumo por parte del ser humano hacia la naturaleza.<br>Museo Nacional de Colombia e Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+   },
+   {
+   "id": "009-L",
+   "titulo": "El jaguar y la mariposa. Chiribiquete patrimonio cultural y natural de la humanidad",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-27T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Así mismo, consolidar a la cultura como un factor esencial en los esfuerzos de conservación de la biodiversidad, lo que permita generar procesos de incidencia política que promuevan cambios en la relación de consumo por parte del ser humano hacia la naturaleza.<br>Museo Nacional de Colombia e Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "Educación y sistemas de conocimiento"
+   },
+   {
+   "id": "010-L",
+   "titulo": "El jaguar y la mariposa. Chiribiquete patrimonio cultural y natural de la humanidad",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-28T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Así mismo, consolidar a la cultura como un factor esencial en los esfuerzos de conservación de la biodiversidad, lo que permita generar procesos de incidencia política que promuevan cambios en la relación de consumo por parte del ser humano hacia la naturaleza.<br>Museo Nacional de Colombia e Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "Finaciamiento y mecanismos de implementación"
+   },
+   {
+   "id": "011-L",
+   "titulo": "El jaguar y la mariposa. Chiribiquete patrimonio cultural y natural de la humanidad",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-29T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Así mismo, consolidar a la cultura como un factor esencial en los esfuerzos de conservación de la biodiversidad, lo que permita generar procesos de incidencia política que promuevan cambios en la relación de consumo por parte del ser humano hacia la naturaleza.<br>Museo Nacional de Colombia e Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+   },
+   {
+   "id": "012-L",
+   "titulo": "El jaguar y la mariposa. Chiribiquete patrimonio cultural y natural de la humanidad",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-30T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Así mismo, consolidar a la cultura como un factor esencial en los esfuerzos de conservación de la biodiversidad, lo que permita generar procesos de incidencia política que promuevan cambios en la relación de consumo por parte del ser humano hacia la naturaleza.<br>Museo Nacional de Colombia e Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "Salud y alimentación"
+   },
+   {
+   "id": "013-L",
+   "titulo": "El jaguar y la mariposa. Chiribiquete patrimonio cultural y natural de la humanidad",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-31T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Así mismo, consolidar a la cultura como un factor esencial en los esfuerzos de conservación de la biodiversidad, lo que permita generar procesos de incidencia política que promuevan cambios en la relación de consumo por parte del ser humano hacia la naturaleza.<br>Museo Nacional de Colombia e Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "COP de la gente"
+   },
+   {
+   "id": "014-L",
+   "titulo": "El jaguar y la mariposa. Chiribiquete patrimonio cultural y natural de la humanidad",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-11-1T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Así mismo, consolidar a la cultura como un factor esencial en los esfuerzos de conservación de la biodiversidad, lo que permita generar procesos de incidencia política que promuevan cambios en la relación de consumo por parte del ser humano hacia la naturaleza.<br>Museo Nacional de Colombia e Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "COP de la gentes"
+   },
+   {
+   "id": "015-L",
+   "titulo": "Los santos bajan y la Sierra viaja",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-19T09:00:00",
+   "hora": "10:00 a.m - 2:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Recorrido Los santos bajan, la sierra sube: 22, 24, 26, 28, 29 oct y 1 nov (10:00 am a 2:00 pm)",
+   "tematica": "Niñez, adolescencia y juventud ambientalistas"
+   },
+   {
+   "id": "016-L",
+   "titulo": "Los santos bajan y la Sierra viaja",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-23T09:00:00",
+   "hora": "10:00 a.m - 2:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Recorrido Los santos bajan, la sierra sube: 22, 24, 26, 28, 29 oct y 1 nov (10:00 am a 2:00 pm)",
+   "tematica": "Justicia ambiental y derechos humanos"
+   },
+   {
+   "id": "017-L",
+   "titulo": "Los santos bajan y la Sierra viaja",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-24T09:00:00",
+   "hora": "10:00 a.m - 2:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Recorrido Los santos bajan, la sierra sube: 22, 24, 26, 28, 29 oct y 1 nov (10:00 am a 2:00 pm)",
+   "tematica": "Pueblos y comunidades"
+   },
+   {
+   "id": "018-L",
+   "titulo": "Los santos bajan y la Sierra viaja",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-25T09:00:00",
+   "hora": "10:00 a.m - 2:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Recorrido Los santos bajan, la sierra sube: 22, 24, 26, 28, 29 oct y 1 nov (10:00 am a 2:00 pm)",
+   "tematica": "Biodiversidad y cambio climático"
+   },
+   {
+   "id": "019-L",
+   "titulo": "Los santos bajan y la Sierra viaja",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-26T09:00:00",
+   "hora": "10:00 a.m - 2:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Recorrido Los santos bajan, la sierra sube: 22, 24, 26, 28, 29 oct y 1 nov (10:00 am a 2:00 pm)",
+   "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+   },
+   {
+   "id": "020-L",
+   "titulo": "Los santos bajan y la Sierra viaja",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-27T09:00:00",
+   "hora": "10:00 a.m - 2:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Recorrido Los santos bajan, la sierra sube: 22, 24, 26, 28, 29 oct y 1 nov (10:00 am a 2:00 pm)",
+   "tematica": "Educación y sistemas de conocimiento"
+   },
+   {
+   "id": "021-L",
+   "titulo": "Los santos bajan y la Sierra viaja",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-28T09:00:00",
+   "hora": "10:00 a.m - 2:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Recorrido Los santos bajan, la sierra sube: 22, 24, 26, 28, 29 oct y 1 nov (10:00 am a 2:00 pm)",
+   "tematica": "Finaciamiento y mecanismos de implementación"
+   },
+   {
+   "id": "022-L",
+   "titulo": "Los santos bajan y la Sierra viaja",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-29T09:00:00",
+   "hora": "10:00 a.m - 2:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Recorrido Los santos bajan, la sierra sube: 22, 24, 26, 28, 29 oct y 1 nov (10:00 am a 2:00 pm)",
+   "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+   },
+   {
+   "id": "023-L",
+   "titulo": "Los santos bajan y la Sierra viaja",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-30T09:00:00",
+   "hora": "10:00 a.m - 2:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Recorrido Los santos bajan, la sierra sube: 22, 24, 26, 28, 29 oct y 1 nov (10:00 am a 2:00 pm)",
+   "tematica": "Salud y alimentación"
+   },
+   {
+   "id": "024-L",
+   "titulo": "Los santos bajan y la Sierra viaja",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-31T09:00:00",
+   "hora": "10:00 a.m - 2:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Recorrido Los santos bajan, la sierra sube: 22, 24, 26, 28, 29 oct y 1 nov (10:00 am a 2:00 pm)",
+   "tematica": "COP de la gente"
+   },
+   {
+   "id": "025-L",
+   "titulo": "Los santos bajan y la Sierra viaja",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-11-1T09:00:00",
+   "hora": "10:00 a.m - 2:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Recorrido Los santos bajan, la sierra sube: 22, 24, 26, 28, 29 oct y 1 nov (10:00 am a 2:00 pm)",
+   "tematica": "COP de la gente"
+   },
+   {
+   "id": "026-L",
+   "titulo": "Gentes del Putumayo narran",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-19T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Dispositivos visuales y artísticos que forman parte del proyecto Sureña, un museo para pensar el Putumayo.<br>ICANH",
+   "tematica": "Niñez, adolescencia y juventudnambientalistas"
+   },
+   {
+   "id": "027-L",
+   "titulo": "Gentes del Putumayo narran",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-20T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Dispositivos visuales y artísticos que forman parte del proyecto Sureña, un museo para pensar el Putumayo.<br>ICANH",
+   "tematica": "Niñez, adolescencia y juventudnambientalistas"
+   },
+   {
+   "id": "028-L",
+   "titulo": "Gentes del Putumayo narran",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-21T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Dispositivos visuales y artísticos que forman parte del proyecto Sureña, un museo para pensar el Putumayo.<br>ICANH",
+   "tematica": "NBSAP / Conservación restauración, océanos"
+   },
+   {
+   "id": "029-L",
+   "titulo": "Gentes del Putumayo narran",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-22T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Dispositivos visuales y artísticos que forman parte del proyecto Sureña, un museo para pensar el Putumayo.<br>ICANH",
+   "tematica": "Recursos genéticos y protocolos - Género"
+   },
+   {
+   "id": "030-L",
+   "titulo": "Gentes del Putumayo narran",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-23T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Dispositivos visuales y artísticos que forman parte del proyecto Sureña, un museo para pensar el Putumayo.<br>ICANH",
+   "tematica": "Justicia ambiental y derechos humanos"
+   },
+   {
+   "id": "031-L",
+   "titulo": "Gentes del Putumayo narran",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-24T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Dispositivos visuales y artísticos que forman parte del proyecto Sureña, un museo para pensar el Putumayo.<br>ICANH",
+   "tematica": "Pueblos y comunidades"
+   },
+   {
+   "id": "032-L",
+   "titulo": "Gentes del Putumayo narran",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-25T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Dispositivos visuales y artísticos que forman parte del proyecto Sureña, un museo para pensar el Putumayo.<br>ICANH",
+   "tematica": "Biodiversidad y cambio climático"
+   },
+   {
+   "id": "033-L",
+   "titulo": "Gentes del Putumayo narran",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-26T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Dispositivos visuales y artísticos que forman parte del proyecto Sureña, un museo para pensar el Putumayo.<br>ICANH",
+   "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+   },
+   {
+   "id": "034-L",
+   "titulo": "Gentes del Putumayo narran",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-27T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Dispositivos visuales y artísticos que forman parte del proyecto Sureña, un museo para pensar el Putumayo.<br>ICANH",
+   "tematica": "Educación y sistemas de conocimiento"
+   },
+   {
+   "id": "035-L",
+   "titulo": "Gentes del Putumayo narran",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-28T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Dispositivos visuales y artísticos que forman parte del proyecto Sureña, un museo para pensar el Putumayo.<br>ICANH",
+   "tematica": "Finaciamiento y mecanismos de implementación"
+   },
+   {
+   "id": "036-L",
+   "titulo": "Gentes del Putumayo narran",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-29T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Dispositivos visuales y artísticos que forman parte del proyecto Sureña, un museo para pensar el Putumayo.<br>ICANH",
+   "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+   },
+   {
+   "id": "037-L",
+   "titulo": "Gentes del Putumayo narran",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-30T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Dispositivos visuales y artísticos que forman parte del proyecto Sureña, un museo para pensar el Putumayo.<br>ICANH",
+   "tematica": "Salud y alimentación"
+   },
+   {
+   "id": "038-L",
+   "titulo": "Gentes del Putumayo narran",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-31T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Dispositivos visuales y artísticos que forman parte del proyecto Sureña, un museo para pensar el Putumayo.<br>ICANH",
+   "tematica": "COP de la gente"
+   },
+   {
+   "id": "039-L",
+   "titulo": "Gentes del Putumayo narran",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-11-1T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Dispositivos visuales y artísticos que forman parte del proyecto Sureña, un museo para pensar el Putumayo.<br>ICANH",
+   "tematica": "COP de la gente"
+   },
+   {
+   "id": "040-L",
+   "titulo": "100 años de La Vorágine: La selva dual, madre y devoradora a la vez",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-19T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Invita a aproximarse de diferentes maneras a la valiosa narrativa literaria de la novela La vorágine<br>Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "Niñez, adolescencia y juventudnambientalistas"
+   },
+   {
+   "id": "041-L",
+   "titulo": "100 años de La Vorágine: La selva dual, madre y devoradora a la vez",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-20T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Invita a aproximarse de diferentes maneras a la valiosa narrativa literaria de la novela La vorágine<br>Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "Niñez, adolescencia y juventudnambientalistas"
+   },
+   {
+   "id": "042-L",
+   "titulo": "100 años de La Vorágine: La selva dual, madre y devoradora a la vez",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-21T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Invita a aproximarse de diferentes maneras a la valiosa narrativa literaria de la novela La vorágine<br>Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "NBSAP / Conservación restauración, océanos"
+   },
+   {
+   "id": "043-L",
+   "titulo": "100 años de La Vorágine: La selva dual, madre y devoradora a la vez",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-22T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Invita a aproximarse de diferentes maneras a la valiosa narrativa literaria de la novela La vorágine<br>Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "Recursos genéticos y protocolos - Género"
+   },
+   {
+   "id": "044-L",
+   "titulo": "100 años de La Vorágine: La selva dual, madre y devoradora a la vez",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-23T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Invita a aproximarse de diferentes maneras a la valiosa narrativa literaria de la novela La vorágine<br>Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "Justicia ambiental y derechos humanos"
+   },
+   {
+   "id": "045-L",
+   "titulo": "100 años de La Vorágine: La selva dual, madre y devoradora a la vez",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-24T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Invita a aproximarse de diferentes maneras a la valiosa narrativa literaria de la novela La vorágine<br>Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "Pueblos y comunidades"
+   },
+   {
+   "id": "046-L",
+   "titulo": "100 años de La Vorágine: La selva dual, madre y devoradora a la vez",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-25T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Invita a aproximarse de diferentes maneras a la valiosa narrativa literaria de la novela La vorágine<br>Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "Biodiversidad y cambio climático"
+   },
+   {
+   "id": "047-L",
+   "titulo": "100 años de La Vorágine: La selva dual, madre y devoradora a la vez",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-26T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Invita a aproximarse de diferentes maneras a la valiosa narrativa literaria de la novela La vorágine<br>Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+   },
+   {
+   "id": "048-L",
+   "titulo": "100 años de La Vorágine: La selva dual, madre y devoradora a la vez",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-27T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Invita a aproximarse de diferentes maneras a la valiosa narrativa literaria de la novela La vorágine<br>Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "Educación y sistemas de conocimiento"
+   },
+   {
+   "id": "049-L",
+   "titulo": "100 años de La Vorágine: La selva dual, madre y devoradora a la vez",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-28T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Invita a aproximarse de diferentes maneras a la valiosa narrativa literaria de la novela La vorágine<br>Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "Finaciamiento y mecanismos de implementación"
+   },
+   {
+   "id": "050-L",
+   "titulo": "100 años de La Vorágine: La selva dual, madre y devoradora a la vez",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-29T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Invita a aproximarse de diferentes maneras a la valiosa narrativa literaria de la novela La vorágine<br>Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+   },
+   {
+   "id": "051-L",
+   "titulo": "100 años de La Vorágine: La selva dual, madre y devoradora a la vez",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-30T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Invita a aproximarse de diferentes maneras a la valiosa narrativa literaria de la novela La vorágine<br>Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "Salud y alimentación"
+   },
+   {
+   "id": "052-L",
+   "titulo": "100 años de La Vorágine: La selva dual, madre y devoradora a la vez",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-31T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Invita a aproximarse de diferentes maneras a la valiosa narrativa literaria de la novela La vorágine<br>Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "COP de la gente"
+   },
+   {
+   "id": "053-L",
+   "titulo": "100 años de La Vorágine: La selva dual, madre y devoradora a la vez",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-11-1T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Invita a aproximarse de diferentes maneras a la valiosa narrativa literaria de la novela La vorágine<br>Instituto Colombiano de Antropología e Historia (ICANH)",
+   "tematica": "COP de la gente"
+   },
+   {
+   "id": "054-L",
+   "titulo": "Oh, naturaleza ¿inmarcesible?",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-19T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Exposición itinerante acompañada de programación educativa y cultural<br>Museos Casa Quinta de Bolívar y Casa del Florero",
+   "tematica": "Niñez, adolescencia y juventudnambientalistas"
+   },
+   {
+   "id": "055-L",
+   "titulo": "Oh, naturaleza ¿inmarcesible?",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-20T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Exposición itinerante acompañada de programación educativa y cultural<br>Museos Casa Quinta de Bolívar y Casa del Florero",
+   "tematica": "Niñez, adolescencia y juventudnambientalistas"
+   },
+   {
+   "id": "056-L",
+   "titulo": "Oh, naturaleza ¿inmarcesible?",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-21T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Exposición itinerante acompañada de programación educativa y cultural<br>Museos Casa Quinta de Bolívar y Casa del Florero",
+   "tematica": "NBSAP / Conservación restauración, océanos"
+   },
+   {
+   "id": "057-L",
+   "titulo": "Oh, naturaleza ¿inmarcesible?",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-22T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Exposición itinerante acompañada de programación educativa y cultural<br>Museos Casa Quinta de Bolívar y Casa del Florero",
+   "tematica": "Recursos genéticos y protocolos - Género"
+   },
+   {
+   "id": "058-L",
+   "titulo": "Oh, naturaleza ¿inmarcesible?",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-23T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Exposición itinerante acompañada de programación educativa y cultural<br>Museos Casa Quinta de Bolívar y Casa del Florero",
+   "tematica": "Justicia ambiental y derechos humanos"
+   },
+   {
+   "id": "059-L",
+   "titulo": "Oh, naturaleza ¿inmarcesible?",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-24T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Exposición itinerante acompañada de programación educativa y cultural<br>Museos Casa Quinta de Bolívar y Casa del Florero",
+   "tematica": "Pueblos y comunidades"
+   },
+   {
+   "id": "060-L",
+   "titulo": "Oh, naturaleza ¿inmarcesible?",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-25T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Exposición itinerante acompañada de programación educativa y cultural<br>Museos Casa Quinta de Bolívar y Casa del Florero",
+   "tematica": "Biodiversidad y cambio climático"
+   },
+   {
+   "id": "061-L",
+   "titulo": "Oh, naturaleza ¿inmarcesible?",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-26T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Exposición itinerante acompañada de programación educativa y cultural<br>Museos Casa Quinta de Bolívar y Casa del Florero",
+   "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+   },
+   {
+   "id": "062-L",
+   "titulo": "Oh, naturaleza ¿inmarcesible?",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-27T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Exposición itinerante acompañada de programación educativa y cultural<br>Museos Casa Quinta de Bolívar y Casa del Florero",
+   "tematica": "Educación y sistemas de conocimiento"
+   },
+   {
+   "id": "063-L",
+   "titulo": "Oh, naturaleza ¿inmarcesible?",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-28T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Exposición itinerante acompañada de programación educativa y cultural<br>Museos Casa Quinta de Bolívar y Casa del Florero",
+   "tematica": "Finaciamiento y mecanismos de implementación"
+   },
+   {
+   "id": "064-L",
+   "titulo": "Oh, naturaleza ¿inmarcesible?",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-29T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Exposición itinerante acompañada de programación educativa y cultural<br>Museos Casa Quinta de Bolívar y Casa del Florero",
+   "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+   },
+   {
+   "id": "065-L",
+   "titulo": "Oh, naturaleza ¿inmarcesible?",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-30T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Exposición itinerante acompañada de programación educativa y cultural<br>Museos Casa Quinta de Bolívar y Casa del Florero",
+   "tematica": "Salud y alimentación"
+   },
+   {
+   "id": "066-L",
+   "titulo": "Oh, naturaleza ¿inmarcesible?",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-31T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Exposición itinerante acompañada de programación educativa y cultural<br>Museos Casa Quinta de Bolívar y Casa del Florero",
+   "tematica": "COP de la gente"
+   },
+   {
+   "id": "067-L",
+   "titulo": "Oh, naturaleza ¿inmarcesible?",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-11-1T09:00:00",
+   "hora": "9:00 a.m - 5:00 p.m",
+   "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+   "descripcion": "Exposición itinerante acompañada de programación educativa y cultural<br>Museos Casa Quinta de Bolívar y Casa del Florero",
+   "tematica": "COP de la gente"
+   },
+   {
+   "id": "068-L",
+   "titulo": "Oh, naturaleza ¿inmarcesible?",
+   "fecha": "19 de octubre a domingo 20 de octubre",
+   "fechaISO": "2024-10-19T09:00:00",
+   "hora": "3:00 p.m - 5:00 p.m",
+   "lugar": "Espacios urbanos, Recorridos zona verde 1",
+   "descripcion": "Activación dispositivo Biblioteca Itinerante La Encantadora.En Homenaje al Maestro Alfredo Vanín<br>Despacho Ministro - Equipo Territorial",
+   "tematica": "Niñez, adolescencia y juventud ambientalistas"
+   },
+   {
+   "id": "069-L",
+   "titulo": "Oh, naturaleza ¿inmarcesible?",
+   "fecha": "19 de octubre a domingo 20 de octubre",
+   "fechaISO": "2024-10-20T09:00:00",
+   "hora": "3:00 p.m - 5:00 p.m",
+   "lugar": "Espacios urbanos, Recorridos zona verde 1",
+   "descripcion": "Activación dispositivo Biblioteca Itinerante La Encantadora.En Homenaje al Maestro Alfredo Vanín<br>Despacho Ministro - Equipo Territorial",
+   "tematica": "Niñez, adolescencia y juventud ambientalistas"
+   },
+   {
+   "id": "070-L",
+   "titulo": "El árbol que devoró un mundo: los rumbos del caucho en La vorágine",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-19T09:00:00",
+   "hora": "10:00 a.m - 7:00 p.m",
+   "lugar": "Sala subterránea Museo",
+   "descripcion": "Curaduría: Ximena Lama y Erna von der Walde<br>Biblioteca Nacional de Colombia",
+   "tematica": "Niñez, adolescencia y juventudnambientalistas"
+   },
+   {
+   "id": "071-L",
+   "titulo": "El árbol que devoró un mundo: los rumbos del caucho en La vorágine",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-20T09:00:00",
+   "hora": "2:00 p.m - 6:00 p.m",
+   "lugar": "Sala subterránea Museo",
+   "descripcion": "Curaduría: Ximena Lama y Erna von der Walde<br>Biblioteca Nacional de Colombia",
+   "tematica": "Niñez, adolescencia y juventudnambientalistas"
+   },
+   {
+   "id": "072-L",
+   "titulo": "El árbol que devoró un mundo: los rumbos del caucho en La vorágine",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-21T09:00:00",
+   "hora": "10:00 a.m - 7:00 p.m",
+   "lugar": "Sala subterránea Museo",
+   "descripcion": "Curaduría: Ximena Lama y Erna von der Walde<br>Biblioteca Nacional de Colombia",
+   "tematica": "NBSAP / Conservación restauración, océanos"
+   },
+   {
+   "id": "073-L",
+   "titulo": "El árbol que devoró un mundo: los rumbos del caucho en La vorágine",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-22T09:00:00",
+   "hora": "10:00 a.m - 7:00 p.m",
+   "lugar": "Sala subterránea Museo",
+   "descripcion": "Curaduría: Ximena Lama y Erna von der Walde<br>Biblioteca Nacional de Colombia",
+   "tematica": "Recursos genéticos y protocolos - Género"
+   },
+   {
+   "id": "074-L",
+   "titulo": "El árbol que devoró un mundo: los rumbos del caucho en La vorágine",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-23T09:00:00",
+   "hora": "10:00 a.m - 7:00 p.m",
+   "lugar": "Sala subterránea Museo",
+   "descripcion": "Curaduría: Ximena Lama y Erna von der Walde<br>Biblioteca Nacional de Colombia",
+   "tematica": "Justicia ambiental y derechos humanos"
+   },
+   {
+   "id": "075-L",
+   "titulo": "El árbol que devoró un mundo: los rumbos del caucho en La vorágine",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-24T09:00:00",
+   "hora": "10:00 a.m - 7:00 p.m",
+   "lugar": "Sala subterránea Museo",
+   "descripcion": "Curaduría: Ximena Lama y Erna von der Walde<br>Biblioteca Nacional de Colombia",
+   "tematica": "Pueblos y comunidades"
+   },
+   {
+   "id": "076-L",
+   "titulo": "El árbol que devoró un mundo: los rumbos del caucho en La vorágine",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-25T09:00:00",
+   "hora": "10:00 a.m - 7:00 p.m",
+   "lugar": "Sala subterránea Museo",
+   "descripcion": "Curaduría: Ximena Lama y Erna von der Walde<br>Biblioteca Nacional de Colombia",
+   "tematica": "Biodiversidad y cambio climático"
+   },
+   {
+   "id": "077-L",
+   "titulo": "El árbol que devoró un mundo: los rumbos del caucho en La vorágine",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-26T09:00:00",
+   "hora": "10:00 a.m - 7:00 p.m",
+   "lugar": "Sala subterránea Museo",
+   "descripcion": "Curaduría: Ximena Lama y Erna von der Walde<br>Biblioteca Nacional de Colombia",
+   "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+   },
+   {
+   "id": "078-L",
+   "titulo": "El árbol que devoró un mundo: los rumbos del caucho en La vorágine",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-27T09:00:00",
+   "hora": "2:00 p.m - 6:00 p.m",
+   "lugar": "Sala subterránea Museo",
+   "descripcion": "Curaduría: Ximena Lama y Erna von der Walde<br>Biblioteca Nacional de Colombia",
+   "tematica": "Educación y sistemas de conocimiento"
+   },
+   {
+   "id": "079-L",
+   "titulo": "El árbol que devoró un mundo: los rumbos del caucho en La vorágine",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-28T09:00:00",
+   "hora": "10:00 a.m - 7:00 p.m",
+   "lugar": "Sala subterránea Museo",
+   "descripcion": "Curaduría: Ximena Lama y Erna von der Walde<br>Biblioteca Nacional de Colombia",
+   "tematica": "Finaciamiento y mecanismos de implementación"
+   },
+   {
+   "id": "080-L",
+   "titulo": "El árbol que devoró un mundo: los rumbos del caucho en La vorágine",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-29T09:00:00",
+   "hora": "10:00 a.m - 7:00 p.m",
+   "lugar": "Sala subterránea Museo",
+   "descripcion": "Curaduría: Ximena Lama y Erna von der Walde<br>Biblioteca Nacional de Colombia",
+   "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+   },
+   {
+   "id": "081-L",
+   "titulo": "El árbol que devoró un mundo: los rumbos del caucho en La vorágine",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-30T09:00:00",
+   "hora": "10:00 a.m - 7:00 p.m",
+   "lugar": "Sala subterránea Museo",
+   "descripcion": "Curaduría: Ximena Lama y Erna von der Walde<br>Biblioteca Nacional de Colombia",
+   "tematica": "Salud y alimentación"
+   },
+   {
+   "id": "082-L",
+   "titulo": "El árbol que devoró un mundo: los rumbos del caucho en La vorágine",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-31T09:00:00",
+   "hora": "10:00 a.m - 7:00 p.m",
+   "lugar": "Sala subterránea Museo",
+   "descripcion": "Curaduría: Ximena Lama y Erna von der Walde<br>Biblioteca Nacional de Colombia",
+   "tematica": "COP de la gente"
+   },
+   {
+   "id": "083-L",
+   "titulo": "El árbol que devoró un mundo: los rumbos del caucho en La vorágine",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-11-1T09:00:00",
+   "hora": "10:00 a.m - 7:00 p.m",
+   "lugar": "Sala subterránea Museo",
+   "descripcion": "Curaduría: Ximena Lama y Erna von der Walde<br>Biblioteca Nacional de Colombia",
+   "tematica": "COP de la gente"
+   },
+   {
+   "id": "084-L",
+   "titulo": "Raíces y ríos: Tradiciones ancestrales y activismo ambiental",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-19T09:00:00",
+   "hora": "",
+   "lugar": "Virtual / Web",
+   "descripcion": "Ciclo audiovisual virtual<br>Plataforma digital para ver cine latinoamericano - Retina Latina​<br>1. El camino de regreso a la maloca: Colombia- Eng/Esp -30min - 2023 - Medio Documental - Juan Cortés<br>2. Anchicayá Resiste: Colombia - Eng/ Esp - 33min - 2024 - Medio Documental- Lucas Taffin<br>3. Hija de la laguna: Perú - Eng/Esp- 88min - 2015 -Largo Documental - Ernesto Cabello <br>4. Hijos del Hielo: Dir: Oscar Darío Jiménez Escrucería -  45 min.- Colombia - 2022 - Documental<br>5. Allpamanda: Ecuador - Esp - Documental - 93 mi- Directora: Tawn<br>DACMI",
+   "tematica": "Niñez, adolescencia y juventudnambientalistas"
+   },
+   {
+   "id": "085-L",
+   "titulo": "Raíces y ríos: Tradiciones ancestrales y activismo ambiental",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-20T09:00:00",
+   "hora": "",
+   "lugar": "Virtual / Web",
+   "descripcion": "Ciclo audiovisual virtual<br>Plataforma digital para ver cine latinoamericano - Retina Latina​<br>1. El camino de regreso a la maloca: Colombia- Eng/Esp -30min - 2023 - Medio Documental - Juan Cortés<br>2. Anchicayá Resiste: Colombia - Eng/ Esp - 33min - 2024 - Medio Documental- Lucas Taffin<br>3. Hija de la laguna: Perú - Eng/Esp- 88min - 2015 -Largo Documental - Ernesto Cabello <br>4. Hijos del Hielo: Dir: Oscar Darío Jiménez Escrucería -  45 min.- Colombia - 2022 - Documental<br>5. Allpamanda: Ecuador - Esp - Documental - 93 mi- Directora: Tawn<br>DACMI",
+   "tematica": "Niñez, adolescencia y juventudnambientalistas"
+   },
+   {
+   "id": "086-L",
+   "titulo": "Raíces y ríos: Tradiciones ancestrales y activismo ambiental",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-21T09:00:00",
+   "hora": "",
+   "lugar": "Virtual / Web",
+   "descripcion": "Ciclo audiovisual virtual<br>Plataforma digital para ver cine latinoamericano - Retina Latina​<br>1. El camino de regreso a la maloca: Colombia- Eng/Esp -30min - 2023 - Medio Documental - Juan Cortés<br>2. Anchicayá Resiste: Colombia - Eng/ Esp - 33min - 2024 - Medio Documental- Lucas Taffin<br>3. Hija de la laguna: Perú - Eng/Esp- 88min - 2015 -Largo Documental - Ernesto Cabello <br>4. Hijos del Hielo: Dir: Oscar Darío Jiménez Escrucería -  45 min.- Colombia - 2022 - Documental<br>5. Allpamanda: Ecuador - Esp - Documental - 93 mi- Directora: Tawn<br>DACMI",
+   "tematica": "NBSAP / Conservación restauración, océanos"
+   },
+   {
+   "id": "087-L",
+   "titulo": "Raíces y ríos: Tradiciones ancestrales y activismo ambiental",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-22T09:00:00",
+   "hora": "",
+   "lugar": "Virtual / Web",
+   "descripcion": "Ciclo audiovisual virtual<br>Plataforma digital para ver cine latinoamericano - Retina Latina​<br>1. El camino de regreso a la maloca: Colombia- Eng/Esp -30min - 2023 - Medio Documental - Juan Cortés<br>2. Anchicayá Resiste: Colombia - Eng/ Esp - 33min - 2024 - Medio Documental- Lucas Taffin<br>3. Hija de la laguna: Perú - Eng/Esp- 88min - 2015 -Largo Documental - Ernesto Cabello <br>4. Hijos del Hielo: Dir: Oscar Darío Jiménez Escrucería -  45 min.- Colombia - 2022 - Documental<br>5. Allpamanda: Ecuador - Esp - Documental - 93 mi- Directora: Tawn<br>DACMI",
+   "tematica": "Recursos genéticos y protocolos - Género"
+   },
+   {
+   "id": "088-L",
+   "titulo": "Raíces y ríos: Tradiciones ancestrales y activismo ambiental",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-23T09:00:00",
+   "hora": "",
+   "lugar": "Virtual / Web",
+   "descripcion": "Ciclo audiovisual virtual<br>Plataforma digital para ver cine latinoamericano - Retina Latina​<br>1. El camino de regreso a la maloca: Colombia- Eng/Esp -30min - 2023 - Medio Documental - Juan Cortés<br>2. Anchicayá Resiste: Colombia - Eng/ Esp - 33min - 2024 - Medio Documental- Lucas Taffin<br>3. Hija de la laguna: Perú - Eng/Esp- 88min - 2015 -Largo Documental - Ernesto Cabello <br>4. Hijos del Hielo: Dir: Oscar Darío Jiménez Escrucería -  45 min.- Colombia - 2022 - Documental<br>5. Allpamanda: Ecuador - Esp - Documental - 93 mi- Directora: Tawn<br>DACMI",
+   "tematica": "Justicia ambiental y derechos humanos"
+   },
+   {
+   "id": "089-L",
+   "titulo": "Raíces y ríos: Tradiciones ancestrales y activismo ambiental",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-24T09:00:00",
+   "hora": "1",
+   "lugar": "Virtual / Web",
+   "descripcion": "Ciclo audiovisual virtual<br>Plataforma digital para ver cine latinoamericano - Retina Latina​<br>1. El camino de regreso a la maloca: Colombia- Eng/Esp -30min - 2023 - Medio Documental - Juan Cortés<br>2. Anchicayá Resiste: Colombia - Eng/ Esp - 33min - 2024 - Medio Documental- Lucas Taffin<br>3. Hija de la laguna: Perú - Eng/Esp- 88min - 2015 -Largo Documental - Ernesto Cabello <br>4. Hijos del Hielo: Dir: Oscar Darío Jiménez Escrucería -  45 min.- Colombia - 2022 - Documental<br>5. Allpamanda: Ecuador - Esp - Documental - 93 mi- Directora: Tawn<br>DACMI",
+   "tematica": "Pueblos y comunidades"
+   },
+   {
+   "id": "090-L",
+   "titulo": "Raíces y ríos: Tradiciones ancestrales y activismo ambiental",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-25T09:00:00",
+   "hora": "",
+   "lugar": "Virtual / Web",
+   "descripcion": "Ciclo audiovisual virtual<br>Plataforma digital para ver cine latinoamericano - Retina Latina​<br>1. El camino de regreso a la maloca: Colombia- Eng/Esp -30min - 2023 - Medio Documental - Juan Cortés<br>2. Anchicayá Resiste: Colombia - Eng/ Esp - 33min - 2024 - Medio Documental- Lucas Taffin<br>3. Hija de la laguna: Perú - Eng/Esp- 88min - 2015 -Largo Documental - Ernesto Cabello <br>4. Hijos del Hielo: Dir: Oscar Darío Jiménez Escrucería -  45 min.- Colombia - 2022 - Documental<br>5. Allpamanda: Ecuador - Esp - Documental - 93 mi- Directora: Tawn<br>DACMI",
+   "tematica": "Biodiversidad y cambio climático"
+   },
+   {
+   "id": "091-L",
+   "titulo": "Raíces y ríos: Tradiciones ancestrales y activismo ambiental",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-26T09:00:00",
+   "hora": "",
+   "lugar": "Virtual / Web",
+   "descripcion": "Ciclo audiovisual virtual<br>Plataforma digital para ver cine latinoamericano - Retina Latina​<br>1. El camino de regreso a la maloca: Colombia- Eng/Esp -30min - 2023 - Medio Documental - Juan Cortés<br>2. Anchicayá Resiste: Colombia - Eng/ Esp - 33min - 2024 - Medio Documental- Lucas Taffin<br>3. Hija de la laguna: Perú - Eng/Esp- 88min - 2015 -Largo Documental - Ernesto Cabello <br>4. Hijos del Hielo: Dir: Oscar Darío Jiménez Escrucería -  45 min.- Colombia - 2022 - Documental<br>5. Allpamanda: Ecuador - Esp - Documental - 93 mi- Directora: Tawn<br>DACMI",
+   "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+   },
+   {
+   "id": "092-L",
+   "titulo": "Raíces y ríos: Tradiciones ancestrales y activismo ambiental",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-27T09:00:00",
+   "hora": "",
+   "lugar": "Virtual / Web",
+   "descripcion": "Ciclo audiovisual virtual<br>Plataforma digital para ver cine latinoamericano - Retina Latina​<br>1. El camino de regreso a la maloca: Colombia- Eng/Esp -30min - 2023 - Medio Documental - Juan Cortés<br>2. Anchicayá Resiste: Colombia - Eng/ Esp - 33min - 2024 - Medio Documental- Lucas Taffin<br>3. Hija de la laguna: Perú - Eng/Esp- 88min - 2015 -Largo Documental - Ernesto Cabello <br>4. Hijos del Hielo: Dir: Oscar Darío Jiménez Escrucería -  45 min.- Colombia - 2022 - Documental<br>5. Allpamanda: Ecuador - Esp - Documental - 93 mi- Directora: Tawn<br>DACMI",
+   "tematica": "Educación y sistemas de conocimiento"
+   },
+   {
+   "id": "093-L",
+   "titulo": "Raíces y ríos: Tradiciones ancestrales y activismo ambiental",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-28T09:00:00",
+   "hora": "",
+   "lugar": "Virtual / Web",
+   "descripcion": "Ciclo audiovisual virtual<br>Plataforma digital para ver cine latinoamericano - Retina Latina​<br>1. El camino de regreso a la maloca: Colombia- Eng/Esp -30min - 2023 - Medio Documental - Juan Cortés<br>2. Anchicayá Resiste: Colombia - Eng/ Esp - 33min - 2024 - Medio Documental- Lucas Taffin<br>3. Hija de la laguna: Perú - Eng/Esp- 88min - 2015 -Largo Documental - Ernesto Cabello <br>4. Hijos del Hielo: Dir: Oscar Darío Jiménez Escrucería -  45 min.- Colombia - 2022 - Documental<br>5. Allpamanda: Ecuador - Esp - Documental - 93 mi- Directora: Tawn<br>DACMI",
+   "tematica": "Finaciamiento y mecanismos de implementación"
+   },
+   {
+   "id": "094-L",
+   "titulo": "Raíces y ríos: Tradiciones ancestrales y activismo ambiental",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-29T09:00:00",
+   "hora": "",
+   "lugar": "Virtual / Web",
+   "descripcion": "Ciclo audiovisual virtual<br>Plataforma digital para ver cine latinoamericano - Retina Latina​<br>1. El camino de regreso a la maloca: Colombia- Eng/Esp -30min - 2023 - Medio Documental - Juan Cortés<br>2. Anchicayá Resiste: Colombia - Eng/ Esp - 33min - 2024 - Medio Documental- Lucas Taffin<br>3. Hija de la laguna: Perú - Eng/Esp- 88min - 2015 -Largo Documental - Ernesto Cabello <br>4. Hijos del Hielo: Dir: Oscar Darío Jiménez Escrucería -  45 min.- Colombia - 2022 - Documental<br>5. Allpamanda: Ecuador - Esp - Documental - 93 mi- Directora: Tawn<br>DACMI",
+   "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+   },
+   {
+   "id": "095-L",
+   "titulo": "Raíces y ríos: Tradiciones ancestrales y activismo ambiental",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-30T09:00:00",
+   "hora": "",
+   "lugar": "Virtual / Web",
+   "descripcion": "Ciclo audiovisual virtual<br>Plataforma digital para ver cine latinoamericano - Retina Latina​<br>1. El camino de regreso a la maloca: Colombia- Eng/Esp -30min - 2023 - Medio Documental - Juan Cortés<br>2. Anchicayá Resiste: Colombia - Eng/ Esp - 33min - 2024 - Medio Documental- Lucas Taffin<br>3. Hija de la laguna: Perú - Eng/Esp- 88min - 2015 -Largo Documental - Ernesto Cabello <br>4. Hijos del Hielo: Dir: Oscar Darío Jiménez Escrucería -  45 min.- Colombia - 2022 - Documental<br>5. Allpamanda: Ecuador - Esp - Documental - 93 mi- Directora: Tawn<br>DACMI",
+   "tematica": "Salud y alimentación"
+   },
+   {
+   "id": "096-L",
+   "titulo": "Raíces y ríos: Tradiciones ancestrales y activismo ambiental",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-10-31T09:00:00",
+   "hora": "",
+   "lugar": "Virtual / Web",
+   "descripcion": "Ciclo audiovisual virtual<br>Plataforma digital para ver cine latinoamericano - Retina Latina​<br>1. El camino de regreso a la maloca: Colombia- Eng/Esp -30min - 2023 - Medio Documental - Juan Cortés<br>2. Anchicayá Resiste: Colombia - Eng/ Esp - 33min - 2024 - Medio Documental- Lucas Taffin<br>3. Hija de la laguna: Perú - Eng/Esp- 88min - 2015 -Largo Documental - Ernesto Cabello <br>4. Hijos del Hielo: Dir: Oscar Darío Jiménez Escrucería -  45 min.- Colombia - 2022 - Documental<br>5. Allpamanda: Ecuador - Esp - Documental - 93 mi- Directora: Tawn<br>DACMI",
+   "tematica": "COP de la gente"
+   },
+   {
+   "id": "097-L",
+   "titulo": "Raíces y ríos: Tradiciones ancestrales y activismo ambiental",
+   "fecha": "19 de octubre a viernes 1 de noviembre",
+   "fechaISO": "2024-11-1T09:00:00",
+   "hora": "",
+   "lugar": "Virtual / Web",
+   "descripcion": "Ciclo audiovisual virtual<br>Plataforma digital para ver cine latinoamericano - Retina Latina​<br>1. El camino de regreso a la maloca: Colombia- Eng/Esp -30min - 2023 - Medio Documental - Juan Cortés<br>2. Anchicayá Resiste: Colombia - Eng/ Esp - 33min - 2024 - Medio Documental- Lucas Taffin<br>3. Hija de la laguna: Perú - Eng/Esp- 88min - 2015 -Largo Documental - Ernesto Cabello <br>4. Hijos del Hielo: Dir: Oscar Darío Jiménez Escrucería -  45 min.- Colombia - 2022 - Documental<br>5. Allpamanda: Ecuador - Esp - Documental - 93 mi- Directora: Tawn<br>DACMI",
+   "tematica": "COP de la gente"
+   },
+   {
+    "id": "098-L",
+    "titulo": "Mochila Viajera Arhuaca",
+    "fecha": "19 de octubre a viernes 1 de noviembre",
+    "fechaISO": "2024-10-19T09:00:00",
+    "hora": "10:00 a.m - 2:00 p.m",
+    "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+    "descripcion": "Activación de juegos didácticos (niños / niñas 5 a 16 años)<br>Museos Colonial y Santa Clara<br>Recorrido y activación Mochila viajera arhuaca: 21, 23, 25, 27, 29, 31 oct (10:00 am a 2:00 pm)",
+    "tematica": "Niñez, adolescencia y juventud ambientalistas"
+    },
+    {
+    "id": "099-L",
+    "titulo": "Mochila Viajera Arhuaca",
+    "fecha": "19 de octubre a viernes 1 de noviembre",
+    "fechaISO": "2024-10-23T09:00:00",
+    "hora": "10:00 a.m - 2:00 p.m",
+    "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+    "descripcion": "Activación de juegos didácticos (niños / niñas 5 a 16 años)<br>Museos Colonial y Santa Clara<br>Recorrido y activación Mochila viajera arhuaca: 21, 23, 25, 27, 29, 31 oct (10:00 am a 2:00 pm)",
+    "tematica": "Justicia ambiental y derechos humanos"
+    },
+    {
+    "id": "0100-L",
+    "titulo": "Mochila Viajera Arhuaca",
+    "fecha": "19 de octubre a viernes 1 de noviembre",
+    "fechaISO": "2024-10-24T09:00:00",
+    "hora": "10:00 a.m - 2:00 p.m",
+    "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+    "descripcion": "Activación de juegos didácticos (niños / niñas 5 a 16 años)<br>Museos Colonial y Santa Clara<br>Recorrido y activación Mochila viajera arhuaca: 21, 23, 25, 27, 29, 31 oct (10:00 am a 2:00 pm)",
+    "tematica": "Pueblos y comunidades"
+    },
+    {
+    "id": "0101-L",
+    "titulo": "Mochila Viajera Arhuaca",
+    "fecha": "19 de octubre a viernes 1 de noviembre",
+    "fechaISO": "2024-10-25T09:00:00",
+    "hora": "10:00 a.m - 2:00 p.m",
+    "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+    "descripcion": "Activación de juegos didácticos (niños / niñas 5 a 16 años)<br>Museos Colonial y Santa Clara<br>Recorrido y activación Mochila viajera arhuaca: 21, 23, 25, 27, 29, 31 oct (10:00 am a 2:00 pm)",
+    "tematica": "Biodiversidad y cambio climático"
+    },
+    {
+    "id": "0102-L",
+    "titulo": "Mochila Viajera Arhuaca",
+    "fecha": "19 de octubre a viernes 1 de noviembre",
+    "fechaISO": "2024-10-26T09:00:00",
+    "hora": "10:00 a.m - 2:00 p.m",
+    "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+    "descripcion": "AActivación de juegos didácticos (niños / niñas 5 a 16 años)<br>Museos Colonial y Santa Clara<br>Recorrido y activación Mochila viajera arhuaca: 21, 23, 25, 27, 29, 31 oct (10:00 am a 2:00 pm)",
+    "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+    },
+    {
+    "id": "0103-L",
+    "titulo": "Mochila Viajera Arhuaca",
+    "fecha": "19 de octubre a viernes 1 de noviembre",
+    "fechaISO": "2024-10-27T09:00:00",
+    "hora": "10:00 a.m - 2:00 p.m",
+    "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+    "descripcion": "Activación de juegos didácticos (niños / niñas 5 a 16 años)<br>Museos Colonial y Santa Clara<br>Recorrido y activación Mochila viajera arhuaca: 21, 23, 25, 27, 29, 31 oct (10:00 am a 2:00 pm)",
+    "tematica": "Educación y sistemas de conocimiento"
+    },
+    {
+    "id": "0104-L",
+    "titulo": "Mochila Viajera Arhuaca",
+    "fecha": "19 de octubre a viernes 1 de noviembre",
+    "fechaISO": "2024-10-28T09:00:00",
+    "hora": "10:00 a.m - 2:00 p.m",
+    "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+    "descripcion": "Activación de juegos didácticos (niños / niñas 5 a 16 años)<br>Museos Colonial y Santa Clara<br>Recorrido y activación Mochila viajera arhuaca: 21, 23, 25, 27, 29, 31 oct (10:00 am a 2:00 pm)",
+    "tematica": "Finaciamiento y mecanismos de implementación"
+    },
+    {
+    "id": "0105-L",
+    "titulo": "Mochila Viajera Arhuaca",
+    "fecha": "19 de octubre a viernes 1 de noviembre",
+    "fechaISO": "2024-10-29T09:00:00",
+    "hora": "10:00 a.m - 2:00 p.m",
+    "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+    "descripcion": "Activación de juegos didácticos (niños / niñas 5 a 16 años)<br>Museos Colonial y Santa Clara<br>Recorrido y activación Mochila viajera arhuaca: 21, 23, 25, 27, 29, 31 oct (10:00 am a 2:00 pm)",
+    "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+    },
+    {
+    "id": "0106-L",
+    "titulo": "Mochila Viajera Arhuaca",
+    "fecha": "19 de octubre a viernes 1 de noviembre",
+    "fechaISO": "2024-10-30T09:00:00",
+    "hora": "10:00 a.m - 2:00 p.m",
+    "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+    "descripcion": "Activación de juegos didácticos (niños / niñas 5 a 16 años)<br>Museos Colonial y Santa Clara<br>Recorrido y activación Mochila viajera arhuaca: 21, 23, 25, 27, 29, 31 oct (10:00 am a 2:00 pm)",
+    "tematica": "Salud y alimentación"
+    },
+    {
+    "id": "0106-L",
+    "titulo": "Mochila Viajera Arhuaca",
+    "fecha": "19 de octubre a viernes 1 de noviembre",
+    "fechaISO": "2024-10-31T09:00:00",
+    "hora": "10:00 a.m - 2:00 p.m",
+    "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+    "descripcion": "Activación de juegos didácticos (niños / niñas 5 a 16 años)<br>Museos Colonial y Santa Clara<br>Recorrido y activación Mochila viajera arhuaca: 21, 23, 25, 27, 29, 31 oct (10:00 am a 2:00 pm)",
+    "tematica": "COP de la gente"
+    },
+    {
+    "id": "0107-L",
+    "titulo": "Mochila Viajera Arhuaca",
+    "fecha": "19 de octubre a viernes 1 de noviembre",
+    "fechaISO": "2024-11-1T09:00:00",
+    "hora": "10:00 a.m - 2:00 p.m",
+    "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+    "descripcion": "Activación de juegos didácticos (niños / niñas 5 a 16 años)<br>Museos Colonial y Santa Clara<br>Recorrido y activación Mochila viajera arhuaca: 21, 23, 25, 27, 29, 31 oct (10:00 am a 2:00 pm)",
+    "tematica": "COP de la gente"
+    },
+    {
+      "id": "001-20",
+      "titulo": "Exposición itinerante “Los santos bajan y la Sierra viaja",
+      "fecha": "Domingo 20 de octubre",
+      "fechaISO": "2024-10-20T15:00:00",
+      "hora": "3:00 a 5:00 pm",
+      "lugar": "Biblioteca Departamental Jorge Garcés Borrero, Domo 2",
+      "descripcion": "Presentación y activación de la “Mochila Viajera Arhuaca” Participantes: Mamo Arwa Viku, Guillermo Padilla, abogado y antropólogo y Constanza Toquica, directora Museo Santa Clara. <br>Museos Colonial y Santa Clara.",
+      "tematica": "Niñez, adolescencia y juventud ambientalistas"
+  },
+  {
+      "id": "002-20",
+      "titulo": "Acto Simbólico Del agua y la Tierra",
+      "fecha": "Domingo 20 de octubre",
+      "fechaISO": "2024-10-20T18:30:00",
+      "hora": "6:30 pm",
+      "lugar": "Zona azul, Principal",
+      "descripcion": "CNA",
+      "tematica": "Niñez, adolescencia y juventud ambientalistas"
+  },
+  {
+      "id": "003-20",
+      "titulo": "Pazcífico Sinfónico - Sonidos para la Construcción de Paz",
+      "fecha": "Domingo 20 de octubre",
+      "fechaISO": "2024-10-20T19:00:00",
+      "hora": "7:00 pm",
+      "lugar": "Biblioteca Departamental Jorge Garcés Borrero, Domo 2",
+      "descripcion": "Participan: Mamo Arwa Viku (Crispín Izquierdo); Coque Gamboa, fotógrafo; Guillermo Alberto Padilla Rubiano, asesor de Poblaciones de Minculturas, y Constanza Toquica, directora del Museo Santa Clara. <br>Museos Colonial y Santa Clara.",
+      "tematica": "Niñez, adolescencia y juventud ambientalistas"
+  },
+  {
+      "id": "001-22",
+      "titulo": "Diálogo entre sacralidades: los Santos bajan la Sierra viaja",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T15:00:00",
+      "hora": "3:00 pm a 4:00 pm",
+      "lugar": "Biblioteca Departamental Jorge Garcés Borrero, Auditorio Óscar Gerardo Ramos",
+      "descripcion": "Participan: Mamo Arwa Viku (Crispín Izquierdo); Coque Gamboa, fotógrafo; Guillermo Alberto Padilla Rubiano, asesor de Poblaciones de Minculturas, y Constanza Toquica, directora del Museo Santa Clara. <br>Museos Santa Clara y Colonial.",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "002-22",
+      "titulo": "Recorridos guiados:“Diálogo entre Sacralidades: los Santos bajan y la Sierra viaja”",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T11:00:00",
+      "hora": "11:00 am a 3:00 pm",
+      "lugar": "Biblioteca Departamental Jorge Garcés Borrero",
+      "descripcion": "Coque Gamboa (fotógrafo) y curadores de la muestra: mamo Arwa Viku y Constanza Toquica, directora del Museo Santa Clara. <br>Museos Colonial y Santa Clara.",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "003-22",
+      "titulo": "Criterio teatral:”Los zapatos del agua”",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T19:00:00",
+      "hora": "7:00 pm",
+      "lugar": "Bellas Artes, Sala Teatro Julio Valencia",
+      "descripcion": "Obra de teatro<br> Ocho actores en escena. <br>Duración: 28 minutos. <br>Equipo Territorial.",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "004-22",
+      "titulo": "ASOCUJU ”Clásicos del Pacífico”",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T10:00:00",
+      "hora": "10:00 am a 10:45 am",
+      "lugar": "ZONA VERDE: Tarimas, Gran tarima FARALLONES",
+      "descripcion": "Danza. Oriente.",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "005-22",
+      "titulo": "The 21 Crew",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T11:00:00",
+      "hora": "11:00 am a 11:45 am",
+      "lugar": "ZONA VERDE: Tarimas, Gran tarima FARALLONES",
+      "descripcion": "”Siempre niños”. Oriente",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "006-22",
+      "titulo": "Black People ”Rescatando vida de las calles”",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T14:00:00",
+      "hora": "2:00 pm a 2:45 pm",
+      "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+      "descripcion": "Oriente",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "007-22",
+      "titulo": "Chureo Callejero",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T15:00:00",
+      "hora": "3:00 pm - 3:45 pm",
+      "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+      "descripcion": "Conv. Reg. - Nariño",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "008-22",
+      "titulo": "Irmay ”La Melodiosa”",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T16:00:00",
+      "hora": "4:00 pm - 4:45 pm",
+      "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+      "descripcion": "Salsa <br>Oriente - Vicepresidencia",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "009-22",
+      "titulo": "Lanzamiento de la serie de televisión ”Biografías urbanas”",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T17:00:00",
+      "hora": "5:00 pm a 5:45 pm",
+      "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+      "descripcion": "Director: Alberto Escovar Wilson-White <br>RTVC",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "010-22",
+      "titulo": "Gran cierre cultural del Día de Género ”Juntas hacemos historia en la COP16”",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T18:00:00",
+      "hora": "6:00 pm a 9:15 pm",
+      "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+      "descripcion": "Ruta de Mujeres en la COP16 a Vicepresidenta Francia Márquez y Ministra Susana Muhamad - 6:00 pm a 6:20 pm. <br>Caro Mosquera y TimbiÁfrica - 6:30 pm a 7:15pm. <br>Zona Marginal - 7:30 pm a 8:15 pm. <br>Analú - 8:30 pm a 9:15 pm",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "011-22",
+      "titulo": "Actividad Cámara de Comercio",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T16:00:00",
+      "hora": "4:00 pm a 6:00 pm",
+      "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+      "descripcion": "(Mauricio Prada)",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "012-22",
+      "titulo": "VANDANA SHIVA",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T15:00:00",
+      "hora": "3:00 pm",
+      "lugar": "ZONA VERDE - Tarimas, Tertuliadero",
+      "descripcion": "(Maria Clara Van Der Hammen)",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "013-22",
+      "titulo": "Escuela de Danzas Makerule ”Llora la Salve”",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T11:00:00",
+      "hora": "11:00 am a 11:45 am",
+      "lugar": "ZONA VERDE: Tarimas, Gran tarima",
+      "descripcion": "Danza teatral <br>Conv. Reg - Chocó",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "014-22",
+      "titulo": "Grupo Oro Becerra BMF",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T15:00:00",
+      "hora": "3:00 pm a 3:45 pm",
+      "lugar": "ZONA VERDE: Tarimas, Minitarima Distrito Pacífico y Convergencia regional",
+      "descripcion": "Dancehall fusión Pacífico<br> Oriente - Vicepresidencia",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "015-22",
+      "titulo": "Grupo Son Raíces",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T16:00:00",
+      "hora": "4:00 pm a 4:45 pm",
+      "lugar": "ZONA VERDE: Tarimas, Minitarima Distrito Pacífico y Convergencia regional",
+      "descripcion": "Salsa choke<br> Oriente - Vicepresidencia",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "016-22",
+      "titulo": "Friky Flow",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T17:00:00",
+      "hora": "5:00 pm a 5:45 pm",
+      "lugar": "ZONA VERDE: Tarimas, Minitarima Distrito Pacífico y Convergencia regional",
+      "descripcion": "Rap. <br>Oriente - Vicepresidencia",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "017-22",
+      "titulo": "Homilía espiritual de apertura",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T09:30:00",
+      "hora": "9:30 am - 9:45 am",
+      "lugar": "ZONA VERDE: Tarimas",
+      "descripcion": "Min Ambiente<br> (Fernando García)",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "018-22",
+      "titulo": "Hip Hop mujeres",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T11:00:00",
+      "hora": "11:00 am a 11:45 am",
+      "lugar": "ZONA VERDE - Tarimas, TARIMA DE LAS CULTURAS Y LAS ARTES",
+      "descripcion": "Dir. Artes",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "019-22",
+      "titulo": "Transformando desde el territorio",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T14:00:00",
+      "hora": "2:00 pm - 2:45 pm",
+      "lugar": "ZONA VERDE - Tarimas, TARIMA DE LAS CULTURAS Y LAS ARTES",
+      "descripcion": "Una puesta en escena política, artística y ambiental, desde las afrodisidencias sexuales.<br> Dir Artes",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "020-22",
+      "titulo": "Masái",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T16:00:00",
+      "hora": "4:00 pm - 4:45 pm",
+      "lugar": "ZONA VERDE - Tarimas, TARIMA DE LAS CULTURAS Y LAS ARTES",
+      "descripcion": "Oriente",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "021-22",
+      "titulo": "Hendrix",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T17:00:00",
+      "hora": "5:00 pm - 5:45 pm",
+      "lugar": "ZONA VERDE: Tarimas, TARIMA DE LAS CULTURAS Y LAS ARTES",
+      "descripcion": "Pacífico urbano<br> Oriente",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "022-22",
+      "titulo": "Festival de Economía Popular de la Biodiversidad en las culturas, las artes y los saberes",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T08:00:00",
+      "hora": "8:00 am a 6:00 pm",
+      "lugar": "ZONA VERDE: Stands economías populares zona verde",
+      "descripcion": "Campesinas putumayenses. <br>(3 stands).<br> DEDE",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "023-22",
+      "titulo": "Festival de Economía Popular - Valle del Cauca",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T08:00:00",
+      "hora": "8:00 am a 6:00 pm",
+      "lugar": "ZONA VERDE: Stands economías populares zona verde",
+      "descripcion": "DEDE",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "024-22",
+      "titulo": "Saberes y voces Proyección documental ”The Knowledge” (”El Conocimiento”)",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T17:00:00",
+      "hora": "5:00 pm a 7:00 pm",
+      "lugar": "Museo La Tertulia, Cinemateca",
+      "descripcion": "Director: Luke Blair<br> Duración: 30 minutos <br>Embajada de Australia y DACMI",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "025-22",
+      "titulo": "Cine para la vida -  Programa Cinemigrante Proyección documental ”La ilusión de la abundancia”",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T19:00:00",
+      "hora": "7:00 pm a 9:00 pm",
+      "lugar": "Museo La Tertulia, Cinemateca",
+      "descripcion": "Duración: 60 minutos Directora: Erika González<br> Honduras, Perú, Brasil<br> DACMI",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "026-22",
+      "titulo": "Foro Internacional de Mujeres y Biodiversidad",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T08:00:00",
+      "hora": "8:00 am",
+      "lugar": "Universidades, Universidad ECCI - Zona Verde",
+      "descripcion": "",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+      "id": "027-22",
+      "titulo": "Conversatorio ”Revista Gaceta: ¿Qué hay sobre los vínculos entre  cultura y medio ambiente?”",
+      "fecha": "Martes 22 de octubre",
+      "fechaISO": "2024-10-22T14:00:00",
+      "hora": "2:00 pm a 5:00 pm",
+      "lugar": "Oriente - Teatro la Unión",
+      "descripcion": "DACMI - G. Comunicaciones <br>Moderador: Daniel Montoya",
+      "tematica": "Recursos genéticos y protocolos - Género"
+  },
+  {
+    "id": "001-25",
+    "titulo": "Vidas campesinas",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T15:00:00",
+    "hora": "3:00 pm a 5:00 pm",
+    "lugar": "Biblioteca Departamental Jorge Garcés Borrero, Auditorio Óscar Gerardo Ramos",
+    "descripcion": "Taller de representación sobre vidas campesinas. <br>ICANH",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "002-25",
+    "titulo": "LiterNatura o la naturaleza en la literatura colombiana contemporánea",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T17:00:00",
+    "hora": "5:00 pm a 7:00 pm",
+    "lugar": "Biblioteca Departamental Jorge Garcés Borrero, Auditorio Óscar Gerardo Ramos",
+    "descripcion": "Invitados: Sara Jaramillo Klinkert, comunicadora social y periodista por la Universidad Pontificia Bolivariana<br> Santiago Wills, escritor y periodista<br> Biblioteca Nacional",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "003-25",
+    "titulo": "Hábitat Arts - Biocrea: Talleres y laboratorios de creación artística y natural",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T09:00:00",
+    "hora": "9:00 am a 12:00 m",
+    "lugar": "Biblioteca Departamental Jorge Garcés Borrero, Sala Infantil",
+    "descripcion": "Dir. Artes",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "004-25",
+    "titulo": "Mesa de trabajo de patrimonios integrados: ”Conociendo y valorando nuestro territorio”",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T15:00:00",
+    "hora": "3:00 pm a 5:00 pm",
+    "lugar": "Biblioteca Pública del Centenario, Sala de Lectura",
+    "descripcion": "Foro Inventarios del patrimonio cultural, como estrategia para la conservación del patrimonio biocultural. <br>G. Patrimonio y Memoria",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "005-25",
+    "titulo": "Proyección documental 4 capítulos -  Producción de la ”Unidad de Implementación del Acuerdo de Paz con la Cooperativa De Mano en Mano”",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T16:00:00",
+    "hora": "4:00 pm - 6:00 pm",
+    "lugar": "Bellas Artes, Sala de Cámara",
+    "descripcion": "Unidad de Implementación del Acuerdo Final de Paz de la Presidencia de la República: Min Ambiente <br>(Fernando García)",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "006-25",
+    "titulo": "Panel académico “Cultura para el cuidado de la diversidad de la vida, el territorio y la paz”",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T10:00:00",
+    "hora": "10:00 am a 12:00 m",
+    "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+    "descripcion": "Plan Nacional de Cultura, Grupo de Gobernanza y Políticas Culturales, Despacho Ministro",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "007-25",
+    "titulo": "Agrupación folclórica Atahualpa",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T12:00:00",
+    "hora": "12:00 m a 12:45 pm",
+    "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+    "descripcion": "13 artistas, con repertorio dancístico de los ritmos huilenses. <br>Gobernación del Huila",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "008-25",
+    "titulo": "Festival de la Biodiversidad ”Campo y Sabor”",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T14:00:00",
+    "hora": "2:00 pm a 3:00 pm",
+    "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+    "descripcion": "Música<br> DEDE",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "009-25",
+    "titulo": "Los Ritmos de la Cooperación: un Puente Cultural entre Colombia y África",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T15:00:00",
+    "hora": "3:00 pm a 3:45 pm",
+    "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+    "descripcion": "Grupo de marimba <br>Agencia Presidencial para la Cooperación Internacional de Colombia - Cooperación Sur Sur (MinAmbiente - patrocinadores)",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "010-25",
+    "titulo": "Semillero Fundación Escuela Folclórica TUMAC: Música y danza afronariñense",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T16:00:00",
+    "hora": "4:00 pm a 4:45 pm",
+    "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+    "descripcion": "Equipo Territorial",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "011-25",
+    "titulo": "Integración Casanova",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T17:00:00",
+    "hora": "5:00 pm - 5:45 pm",
+    "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+    "descripcion": "Salsa choke<br> Oriente - Vicepresidencia",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "012-25",
+    "titulo": "Cantos de Agua (Teatro)",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T18:00:00",
+    "hora": "6:00 pm a 8:45 pm",
+    "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+    "descripcion": "David Kawooq - 6:00 pm a 6:45 pm. <br>Gaiteros de Pueblo Santo - 7:00 pm a 7:45 pm. <br>Bejuco - 8:00 pm a 8:45 pm",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "013-25",
+    "titulo": "FESTIVAL DE LA BIODIVERSIDAD ”Economía popular en clave de viche y cuidado ambiental.”",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T11:00:00",
+    "hora": "11:00 am a 12:00 pm",
+    "lugar": "ZONA VERDE - Tarimas",
+    "descripcion": "DEDE",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "014-25",
+    "titulo": "Mesa redonda ”Relatos necesarios: ¿Qué encontramos en la movilización de agentes comunicativos en la COP 16?”",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T14:00:00",
+    "hora": "2:00 pm a 4:00 pm",
+    "lugar": "ZONA VERDE - Tarimas, Tertuliadero",
+    "descripcion": "DACMI",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "015-25",
+    "titulo": "Actividad Cámara de Comercio",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T16:00:00",
+    "hora": "4:00 pm a 5:30 pm",
+    "lugar": "ZONA VERDE - Tarimas, Tertuliadero",
+    "descripcion": "(Mauricio Prada)",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "016-25",
+    "titulo": "El rol del arte y la cultura en la lucha contra el cambio climático",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T17:45:00",
+    "hora": "5:45 pm a 6:30 pm",
+    "lugar": "ZONA VERDE - Tarimas, Tertuliadero",
+    "descripcion": "Human Impacts Institute<br> Nueva York, Estados Unidos<br> MinAmbiente",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "017-25",
+    "titulo": "Fundación Proyecto Nómade Teatro",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T11:00:00",
+    "hora": "11:00 am a 11:45 am",
+    "lugar": "ZONA VERDE - Tarimas, Minitarima Distrito Pacífico y Convergencia regional",
+    "descripcion": "”Teatro, Herencia y Memoria” <br>Conv. Reg. - Nariño",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "018-25",
+    "titulo": "Alborada de Timbiquí ”Retorno de la biodoversidad en el Pacífico”",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T14:00:00",
+    "hora": "2:00 pm a 2:45 pm",
+    "lugar": "ZONA VERDE - Tarimas, Minitarima Distrito Pacífico y Convergencia regional",
+    "descripcion": "Concierto performance<br> Converg. Reg - Cauca",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "019-25",
+    "titulo": "Nahual folclórico",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T15:00:00",
+    "hora": "3:00 pm a 3:45 pm",
+    "lugar": "ZONA VERDE - Tarimas, Minitarima Distrito Pacífico y Convergencia regional",
+    "descripcion": "Concierto <br>Conv. Reg - Cauca",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "020-25",
+    "titulo": "Grupo Nativo",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T16:00:00",
+    "hora": "4:00 pm a 4:45 pm",
+    "lugar": "ZONA VERDE - Tarimas, Minitarima Distrito Pacífico y Convergencia regional",
+    "descripcion": "Reggaetón y dancehall. <br>Oriente - Vicepresidencia",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "021-25",
+    "titulo": "Jeison Led kzadores",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T15:00:00",
+    "hora": "5:00 pm a 5:45 pm",
+    "lugar": "ZONA VERDE - Tarimas, Minitarima Distrito Pacífico y Convergencia regional",
+    "descripcion": "Reggaetón <br>Oriente - Vicepresidencia",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "022-25",
+    "titulo": "Homilía espiritual de apertura",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T09:30:00",
+    "hora": "9:30 am - 9:45 am",
+    "lugar": "ZONA VERDE - Tarimas",
+    "descripcion": "Min Ambiente<br> (Fernando García)",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "023-25",
+    "titulo": "Congreso a la Calle",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T13:30:00",
+    "hora": "1:30 pm a 3:00 pm",
+    "lugar": "ZONA VERDE - Tarimas, TARIMA DE LAS CULTURAS Y LAS ARTES",
+    "descripcion": "Cámara de Representantes<br> Proceso pedagógico<br> MinAmbiente",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "024-25",
+    "titulo": "Colesinopsis",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T15:00:00",
+    "hora": "5:00 pm a 5:45 pm",
+    "lugar": "ZONA VERDE - Tarimas, TARIMA DE LAS CULTURAS Y LAS ARTES",
+    "descripcion": "Cultura urbana (break dance y rap)<br> Oriente",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "025-25",
+    "titulo": "Festival de Economía Popular de la Biodiversidad en las culturas, las artes y los saberes - La Mojana",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T08:00:00",
+    "hora": "8:00 am a 6:00 pm",
+    "lugar": "ZONA VERDE - Stands economías populares zona verde",
+    "descripcion": "DEDE",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "026-25",
+    "titulo": "Grupo Calipso ”Limpiando barrio”",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T16:00:00",
+    "hora": "4:00 pm a 5:00 pm",
+    "lugar": "ZONA VERDE - Espacios urbanos, Recorridos zona verde 1",
+    "descripcion": "Obra de teatro (con zancos). <br>Equipo Territorial",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+    "id": "027-25",
+    "titulo": "La herida de la naturaleza",
+    "fecha": "Viernes 25 de octubre",
+    "fechaISO": "2024-10-25T09:00:00",
+    "hora": "9:00 am a 5:00 pm",
+    "lugar": "YAWA - Parque Tecnológico San Fernando (Circuito Terra)",
+    "descripcion": "DACMI, Universidad del Valle, Mutante org",
+    "tematica": "Biodiversidad y cambio climático"
+},
+{
+  "id": "001-26",
+  "titulo": "¿Naturalezas de fantasía?",
+  "fecha": "Sábado 26 de octubre",
+  "fechaISO": "2024-10-26T17:00:00",
+  "hora": "5:00 pm a 7:00 pm",
+  "lugar": "Biblioteca Departamental Jorge Garcés Borrero, Auditorio Óscar Gerardo Ramos",
+  "descripcion": "Invitados: Gloria Beatriz Salazar, abogada, especialista en Desarrollo Regional y magíster en Desarrollo del Medio Ambiente y Políticas. <br>Andrés Cota, zoólogo, naturalista y escritor. <br>Biblioteca Nacional",
+  "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+},
+{
+  "id": "002-26",
+  "titulo": "Taller: Arqueología para niñas y niños",
+  "fecha": "Sábado 26 de octubre",
+  "fechaISO": "2024-10-26T10:00:00",
+  "hora": "10:00 am ¿a 12:00 m",
+  "lugar": "Biblioteca Departamental Jorge Garcés Borrero, Sala Infantil",
+  "descripcion": "Para que niños y niñas se involucren en estos temas y se conviertan en vigías del patrimonio arqueológico y cultural de la nación. <br>ICANH",
+  "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+},
+{
+  "id": "003-26",
+  "titulo": "Taller creativo “Explorando el bestiario de La vorágine“",
+  "fecha": "Sábado 26 de octubre",
+  "fechaISO": "2024-10-26T15:00:00",
+  "hora": "2:00 pm a 4:00 pm",
+  "lugar": "Biblioteca Departamental Jorge Garcés Borrero, Sala Infantil",
+  "descripcion": "Invitada: Gloria Beatriz Salazar, profesora de posgrado en temas ambientales, con experiencia en promoción de lectura en primera infancia, educación ambiental y desarrollo de productos para niños. <br>Biblioteca Nacional",
+  "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+},
+{
+  "id": "004-26",
+  "titulo": "Conversatorio con directores de cine internacionales y nacionales",
+  "fecha": "Sábado 26 de octubre",
+  "fechaISO": "2024-10-26T17:00:00",
+  "hora": "5:00 pm a 7:00 pm",
+  "lugar": "Biblioteca Pública del Centenario, Auditorio Obelisco",
+  "descripcion": "Proimágenes - DACMI",
+  "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+},
+{
+  "id": "005-26",
+  "titulo": "Mesa de trabajo de patrimonios integrados: “Conociendo y valorando nuestro territorio“",
+  "fecha": "Sábado 26 de octubre",
+  "fechaISO": "2024-10-26T14:00:00",
+  "hora": "2:00 pm a 5:00 pm",
+  "lugar": "Biblioteca Pública del Centenario, Sala de Lectura",
+  "descripcion": "Foro Inventarios del patrimonio cultural, como estrategia para la conservación del patrimonio biocultural. <br>G. Patrimonio y Memoria",
+  "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+},
+{
+  "id": "006-26",
+  "titulo": "ENCUENTRO ESCENA SUSTENTABLE (EPAE)",
+  "fecha": "Sábado 26 de octubre",
+  "fechaISO": "2024-10-26T09:00:00",
+  "hora": "9:00 a.m. - 12:00 m. ",
+  "lugar": "Centro Cultural de Cali, Salón Oval",
+  "descripcion": "Mesas de trabajo. <br>Dir. Artes - British Council <br>(Inscripción previa)",
+  "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+},
+{
+  "id": "007-26",
+  "titulo": "Banda sinfónica del Huila (incluye presentación de la reina del Bambuco)",
+  "fecha": "Sábado 26 de octubre",
+  "fechaISO": "2024-10-26T10:00:00",
+  "hora": "10:00 am a 10:45 am",
+  "lugar": "Bellas Artes, Sala Beethoven",
+  "descripcion": "Gobernación del Huila",
+  "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+},
+{
+  "id": "008-26",
+  "titulo": "Cine para la vida - Cine comunitario en paz con la naturaleza",
+  "fecha": "Sábado 26 de octubre",
+  "fechaISO": "2024-10-26T17:00:00",
+  "hora": "5:00 pm a 7:00 pm",
+  "lugar": "Bellas Artes, Sala de Cámara",
+  "descripcion": "Proyección de cortometrajes colombianos. <br>SEY ANCHWI. Comunicando mundos 7:46 min <br>Chiqui Chiqui 22 min <br>FAREKA 13,15 min <br>Fiestas Negras, Dioses Blancos 24 min<br> Duración proyección: 67 min. <br>DACMI",
+  "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+},
+{
+  "id": "009-26",
+  "titulo": "Cantoalagua",
+  "fecha": "Sábado 26 de octubre",
+  "fechaISO": "2024-10-26T09:00:00",
+  "hora": "9:00 am a 1:00 pm",
+  "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+  "descripcion": "Iniciativa que a través del canto, el arte y las acciones colectivas busca despertar consciencia acerca de la importancia del agua. <br>Cantoalagua - MinAmbiente",
+  "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+},
+{
+  "id": "010-26",
+  "titulo": "Encuentro de sostenibilidad ambiental para Espectáculos Públicos de las Artes Escénicas (EPAE)",
+  "fecha": "Sábado 26 de octubre",
+  "fechaISO": "2024-10-26T14:00:00",
+  "hora": "2:00 pm a 6:00 pm",
+  "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+  "descripcion": "Dir. Artes - British Council",
+  "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+},
+{
+  "id": "011-26",
+  "titulo": "FESTIVAL DE LA BIODIVERSIDAD",
+  "fecha": "Sábado 26 de octubre",
+  "fechaISO": "2024-10-26T10:00:00",
+  "hora": "10:00 am a 12:00pm",
+  "lugar": "ZONA VERDE - Tarimas",
+  "descripcion": "Conocimiento Ancestral y Cannabis Medicinal: Casos de Éxito y Participación Interactiva desde las Comunidades Indígenas Colombianas. <br>DEDE",
+  "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+},
+{
+  "id": "012-26",
+  "titulo": "Chakana del Mayo Teatro ”EstrEllas”",
+  "fecha": "Sábado 26 de octubre",
+  "fechaISO": "2024-10-26T10:00:00",
+  "hora": "10:00 am a 10:45 am",
+  "lugar": "ZONA VERDE - Tarimas, Minitarima Distrito Pacífico y Convergencia regional",
+  "descripcion": "Teatro<br> Conv. Reg. - Nariño",
+  "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+},
+{
+  "id": "013-26",
+  "titulo": "Grupo Ninakapari Danza",
+  "fecha": "Sábado 26 de octubre",
+  "fechaISO": "2024-10-26T15:00:00",
+  "hora": "11:00 am a 11:45",
+  "lugar": "ZONA VERDE - Tarimas, Minitarima Distrito Pacífico y Convergencia regional",
+  "descripcion": "”Espíritus danzantes del pueblo de los Pastos (danza de las vacas)”. <br>Teatro calle. <br>Conv. Reg - Nariño",
+  "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+},
+{
+  "id": "014-26",
+  "titulo": "Homilía espiritual de apertura",
+  "fecha": "Sábado 26 de octubre",
+  "fechaISO": "2024-10-26T09:30:00",
+  "hora": "9:30 am - 9:45 am",
+  "lugar": "ZONA VERDE - Tarimas",
+  "descripcion": "Min Ambiente. <br>(Fernando García)",
+  "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+},
+{
+  "id": "015-26",
+  "titulo": "Festival de Economía Popular de la Biodiversidad en las culturas, las artes y los saberes - Buenaventura",
+  "fecha": "Sábado 26 de octubre",
+  "fechaISO": "2024-10-26T08:00:00",
+  "hora": "8:00 am a 6:00 pm",
+  "lugar": "ZONA VERDE - Stands economías populares zona verde",
+  "descripcion": "DEDE",
+  "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+},
+{
+  "id": "016-26",
+  "titulo": "Gran Concierto ”Paz con la naturaleza: un canto por la vida”",
+  "fecha": "Sábado 26 de octubre",
+  "fechaISO": "2024-10-26T15:00:00",
+  "hora": "3:00 pm a 12:30 am",
+  "lugar": "Eventos, Estadio Pascual Guerrero",
+  "descripcion": "Despacho Ministro",
+  "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+},
+{
+  "id": "017-26",
+  "titulo": "Bambuco Patiano",
+  "fecha": "Sábado 26 de octubre",
+  "fechaISO": "2024-10-26T11:00:00",
+  "hora": "11:00 am",
+  "lugar": "Por confirmar",
+  "descripcion": "Música. <br>Gob. Cauca",
+  "tematica": "Economías de la biodiversidad y ciudades sostenibles"
+}
+
+
+
 ]

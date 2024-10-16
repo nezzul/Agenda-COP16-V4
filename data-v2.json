@@ -2560,6 +2560,814 @@
   "lugar": "Museo La Tertulia-Cinemateca",
   "descripcion": "Comisión Nacional de Territorios Indigenas, DACMI y Embajada de Australia<br>Cortometraje Colombianos:<br>Kunsamaku Zaku<br>Sukua Tei<br>NAJI<br>Territorios invisibles Documental  Australiano  The Knowledge – El Conocimiento<br>Duración: 70  Minutos<br>Invitada<br>Directora: Lucy Fernández<br>Embajadora de Australia: Anna Chrisp<br>Director: David Hernandez Palmar",
   "tematica": "Pueblos y comunidades"
+},
+{
+  "id": "001-29",
+  "titulo": "Conversatorio Bibliotecas Comunitarias Tumaco",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T14:00:00",
+  "hora": "2:00 pm a 4:00 pm",
+  "lugar": "Biblioteca Departamental Jorge Garcés Borrero, Auditorio Óscar Gerardo Ramos",
+  "descripcion": "Equipo Terriorial",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "002-29",
+  "titulo": "Asociación de Mujeres Afrocolombianas Desplazadas en Resistencia La Comadre",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T18:00:00",
+  "hora": "6:00 pm a 6:45 pm",
+  "lugar": "Bellas Artes, Sala Teatro Julio Valencia",
+  "descripcion": "'Salirle al paso: las comadres caminan a paso firme por la reconciliación y la no repetición' <br>Iniciativa externa",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "003-29",
+  "titulo": "Grupo Canta 'Oras del Patía",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T10:00:00",
+  "hora": "10:00 am a 10:45 am",
+  "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+  "descripcion": "'Bambuco patiano'<br> Concierto<br> Conv. Reg -  Cauca",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "004-29",
+  "titulo": "MP Cruz",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T11:00:00",
+  "hora": "11:00 am a 11:45 am",
+  "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+  "descripcion": "Salsa, balada, pop<br> Oriente - Vicepresidencia",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "005-29",
+  "titulo": "Vi-C-Versa",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T14:00:00",
+  "hora": "2:00 pm a 2:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+  "descripcion": "Salsa<br> Oriente",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "006-29",
+  "titulo": "Proyecto Selva",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T15:00:00",
+  "hora": "3:00 pm a 3:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+  "descripcion": "Música del Pacífico, ambientalista<br> Oriente",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "007-29",
+  "titulo": "Coalición Mundial por la Paz con la Naturaleza",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T16:00:00",
+  "hora": "4:00 pm a 6:00 pm",
+  "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+  "descripcion": "Este encuentro busca reunir a líderes mundiales, gobiernos, organizaciones de la sociedad civil y ciudadanía comprometida con la defensa del medio ambiente, para fomentar la restauración, conservación y uso sostenible de la biodiversidad. Además, se invita a la reflexión sobre la necesidad urgente de redefinir la relación entre los ser humano y la naturaleza, promoviendo la paz ambiental y el desarrollo sostenible.<br> MinAmbiente",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "008-29",
+  "titulo": "Lucio Feuillet y Bahía",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T18:30:00",
+  "hora": "6:30 pm a 8:15 pm",
+  "lugar": "ZONA VERDE - Tarimas",
+  "descripcion": "Lucio Feuillet - 6:30 pm a 7:15 pm<br> Bahía - 7:30 pm a 8:15 pm",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "009-29",
+  "titulo": "Ciclo El Archivo dialoga con los territorios: 'Los sonidos de los ríos'",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T10:00:00",
+  "hora": "10:00 am a 12:00 m",
+  "lugar": "ZONA VERDE - Tarimas, Tertuliadero",
+  "descripcion": "Archivo General de la Nación",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "010-29",
+  "titulo": "Presentación del proyecto transmedial y fotolibro “El pez muere por la boca”",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T14:00:00",
+  "hora": "2:00 pm",
+  "lugar": "ZONA VERDE - Tarimas, Tertuliadero",
+  "descripcion": "Diálogo entre el autor Santiago Escobar-Jaramillo,<br> Raya Editorial y Janeth Usma, editora Matiz Taller Editorial. Posibles mediadores: Simón Posada Tamayo, escritor y periodista, o David Fayad Sanz, fotógrafo y periodista<br> DEDE",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "011-29",
+  "titulo": "Diálogo entre los fotolibros [“El pez muere por la boca” de Santiago Escobar-Jaramillo,], “Darién” de Federico Rios y “Dia Río” de David Fayad Sanz.",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T15:00:00",
+  "hora": "3:00 pm",
+  "lugar": "ZONA VERDE - Tarimas, Tertuliadero",
+  "descripcion": "Actos de fe y resistencia en territorios naturales y de biodiversidad frente a los embates de la violencia y el conflicto.<br> DEDE<br> <b>Modera:</b> Santiago Escobar-Jaramillo, editor de Raya Editorial.",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "012-29",
+  "titulo": "Poesía y literatura en clave de biodiversidad",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T16:00:00",
+  "hora": "4:00 pm",
+  "lugar": "ZONA VERDE - Tarimas, Tertuliadero",
+  "descripcion": "Panel de escritores, 45 minutos<br> Mesa de Cultura, Arte y Biodiversidad",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "013-29",
+  "titulo": "Poesía y literatura en clave de biodiversidad",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T17:00:00",
+  "hora": "5:00 pm",
+  "lugar": "ZONA VERDE - Tarimas, Tertuliadero",
+  "descripcion": "Poesía de autor: 45 minutos<br> Mesa de Cultura, Arte y Biodiversidad",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "014-29",
+  "titulo": "Sinfonía Trópico",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T18:00:00",
+  "hora": "6:00 pm - 7:00  pm",
+  "lugar": "ZONA VERDE - Tarimas, Tertuliadero",
+  "descripcion": "Charla tras <i>performance</i> o <i>flashmob</i><br> MinAmbiente",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "015-29",
+  "titulo": "Agrupación musical Son de Capellanía",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T15:00:00",
+  "hora": "3:00 pm a 3:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, Minitarima Distrito Pacífico y Convergencia regional",
+  "descripcion": "Concierto<br> Conv. Reg - Cauca",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "016-29",
+  "titulo": "Kristofer, la Voz del Ragga",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T17:00:00",
+  "hora": "5:00 pm a 5:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, Minitarima Distrito Pacífico y Convergencia regional",
+  "descripcion": "Reggaetón<br> Oriente - Vicepresidencia",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "017-29",
+  "titulo": "Homilía espiritual de apertura",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T09:30:00",
+  "hora": "9:30 am - 9:45 am",
+  "lugar": "ZONA VERDE - Tarimas",
+  "descripcion": "Min Ambiente<br> (Fernando García)",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "018-29",
+  "titulo": "Cultura de Paz: el arte de vivir y relacionarse en armonía",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T14:00:00",
+  "hora": "2:00 pm a 2:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, TARIMA DE LAS CULTURAS Y LAS ARTES",
+  "descripcion": "Taller de yoga<br> Mesa de Cultura, Arte y Biodiversidad",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},{
+  "id": "019-29",
+  "titulo": "El oasis de la biodiversidad",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T15:00:00",
+  "hora": "3:00 pm a 3:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, TARIMA DE LAS CULTURAS Y LAS ARTES",
+  "descripcion": "Yoga<br> Mesa de Cultura, Arte y Biodiversidad",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "020-29",
+  "titulo": "Academia de Esgrima de Machete y Bordón de Puerto Tejada",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T16:00:00",
+  "hora": "4:00 pm a 4:30 pm",
+  "lugar": "ZONA VERDE - Tarimas, TARIMA DE LAS CULTURAS Y LAS ARTES",
+  "descripcion": "Ciudadanos del Río: 'Muestra de grima de machete y bordón' <br>Co-Crea - CAF - CCB",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "021-29",
+  "titulo": "Agrupación Remolino de Ovejas de Suárez, Cauca",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T16:30:00",
+  "hora": "4:30 pm a 5:15 pm",
+  "lugar": "ZONA VERDE - Tarimas, TARIMA DE LAS CULTURAS Y LAS ARTES",
+  "descripcion": "Ciudadanos del Río: 'Muestra de violines caucanos' <br>Co-Crea - CAF - CCB",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "022-29",
+  "titulo": "Festival de Economía Popular",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T08:00:00",
+  "hora": "8:00 am a 6:00 pm",
+  "lugar": "ZONA VERDE - Stands economías populares zona verde",
+  "descripcion": "2 iniciativas: EDITORIAL y productos  CANNABIS MEDICINAL<br> DEDE",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "023-29",
+  "titulo": "Festival de Economía Popular",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T08:00:00",
+  "hora": "8:00 am a 6:00 pm",
+  "lugar": "ZONA VERDE - Stands economías populares zona verde",
+  "descripcion": "10 iniciativas: Valle del Cauca<br> DEDE",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "024-29",
+  "titulo": "La voz que retumba",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T14:00:00",
+  "hora": "2:00 pm a 4:00 pm",
+  "lugar": "Bibl. Banco de la República, Banco de la República",
+  "descripcion": "Bibliotecas Comunitarias y RNBP Taller de lectoescritura y animación de lectura<br> Banco de la República<br> Equipo Territorial",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "025-29",
+  "titulo": "KAJÍ",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T18:00:00",
+  "hora": "6:00 pm",
+  "lugar": "YAWA, Parque Tecnológico San Fernando (Circuito Terra)",
+  "descripcion": "Richard Decaillet",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "026-29",
+  "titulo": "Saberes y voces",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T10:00:00",
+  "hora": "10:00 am a 12:00 m",
+  "lugar": "Museo La Tertulia, Cinemateca",
+  "descripcion": "Proyección de la película 'Raíces azules' ('<i>Blue roots</i>')<br> 75 minutos, 2022<br> Director: Gabriela Domínguez, Colombia<br> DACMI",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "027-29",
+  "titulo": "Foro de países megadiversos 'Megadiversidad y construcción de paz'",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T15:00:00",
+  "hora": "3:00 pm a 6:00 pm",
+  "lugar": "Oriente, Teatro la Unión",
+  "descripcion": "<b>Ponentes:</b><br> 1) Alphonese Maindo Monga (director de Tropenbos, docente)<br> 2) Mitku Halle (profesor y exrepresentante de Etiopía en Unesco)<br> 3) Lucía Ortiz (Amigos de la Tierra)<br> 4) Jaime Arocha (asesor del ministro Correa)<br> <b>Modera:</b> Danilo Urrea<br> DEDE",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "028-29",
+  "titulo": "Delirio",
+  "fecha": "Martes 29 de octubre",
+  "fechaISO": "2024-10-29T15:00:00",
+  "hora": "",
+  "lugar": "ZONA AZUL - Principal",
+  "descripcion": "",
+  "tematica": "Paz con la naturaleza / Financiamiento y mecanismos de implementación"
+},
+{
+  "id": "001-30",
+  "titulo": "Foro de países megadiversos 'Alimentación, megadiversidades y hambre'",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T10:00:00",
+  "hora": "10:00 am a 1:00 pm",
+  "lugar": "Biblioteca Departamental Jorge Garcés Borrero, Auditorio Óscar Gerardo Ramos",
+  "descripcion": "<b>Ponenentes:</b><br> 1) Theophile Yuma Kalulu (profesor universitario y miembro de Tropenbos)<br> 2) Juliana Millán (miembro de ATI y RENAF)<br> 3) Valerin Saurith (investigadora y docente)<br> 4) Christina Eghenter (WWF Indonesia)<br> 5) Mercedes Gould (Amigos de la Tierra)<br> <b>Modera:</b> María Clara Van der Hammen",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "002-30",
+  "titulo": "Vivir aquí, en la espesura",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T16:00:00",
+  "hora": "4:00 pm a 6:00 pm",
+  "lugar": "Biblioteca Departamental Jorge Garcés Borrero, Auditorio Óscar Gerardo Ramos",
+  "descripcion": "Artistas, diversidades y naturalezas en Colombia<br> Museo Nacional",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "003-30",
+  "titulo": "Almas Padillenses 'Danzas del norte del Cauca, esgrima de machete'",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T10:00:00",
+  "hora": "10:00 am - 10:45 am",
+  "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+  "descripcion": "Danza <br>Conv. Reg. - Cauca",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "004-30",
+  "titulo": "Grupo Real Ballet Folklórico del Cauca 'Marea alta'",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T11:00:00",
+  "hora": "11:00 am - 11:45 am",
+  "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+  "descripcion": "Danza - música<br> Conv. Reg - Cauca",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "005-30",
+  "titulo": "Arte conciente Urban",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T14:00:00",
+  "hora": "2:00 pm a 2:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+  "descripcion": "Danza<br> Oriente",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "006-30",
+  "titulo": "3D Corazones",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T15:00:00",
+  "hora": "3:00 pm a 3:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+  "descripcion": "Salsa choke<br> Oriente - Vicepresidencia",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "007-30",
+  "titulo": "Tumeiker",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T16:00:00",
+  "hora": "4:00 pm a 4:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+  "descripcion": "Danza<br> Oriente",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "008-30",
+  "titulo": "Movimiento Urbano Pacífico 'La gente pesada'",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T17:00:00",
+  "hora": "5:00 pm a 5:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+  "descripcion": "Salsa choke<br> Oriente - Vicepresidencia",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "009-30",
+  "titulo": "La 16 Orquesta, Chambimbe y La Mambanegra",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T15:00:00",
+  "hora": "6:00 pm a 8:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, Gran tarima FARALLONES",
+  "descripcion": "La 16 Orquesta - 6:00 pm a 6:45 pm<br> Chambimbe - 7:00 pm a 7:45 pm<br> La Mambanegra - 8:00 pm a 8:45 pm",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "010-30",
+  "titulo": "Ciclo El Archivo dialoga con los territorios: 'El Magdalena y la formación de territorios bioculturales'",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T10:00:00",
+  "hora": "10:00 am a 12:00 m",
+  "lugar": "ZONA VERDE - Tarimas",
+  "descripcion": "Archivo General de la Nación",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "011-30",
+  "titulo": "Encuentro Pedagógico y Cultural La montaña que abraza - Tejiendo Rural",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T15:00:00",
+  "hora": "3:00 pm - 3:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, Tertuliadero",
+  "descripcion": "Min Ambiente",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "012-30",
+  "titulo": "Elefante",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T16:00:00",
+  "hora": "4:00 pm a 4:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, Tertuliadero",
+  "descripcion": "Yao crochet (África)<br> (Carolina Miralles)",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "013-30",
+  "titulo": "Grupo Pacific Dance “La puja - tiempo de cambio”",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T16:00:00",
+  "hora": "4:00 pm a 4:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, Minitarima Distrito Pacífico y Convergencia regional",
+  "descripcion": "Danza teatro<br> Conv. Reg - Nariño",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "014-30",
+  "titulo": "Homilía espiritual de apertura",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T09:30:00",
+  "hora": "9:30 am - 9:45 am",
+  "lugar": "ZONA VERDE - Tarimas",
+  "descripcion": "Min Ambiente<br> (Fernando García)",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "015-30",
+  "titulo": "Cultura de Paz: el arte de vivir y relacionarse en armonía",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T15:00:00",
+  "hora": "3:00 pm a 3:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, TARIMA DE LAS CULTURAS Y LAS ARTES",
+  "descripcion": "Taller de yoga<br> Mesa de Cultura, Arte y Biodiversidad",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "016-30",
+  "titulo": "El oasis de la biodiversidad",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T16:00:00",
+  "hora": "4:00 pm a 4:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, TARIMA DE LAS CULTURAS Y LAS ARTES",
+  "descripcion": "Yoga<br> Mesa de Cultura, Arte y Biodiversidad",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "017-30",
+  "titulo": "Nuestro Oxígeno 'Música para el medio ambiente y la vida'",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T17:00:00",
+  "hora": "5:00 pm a 5:45 pm",
+  "lugar": "ZONA VERDE - Tarimas, TARIMA DE LAS CULTURAS Y LAS ARTES",
+  "descripcion": "MinAmbiente",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "018-30",
+  "titulo": "Festival de Economía Popular",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T08:00:00",
+  "hora": "8:00 am a 6:00 pm",
+  "lugar": "ZONA VERDE - Stands economías populares zona verde",
+  "descripcion": "2 iniciativas: EDITORIAL y productos  CANNABIS MEDICINAL<br> DEDE",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "019-30",
+  "titulo": "Festival de Economía Popular",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T08:00:00",
+  "hora": "8:00 am a 6:00 pm",
+  "lugar": "ZONA VERDE - Stands economías populares zona verde",
+  "descripcion": "10 iniciativas: Valle del Cauca<br> DEDE",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "020-30",
+  "titulo": "Turismo comunitario emisión videos cortos Travolution",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T15:00:00",
+  "hora": "POR CONFIRMAR",
+  "lugar": "Museo La Tertulia, Cinemateca",
+  "descripcion": "Videos cortos de 2' a 5'<br> Equipo Territorial",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "021-30",
+  "titulo": "Cine para la vida Proyección de documentales 'Acuatenientes'",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T17:00:00",
+  "hora": "5:00 pm a 7:00 pm",
+  "lugar": "Museo La Tertulia, Cinemateca",
+  "descripcion": "<b>Duración:</b> 16 min<br> 'Atrato envenenao: la huella del mercurio'<br> <b>Duración:</b> 38 Min<br> Colombia<br> DACMI",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "022-30",
+  "titulo": "Saberes y voces: Proyección de cortos documentales 'Hagamos el curare'",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T19:00:00",
+  "hora": "7:00 pm a 9:30 pm",
+  "lugar": "Museo La Tertulia, Cinemateca",
+  "descripcion": "'Inchishashiyi Barí' <br> 'Corazón del mundo' <br> 'Bocachico'<br> 'Kunsamaku Zaku'<br> 72 minutos<br> DACMI",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "023-30",
+  "titulo": "Espíritu de pájaro",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T15:00:00",
+  "hora": "POR CONFIRMAR",
+  "lugar": "Eventos, Teatro Municipal",
+  "descripcion": "Colegio del Cuerpo",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "024-30",
+  "titulo": "Foro de países megadiversos 'Alimentación, megadiversidades y hambre'",
+  "fecha": "Miércoles 30 de octubre",
+  "fechaISO": "2024-10-30T15:00:00",
+  "hora": "3:00 pm a 6:00 pm",
+  "lugar": "Oriente, Teatro la Unión",
+  "descripcion": "<b>Ponenentes:</b><br> 1) Theophile Yuma Kalulu (profesor universitario y miembro de Tropenbos)<br> 2) Juliana Millán (miembro de ATI y RENAF)<br> 3) Valerin Saurith (investigadora y docente)<br> 4) Christina Eghenter (WWF Indonesia)<br> 5) Mercedes Gould (Amigos de la Tierra)<br> <b>Modera:</b> María Clara Van der Hammen<br> DEDE",
+  "tematica": "Salud y alimentación"
+},
+{
+  "id": "001-23",
+  "titulo": "La ruta de los cuidados: Derechos bioculturales en la implementación de la Paz Total",
+  "fecha": "23 de octubre ",
+  "fechaISO": "2024-10-23T14:00:00",
+  "hora": "02:00 p.m",
+  "lugar": "Area-Biblioteca Departamental Jorge Garcés Borrero-lugar-Auditorio Óscar Gerardo Ramos",
+  "descripcion": "Conversatorio (una hora) y proyección cortometraje",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "002-23",
+  "titulo": "Encuentro campesino para el intercambio de prácticas, saberes y memorias bioculturales de conservación de la biodiversidad campesina",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T10:00:00",
+  "hora": "10:00 am a 12:00 m",
+  "lugar": "Area-Zona Verde-Lugar-Tarimas-Espacio-Gran tarima Farallanos",
+  "descripcion": "Organizaciones campesinas D. Poblaciones",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "003-23",
+  "titulo": "Corporación Criterio Teatral 'Agua'",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T10:00:00",
+  "hora": "10:00 a.m a 12:00 m ",
+  "lugar": "Area-Zona Verde-Lugar-Tarimas-Espacio-Gran tarima Farallones",
+  "descripcion": "Obra de teatro (28´)",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "004-23",
+  "titulo": "Corporación Criterio Teatral 'Agua'",
+  "fecha": "23 de octubre ",
+  "fechaISO": "2024-10-23T14:00:00",
+  "hora": "02:00 p.m a 02:30 p.m",
+  "lugar": "Área-Zona Verde-Lugar-Tarimas-Espacio-Gran tarima Farallones",
+  "descripcion": "Obra de teatro (28') Equipo Territorial",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "005-23",
+  "titulo": "Conversatorio: Lanzamiento podcast 'Jóvenes rurales y acción climática'",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T15:00:00",
+  "hora": "03:00 p.m a 04:00 p.m",
+  "lugar": "Zona Verde-Tarimas-Gran tarima Farallones",
+  "descripcion": "Invitados:Población Awá, población Afro,población campesina D. Poblaciones",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "006-23",
+  "titulo": "Agrupación Socavón de Timbiquí",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T15:00:00",
+  "hora": "03:00 p.m a 04:00 p.m",
+  "lugar": "Area-Zona verde-Lugar-Tarimas-Tertuliadero",
+  "descripcion": "Música",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "007-23",
+  "titulo": "Afro Legends ",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T15:00:00",
+  "hora": "05:30 p.m a 06:15 p.m",
+  "lugar": "Area-Zona verde-Lugar-Tarimas-Tertuliadero",
+  "descripcion": "8 pesonas",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "008-23",
+  "titulo": "Edson Velandia y Orquesta La Bellecera",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T18:30:00",
+  "hora": "06:30 p.m a 07:15 p.m",
+  "lugar": "Area-Zona verde-Lugar-Tarimas-Tertuliadero",
+  "descripcion": "Edson Velandia y Orquesta La Bellecera",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "009-23",
+  "titulo": "Rancho Aparte",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T19:30:00",
+  "hora": "07:30 p.m a 08:15 p.m",
+  "lugar": "Area-Zona verde-Lugar-Tarimas-Tertuliadero",
+  "descripcion": "Rancho Aparte",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "010-23",
+  "titulo": "FESTIVAL DE LA BIODIVERSIDAD",
+  "fecha": "",
+  "fechaISO": "2024-10-23T15:00:00",
+  "hora": " 11:00 a.m a 12:00 m",
+  "lugar": "Area-Zona verde-Lugar-Tarimas-Tertuliadero",
+  "descripcion": "Extensión foro uso cultural de la hoja de coca 'Las plantas maestras en los tiempos contemporáneos, usos tradicionales y saberes globales'<br>Invitados: Fabiola Piñacue Achicue<br>José Herney Ruiz DEDE",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "011-23",
+  "titulo": "Foro Salvar el Río Magdalena",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T13:00:00",
+  "hora": " 01:00 p.m a 03:00 p.m",
+  "lugar": "Area-Zona verde-Lugar-Tarimas-Tertuliadero",
+  "descripcion": "Miller Armin Dussan Calderón Fabio Rincón Cardona Freddy Leonardo Franco Enrique Martínez Beltrán Mariluz Rodríguez Velásquez Proyecto aprobado por Curaduría",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "012-23",
+  "titulo": "Foro Salvar el Río Magdalena",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T15:00:00",
+  "hora": "03:00 p.m a 06:00 p.m",
+  "lugar": "Area-Zona verde-Lugar-Tarimas-Tertuliadero",
+  "descripcion": "William Ospina<br>Wade Davis<br>Proyecto aprobado por Curaduría",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "013-23",
+  "titulo": "Performance Chocó – Biodiverso",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T11:00:00",
+  "hora": "11:00 a.m a 11:45 a.m",
+  "lugar": "Area-Zona verde-Lugar-Minitarima Distrito Pacífico y Convergencia regional",
+  "descripcion": "Danza-Conv.Reg.-Chocó",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "014-23",
+  "titulo": "Sonidos del territorio, música para la Tierra",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T14:00:00",
+  "hora": "02:00 p.m a 02:45 p.m",
+  "lugar": "Area-Zona verde-Lugar-Minitarima Distrito Pacífico y Convergencia regional",
+  "descripcion": "Chirimía-Conv.Reg.-Chocó",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "015-23",
+  "titulo": "Cero Copeo",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T15:00:00",
+  "hora": "03:00 p.m a 03:45 p.m",
+  "lugar": "Area-Zona verde-Lugar-Minitarima Distrito Pacífico y Convergencia regional",
+  "descripcion": "6 personas Salsa choke-Oriente - Vicepresidencia",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "016-23",
+  "titulo": "Shaspireman",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T16:00:00",
+  "hora": " 04:00 p.m a 04:45  p.m",
+  "lugar": "Area-Zona verde-Lugar-Minitarima Distrito Pacífico y Convergencia regional",
+  "descripcion": "6 personas Reggaetón-Oriente - Vicepresidencia",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "017-23",
+  "titulo": "Los Chumidays",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T17:00:00",
+  "hora": "05:00 p.m a 05:45 p.m",
+  "lugar": "Area-Zona verde-Lugar-Minitarima Distrito Pacífico y Convergencia regional",
+  "descripcion": "6 personas-Salsa choke-Oriente - Vicepresidencia",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "018-23",
+  "titulo": "Homilía espiritual de apertura",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T09:00:00",
+  "hora": "09:30 a.m a  09:45 a.m",
+  "lugar": "Area-Zona verde-Lugar-Tarimas-",
+  "descripcion": "Min Ambiente(Fernando García)",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "019-23",
+  "titulo": "Bongos de Bojayá-Música del Pacífico",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T16:00:00",
+  "hora": "04:00 p.m a 04:45 p.m",
+  "lugar": "Area-Zona verde-Lugar-Tarimas-TARIMA DE LAS CULTURAS Y LAS ARTES",
+  "descripcion": "Bongos de Bojayá-Música del Pacífico 6 personas-oriente",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "020-23",
+  "titulo": "Talentos a escena",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T17:00:00",
+  "hora": "05:00 p.m a 05:45 p.m",
+  "lugar": "Area-Zona verde-Lugar-Tarimas-TARIMA DE LAS CULTURAS Y LAS ARTES",
+  "descripcion": "Teatro-oriente",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "021-23",
+  "titulo": "Festival de Economía Popular de la Biodiversidad en las culturas, las artes y los saberes - Cauca ",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T08:00:00",
+  "hora": " 08:00 a.m a 06:00 p.m",
+  "lugar": "Area-Zona verde-Lugar-Stands economías populares zona verde",
+  "descripcion": "(10 stands)DEDE",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "022-23",
+  "titulo": "Monte (Simón) ",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T19:00:00",
+  "hora": "07:00 p.m a 07:45 p.m",
+  "lugar": "Area-YAWA-Lugar-Parque Tecnológico San Fernando (Circuito Terra)-Franja-YAWA(Leo Vilar)",
+  "descripcion": "Monte (Simón) ",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "023-23",
+  "titulo": "Calibélula en las aulas",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T09:00:00",
+  "hora": "09:00 a.m a 10:00 a.m",
+  "lugar": "Area-Museo La Tertulia-Lugar-Cinemateca",
+  "descripcion": "Seis cortos de niños y niñas<br>También selección internacional de contenidos de biodiversidad",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "024-23",
+  "titulo": "Federico Ríos",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T11:00:00",
+  "hora": " 11:00 a.m a 01:00 p.m",
+  "lugar": "Area-Museo La Tertulia-Lugar-Cinemateca",
+  "descripcion": "Federico Ríos",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "025-23",
+  "titulo": "Proyección de la película 'Choibá, la danza de la ballena yubarta'",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T14:00:00",
+  "hora": " 02:00 p.m a 03:45 p.m",
+  "lugar": "Area-Museo La Tertulia-Lugar-Cinemateca",
+  "descripcion": "Duración: 85 minutos<br>Dirección: Simón González Velez Cineforo-Convergencia Regional Pacífico + Vicepresidencia",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "026-23",
+  "titulo": "Turismo comunitario emisión videos cortos Travolution",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T16:00:00",
+  "hora": " 04:00 p.m a 05:00 p.m",
+  "lugar": "Area-Museo La Tertulia-Lugar-Cinemateca",
+  "descripcion": "Videos cortos de 2'a 5'Equipo Territorial",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "027-23",
+  "titulo": "Cine para la vida - Programa Cinemigrante-Proyección de cortometrajes",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T17:00:00",
+  "hora": "05:00 p.m a 07:00 p.m",
+  "lugar": "Area-Museo La Tertulia-Lugar-Cinemateca",
+  "descripcion": "'Aquel cuatro de noviembre''Chindaura'<br>'Víctimas del extractivismo: el otro despojo'<br>Duración: 58 minutos<br>Director: Distintos directores",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "028-23",
+  "titulo": "Cine para la vida - Obras colombianas",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T19:00:00",
+  "hora": " 07:00  p.m a 09:00 p.m",
+  "lugar": "Area-Museo La Tertulia-Cinemateca",
+  "descripcion": "Bosques: El último refugio del aire Chiribiquete, videografía de expedición al centro del mundo Keradóción: 52 minutos",
+  "tematica": "Justicia ambiental y derechos humanos"
+},
+{
+  "id": "029-23",
+  "titulo": "Foros de Economía Circular y Bioeconomía",
+  "fecha": "23 de octubre",
+  "fechaISO": "2024-10-23T14:00:00",
+  "hora": "02:00 p.m a 03:00 p.m ",
+  "lugar": "Area-Universidades-lugar-Universidad Autónoma de Occidente",
+  "descripcion": "Usos culturales de la coca: transformaciones hacia la bioeconomía DEDE ",
+  "tematica": "Justicia ambiental y derechos humanos"
 }
-
 ]

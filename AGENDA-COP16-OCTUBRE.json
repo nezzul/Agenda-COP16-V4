@@ -25,7 +25,7 @@
         "fecha": "21 de octubre",
         "fechaISO": "2024-10-21T10:00:00",
         "hora": "7:00 p. m. a 7:45 p. m.",
-        "lugar": "Gran tarima Farallones",
+        "lugar": "Zona Verde - Gran tarima Farallones",
         "descripcion": "Los hijos de Benkos",
         "tematica": "NBSAP / Conservación restauración, océanos"
       },
@@ -35,8 +35,110 @@
         "fecha": "21 de octubre",
         "fechaISO": "2024-10-21T10:00:00",
         "hora": "8:00 p. m. a 8:45 p. m.",
-        "lugar": "Gran tarima Farallones",
+        "lugar": "Zona verde - Gran tarima Farallones",
         "descripcion": "Alexis Play",
         "tematica": "NBSAP / Conservación restauración, océanos"
       },
+      {
+        "id": "005-21",
+        "titulo": "Urutaú, el pájaro fantasma",
+        "fecha": "21 de octubre",
+        "fechaISO": "2024-10-21T10:00:00",
+        "hora": "3:00 p. m. a 3:45 p. m.",
+        "lugar": "Zona verde - Tarima de las culturas y las artes",
+        "descripcion": "Obra conmemorativa de los 50 años del Teatro Esquina Latina.",
+        "tematica": "NBSAP / Conservación restauración, océanos"
+      },
+      {
+        "id": "006-21",
+        "titulo": "Festival de Economía Popular de la Biodiversidad en las culturas, las artes y los saberes",
+        "fecha": "21 de octubre",
+        "fechaISO": "2024-10-21T10:00:00",
+        "hora": "8:00 a. m. a 6:00 p. m.",
+        "lugar": "Zona verde - Stands economías populares",
+        "descripcion": "Campesinas putumayenses. DEDE.",
+        "tematica": "NBSAP / Conservación restauración, océanos"
+      },
+      {
+        "id": "007-21",
+        "titulo": "Festival de Economía Popular",
+        "fecha": "21 de octubre",
+        "fechaISO": "2024-10-21T10:00:00",
+        "hora": "8:00 a. m. a 6:00 p. m.",
+        "lugar": "Zona verde - Stands economías populares",
+        "descripcion": "Valle del Cauca. DEDE.",
+        "tematica": "NBSAP / Conservación restauración, océanos"
+      },
+      {
+        "id": "008-21",
+        "titulo": "Carreta biocultural itinerante",
+        "fecha": "21 de octubre",
+        "fechaISO": "2024-10-21T10:00:00",
+        "hora": "-",
+        "lugar": "Zona verde - Espacios urbanos",
+        "descripcion": "Activación de difusión - Ternario",
+        "tematica": "NBSAP / Conservación restauración, océanos"
+      },
+      {
+        "id": "009-21",
+        "titulo": "La chaza de Rosa PIC NIC",
+        "fecha": "21 de octubre",
+        "fechaISO": "2024-10-21T14:00:00",
+        "hora": "-",
+        "lugar": "Zona verde - Espacios urbanos",
+        "descripcion": "Ternario - Fanzines, biblioteca y algo de comer",
+        "tematica": "NBSAP / Conservación restauración, océanos"
+      },
+      {
+        "id": "010-21",
+        "titulo": "Guacamaya",
+        "fecha": "21 de octubre",
+        "fechaISO": "2024-10-21T14:00:00",
+        "hora": "-",
+        "lugar": "YAWA - Parque Tecnológico San Fernando (Circuito Terra)",
+        "descripcion": "Generación Unificada con inteligencia Artificial para la Conservación Amazónica y Ambiental",
+        "tematica": "NBSAP / Conservación restauración, océanos"
+      },
+      {
+        "id": "011-21",
+        "titulo": "Proyección de contenidos - Expedición Tribugá",
+        "fecha": "21 de octubre",
+        "fechaISO": "2024-10-21T14:00:00",
+        "hora": "5:00 p. m.",
+        "lugar": "Museo la Tertulia - Cinemateca",
+        "descripcion": "Duración: 52 minutos<br>Directores: Felipe Mesa, Luis Villegas, Francisco Acosta<br>Colombia<br>Cineforo",
+        "tematica": "NBSAP / Conservación restauración, océanos"
+      },
+      {
+        "id": "012-21",
+        "titulo": "Proyección de contenidos - Peligra La Gorgona",
+        "fecha": "21 de octubre",
+        "fechaISO": "2024-10-21T18:00:00",
+        "hora": "6:00 p. m.",
+        "lugar": "Museo la Tertulia - Cinemateca",
+        "descripcion": "Duración: 17 minutos<br>Director: Tomás Méndez<br>Cineforo",
+        "tematica": "NBSAP / Conservación restauración, océanos"
+      },
+      {
+        "id": "013-21",
+        "titulo": "Proyección de contenidos - Convergencia Regional Pacífico + Vicepresidencia",
+        "fecha": "21 de octubre",
+        "fechaISO": "2024-10-21T18:30:00",
+        "hora": "6:30 p. m.",
+        "lugar": "Museo la Tertulia - Cinemateca",
+        "descripcion": "Convergencia Regional Pacífico + Vicepresidencia",
+        "tematica": "NBSAP / Conservación restauración, océanos"
+      },
+      {
+        "id": "014-21",
+        "titulo": "Panel conversatorio con científicos y proyección documental 'Saving Atlanta'",
+        "fecha": "21 de octubre",
+        "fechaISO": "2024-10-21T19:00:00",
+        "hora": "7:00 p. m. a 9:00 p. m.",
+        "lugar": "Museo la Tertulia - Cinemateca",
+        "descripcion": "Directora PhD. Mónica Medina<br>Divulgación y concientización ambiental sobre el estado de los arrecifes en el mundo",
+        "tematica": "NBSAP / Conservación restauración, océanos"
+      },
+
+
 ]

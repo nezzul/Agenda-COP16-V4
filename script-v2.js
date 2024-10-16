@@ -47,6 +47,8 @@ function displayCards(data) {
                                 </div>
                                 <div class="modal-body">
                                     <p style="color:#655557">${item.descripcion}</p>
+                                    <br>
+                                    <p style="font-style:italic; color:#eeeeee; text-align:right">ID= ${item.id}</p>
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-secondary-modal" data-bs-dismiss="modal">Cerrar</button>

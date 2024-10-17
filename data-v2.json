@@ -4609,5 +4609,85 @@
     "lugar": "Cinemateca",
     "descripcion": "Proyección del documental<br>Biodiversidad, interculturalidad y espiritualidad, camino hacia a la paz con la naturaleza - Movimiento Laudato Si Estados Unidos - El Vaticano Cine foro<br>MinAmbiente",
     "tematica": "COP de la gente"
-    }
+    },
+    {
+      "id": "0212-L",
+      "titulo": "Hábitat Arts - Biocrea",
+      "fecha": "23 de octubre a viernes 25 de octubre",
+      "fechaISO": "2024-10-23T09:00:00",
+      "hora": "9:00 a.m - 12:00 p.m",
+      "lugar": "Biblioteca Departamental Jorge Garcés Borrero, Sala Infantil",
+      "descripcion": "Talleres y laboratorios de creación artística y natural<br>Recomienda la biblioteca horario de la tarde<br>Dir. Artes",
+      "tematica": "Justicia ambiental y derechos humanos"
+      },
+      {
+      "id": "0213-L",
+      "titulo": "Hábitat Arts - Biocrea",
+      "fecha": "23 de octubre a viernes 25 de octubre",
+      "fechaISO": "2024-10-24T09:00:00",
+      "hora": "9:00 a.m - 12:00 p.m",
+      "lugar": "Biblioteca Departamental Jorge Garcés Borrero, Sala Infantil",
+      "descripcion": "Talleres y laboratorios de creación artística y natural<br>Recomienda la biblioteca horario de la tarde<br>Dir. Artes",
+      "tematica": "Pueblos y comunidades"
+      },
+      {
+      "id": "0214-L",
+      "titulo": "Hábitat Arts - Biocrea",
+      "fecha": "23 de octubre a viernes 25 de octubre",
+      "fechaISO": "2024-10-25T09:00:00",
+      "hora": "9:00 a.m - 12:00 p.m",
+      "lugar": "Biblioteca Departamental Jorge Garcés Borrero, Sala Infantil",
+      "descripcion": "Talleres y laboratorios de creación artística y natural<br>Recomienda la biblioteca horario de la tarde<br>Dir. Artes",
+      "tematica": "Biodiversidad y cambio climáticos"
+      },
+      {
+      "id": "0215-L",
+      "titulo": "Siembra - Ríos de vida",
+      "fecha": "21 de octubre a miércoles 23 de octubre",
+      "fechaISO": "2024-10-21T09:00:00",
+      "hora": "9:00 a.m - 10:00 p.m",
+      "lugar": "Parque Tecnológico San Fernando (Circuito Terra)",
+      "descripcion": "Espacio de encuentro, pensamiento, reconocimiento y proyección de la riqueza biocultural de los territorios a través de una programación artística y cultural<br>Instalación tecnodiversa interactiva, mapping, autorrepresentación, reconocimiento y proyección de los territorios PDTE como cuidadores de la biodiversidad y el agua, y a su gente como agentes de cambio y portadores de cultura<br>CNA Delia Zapata",
+      "tematica": "NBSAP / Conservación restauración, océanos"
+      },
+      {
+      "id": "0216-L",
+      "titulo": "Siembra - Ríos de vida",
+      "fecha": "21 de octubre a miércoles 23 de octubre",
+      "fechaISO": "2024-10-22T09:00:00",
+      "hora": "9:00 a.m - 10:00 p.m",
+      "lugar": "Parque Tecnológico San Fernando (Circuito Terra)",
+      "descripcion": "Espacio de encuentro, pensamiento, reconocimiento y proyección de la riqueza biocultural de los territorios a través de una programación artística y cultural<br>Instalación tecnodiversa interactiva, mapping, autorrepresentación, reconocimiento y proyección de los territorios PDTE como cuidadores de la biodiversidad y el agua, y a su gente como agentes de cambio y portadores de cultura<br>CNA Delia Zapata",
+      "tematica": "Recursos genéticos y protocolos - Género"
+      },
+      {
+      "id": "0217-L",
+      "titulo": "Siembra - Ríos de vida",
+      "fecha": "21 de octubre a miércoles 23 de octubre",
+      "fechaISO": "2024-10-23T09:00:00",
+      "hora": "9:00 a.m - 10:00 p.m",
+      "lugar": "Parque Tecnológico San Fernando (Circuito Terra)",
+      "descripcion": "Espacio de encuentro, pensamiento, reconocimiento y proyección de la riqueza biocultural de los territorios a través de una programación artística y cultural<br>Instalación tecnodiversa interactiva, mapping, autorrepresentación, reconocimiento y proyección de los territorios PDTE como cuidadores de la biodiversidad y el agua, y a su gente como agentes de cambio y portadores de cultura<br>CNA Delia Zapata",
+      "tematica": "Justicia ambiental y derechos humanos"
+      },
+      {
+      "id": "0218-L",
+      "titulo": "La herida de la naturaleza",
+      "fecha": "24 de octubre a viernes 25 de octubre",
+      "fechaISO": "2024-10-24T09:00:00",
+      "hora": "9:00 a.m - 5:00 p.m",
+      "lugar": "Parque Tecnológico San Fernando (Circuito Terra)",
+      "descripcion": "DACMI + Universidad del Valle + Mutante org",
+      "tematica": "Pueblos y comunidades"
+      },
+      {
+      "id": "0219-L",
+      "titulo": "La herida de la naturaleza",
+      "fecha": "24 de octubre a viernes 25 de octubre",
+      "fechaISO": "2024-10-25T09:00:00",
+      "hora": "9:00 a.m - 5:00 p.m",
+      "lugar": "Parque Tecnológico San Fernando (Circuito Terra)",
+      "descripcion": "DACMI + Universidad del Valle + Mutante org",
+      "tematica": "Biodiversidad y cambio climático"
+      }
 ]

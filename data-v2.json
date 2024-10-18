@@ -1532,12 +1532,12 @@
   
   {
     "id": "001-25",
-    "titulo": "Vidas campesinas",
+    "titulo": "Conversatorio Otros Mundos Ya Existen: Representación mediática de las vidas campesinas",
     "fecha": "Viernes 25 de octubre",
     "fechaISO": "2024-10-25T15:00:00",
     "hora": "3:00 pm a 5:00 pm",
-    "lugar": "Biblioteca Departamental Jorge Garcés Borrero, Auditorio Óscar Gerardo Ramos",
-    "descripcion": "Taller de representación sobre vidas campesinas. <br>ICANH",
+    "lugar": "Auditorio Oscar Gerardo Ramos, Biblioteca Departamental",
+    "descripcion": "Modera: Carmen Mora, Estrategia Vidas Campesinas ICANH<br>Invitados:<br>- Natalia Cardona, DACMI<br>- Maria Clara Van der Hammen, Tropenbos<br>- Adrián Cardozo, Colectivo Cultura Rural, Cali<br>ICANH",
     "tematica": "Biodiversidad y cambio climático"
 },
 {
@@ -2182,12 +2182,12 @@
 },
 {
   "id": "022-27",
-  "titulo": "Otros mundos ya existen",
+  "titulo": "Presentación de la serie infantil de Vidas Campesinas",
   "fecha": "Domingo 27 de octubre",
   "fechaISO": "2024-10-27T14:00:00",
   "hora": "2:00 pm a 3:00  pm",
-  "lugar": "Museo La Tertulia, Cinemateca",
-  "descripcion": "Presentación de la serie infantil 'Vidas campesinas' <br>Modera: Carmen Mora <br>ICANH",
+  "lugar": "Cinemateca La Tertulia ",
+  "descripcion": "Presentación de la serie infantil de Vidas Campesinas",
   "tematica": "Educación y sistemas de conocimiento"
 },
 {
@@ -2531,12 +2531,12 @@
 
 {
   "id": "029-24",
-  "titulo": "'Otros mundos ya existen' Presentación de la serie infantil 'Vidas campesinas' y de 'Diarios del agua'",
+  "titulo": "Presentación de la serie audiovisual de Vidas Campesinas y Diarios del agua.",
   "fecha": "Jueves 24 de octubre",
   "fechaISO": "2024-10-24T14:00:00",
   "hora": "02:00 p.m a 04:00 p.m",
-  "lugar": "Museo La Tertulia-Cinemateca",
-  "descripcion": "'Otros mundos ya existen' Presentación de la serie infantil 'Vidas campesinas' y de 'Diarios del agua' Modera: Carmen Mora ICANH",
+  "lugar": "Cinemateca La Tertulia",
+  "descripcion": "Modera: Carmen Mora",
   "tematica": "Pueblos y comunidades"
 },
 
